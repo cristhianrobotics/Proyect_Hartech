@@ -1,0 +1,23 @@
+{
+  "result": "PASS",
+  "nonvisual_urdf_unchanged": true,
+  "unchanged_files": [
+    "config/robot_parameters.yaml",
+    "urdf/robot_6dof.urdf.xacro",
+    "launch/display.launch.py",
+    "rviz/robot_6dof.rviz",
+    "scripts/export_meshes.py",
+    "docs/mesh_audit.json",
+    "meshes/base_body.stl",
+    "meshes/link_1.stl",
+    "meshes/link_2.stl",
+    "meshes/link_3.stl",
+    "meshes/link_4.stl",
+    "meshes/link_5.stl",
+    "meshes/link_6.stl"
+  ],
+  "source": "STEP embedded colors",
+  "colors": 42,
+  "colored_meshes": 7,
+  "all_visual_triangles_exactly_preserved": true
+}

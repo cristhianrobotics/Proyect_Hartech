@@ -1,0 +1,69 @@
+{
+  "target": "Ubuntu 22.04 / ROS 2 Humble / Gazebo Classic 11",
+  "verified_utc": "2026-10-01T04:42:55.600797+00:00",
+  "original_files_unchanged_except_declared_build_metadata_and_readme": true,
+  "original_meshes_and_cad_config_byte_identical": true,
+  "original_rviz_launch_xacro_and_urdf_byte_identical": true,
+  "syntax_and_residual_namespace_checks": "PASS",
+  "real_xacro_expansion_home_and_zero": "PASS (Xacro 2.1.1)",
+  "gazebo_urdf_structure": {
+    "links": 10,
+    "joints": 9,
+    "revolute": 6,
+    "fixed": 3,
+    "added_root": "world"
+  },
+  "existing_visuals_inertias_frames_axes_and_angular_limits_preserved": true,
+  "ros2_control_and_plugin_configuration": "PASS: six position command interfaces",
+  "random_fk_cases": 100,
+  "maximum_transform_change_vs_original": 0.0,
+  "collision_proxies": "PASS: seven local boxes enclose the original STL bounds",
+  "self_collision_enabled": false,
+  "controller_configuration_consistency": "PASS",
+  "trajectory_helper_pure_function_tests": "PASS: HOME/zero/test and six invalid inputs",
+  "launch_startup_review": "PASS: spawn -> broadcaster -> arm controller, with error exits",
+  "dependency_and_installation_review": "PASS",
+  "dependencies_added": [
+    "action_msgs",
+    "builtin_interfaces",
+    "control_msgs",
+    "controller_manager",
+    "gazebo_ros",
+    "gazebo_ros2_control",
+    "joint_state_broadcaster",
+    "joint_trajectory_controller",
+    "rclpy",
+    "ros2controlcli",
+    "sensor_msgs",
+    "trajectory_msgs"
+  ],
+  "tools_available": {
+    "ros2": false,
+    "colcon": false,
+    "gazebo": false,
+    "gzserver": false,
+    "gz": false
+  },
+  "colcon_build_test": "NOT RUN: ROS 2, ament_cmake and colcon are absent",
+  "gazebo_runtime_test": "NOT RUN: Gazebo Classic and gazebo_ros2_control are absent",
+  "controller_activation_and_trajectory_execution_test": "NOT RUN: requires ROS 2 / Gazebo",
+  "physical_actuator_identification": "NOT PERFORMED: ideal position actuator with provisional limits",
+  "result": "PASS_OFFLINE_CHECKS_RUNTIME_PENDING",
+  "new_files": [
+    "config/gazebo_controllers.yaml",
+    "config/gazebo_simulation.yaml",
+    "docs/GAZEBO_CLASSIC_11.md",
+    "docs/gazebo_validation.json",
+    "launch/gazebo.launch.py",
+    "scripts/send_trajectory.py",
+    "urdf/gazebo_macros.xacro",
+    "urdf/robot_6dof.gazebo.xacro",
+    "worlds/robot_lab.world"
+  ],
+  "modified_files": [
+    "CMakeLists.txt",
+    "README.md",
+    "docs/delivery_manifest.json",
+    "package.xml"
+  ]
+}

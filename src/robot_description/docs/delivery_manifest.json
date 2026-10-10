@@ -1,0 +1,398 @@
+{
+  "created_utc": "2026-09-24T16:02:28.172208+00:00",
+  "sources": {
+    "04_Ensamblajes/ROBOT_6DOF.iam": {
+      "sha256": "f34b42fb64ab4f41a4c42ffe78941a89a194f16ff3b723c42bc08df1d32f08bf",
+      "bytes": 7504896
+    },
+    "06_STEP/ROBOT_6DOF.step": {
+      "sha256": "00d76554187bb234f99740b54bbfb3e7ab20d290d3316527bf420ad9bbc06764",
+      "bytes": 42329112
+    },
+    "01_Calculos/PROPIEDADES_INERCIALES.csv": {
+      "sha256": "2b1e55b4f115f1d787d4331f418b77e3dc16444b6e2c0b48d9206b38ebcc6e45",
+      "bytes": 2201
+    },
+    "01_Calculos/GEOMETRIA_FINAL_JOINTS.csv": {
+      "sha256": "4e36691b805fca82144091180cae4c12ac2a5b024f8a3fe9c2cad52c1057bf23",
+      "bytes": 1035
+    }
+  },
+  "cad_sources_modified": false,
+  "native_manifest_matching_files": 458,
+  "converter": "cadquery-ocp 8.0.1.0.0",
+  "xacro": "2.1.1",
+  "checks": {
+    "result": "PASS_VISUAL_KINEMATIC_WITH_MESH_LIMITATIONS",
+    "xacro_matches_urdf": true,
+    "links": 9,
+    "physical_links": 7,
+    "revolute_joints": 6,
+    "fixed_joints": 2,
+    "axis_all_local_z": true,
+    "mass_kg": 8.008416688468413,
+    "max_home_step_matrix_error": 4.461003459779821e-15,
+    "max_native_joint_geometry_error": 4.461003459779817e-15,
+    "random_fk_cases": 100,
+    "max_random_fk_error": 3.0531133177191805e-15,
+    "inertias_match_native_principal_moments": true,
+    "meshes": [
+      {
+        "file": "base_body.stl",
+        "triangles": 567111,
+        "watertight": false,
+        "open_edges": 4543,
+        "nonmanifold_edges": 1272,
+        "sha256": "e971dae8b6abdb00412d99f3ca5d09f260a11dba3dc07ebc54862190f12b48f6"
+      },
+      {
+        "file": "link_1.stl",
+        "triangles": 576283,
+        "watertight": false,
+        "open_edges": 4543,
+        "nonmanifold_edges": 1536,
+        "sha256": "aa63c1584fc251bad094ec3e93b9de206d683e2463f3994204a655d856b3ffe7"
+      },
+      {
+        "file": "link_2.stl",
+        "triangles": 565313,
+        "watertight": false,
+        "open_edges": 4543,
+        "nonmanifold_edges": 1726,
+        "sha256": "466a4a86449f6d8a6bd6ceb4149289b97e5ae7f4290829e0d178bc21a4aa431e"
+      },
+      {
+        "file": "link_3.stl",
+        "triangles": 121866,
+        "watertight": false,
+        "open_edges": 0,
+        "nonmanifold_edges": 2466,
+        "sha256": "be19d7aa1fadf54e36f21eceb078803f0e4afd9f060eb6ded4b742b5ff56d0ad"
+      },
+      {
+        "file": "link_4.stl",
+        "triangles": 95996,
+        "watertight": false,
+        "open_edges": 0,
+        "nonmanifold_edges": 556,
+        "sha256": "2dfad04f78ad649ce282753e267e03cadc8625b3e6b8cfb4f714040d7553850e"
+      },
+      {
+        "file": "link_5.stl",
+        "triangles": 83568,
+        "watertight": false,
+        "open_edges": 0,
+        "nonmanifold_edges": 1254,
+        "sha256": "07a03f17dcb0a89fb9a1fc9ef4e014fe006f19d62a95ed2199ace550aad0591e"
+      },
+      {
+        "file": "link_6.stl",
+        "triangles": 17060,
+        "watertight": false,
+        "open_edges": 0,
+        "nonmanifold_edges": 325,
+        "sha256": "73baabe750c92d2beacb16868b541719dee44afa2c5408b2c2e5573f293481f4"
+      }
+    ],
+    "mesh_limitations": "Multipart CAD surfaces are not watertight manifold solids. Motor surfaces in base_body/link_1/link_2 contain open tessellation edges. Not certified for dynamics or collision safety.",
+    "ros2_rviz_runtime_test": "NOT RUN: ROS 2 is not installed in this workspace",
+    "hardware_or_dynamic_validation": "NOT PERFORMED",
+    "limits": "CAD positional limits provisional; effort=velocity=0 by user request"
+  },
+  "files": {
+    "CMakeLists.txt": {
+      "sha256": "5b730ee17e7fec713547ac26947430abed3718049b8f8e5242ae9fb8107c2163",
+      "bytes": 1336
+    },
+    "LICENSE": {
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "bytes": 11358
+    },
+    "README.md": {
+      "sha256": "9ccbb52b19b7a80a2645a059c419429a984349c658cf719024800ed3faccb358",
+      "bytes": 11583
+    },
+    "config/gazebo_controllers.yaml": {
+      "sha256": "b0cb9c01acbf1129479cca41583651aa8b6a07bf03207d63b5b9fc48dc4d050d",
+      "bytes": 1118
+    },
+    "config/gazebo_simulation.yaml": {
+      "sha256": "b6b91932e8e3781f1c050c07c8baca6a5ec0a07057c89a787d3523277da859f5",
+      "bytes": 2687
+    },
+    "config/robot_parameters.yaml": {
+      "sha256": "ec40d058fa9bb64a93541191821aa8ba435edcda92a042045b233aef0e5b8663",
+      "bytes": 4273
+    },
+    "docs/GAZEBO_CLASSIC_11.md": {
+      "sha256": "1dc5f9e856ed3b37cef1ea3c388a7db1b4fb92e4ea6a00f3842d7a30e95f233a",
+      "bytes": 8508
+    },
+    "docs/MIGRACION.md": {
+      "sha256": "0fc05994719bbecc83a8e93c64585eb13d6e3290fff76ff6912a0ba306db40ba",
+      "bytes": 5198
+    },
+    "docs/base_body_colors.npz": {
+      "sha256": "57565a3afb9051605222a6b8adf2ec6ad61479becbe140da0e462c2cf0bde460",
+      "bytes": 3144
+    },
+    "docs/color_audit.json": {
+      "sha256": "6b406810f8d61ce92f9f9f6d800de2bba120d81e102c7e15db3c433c590bf923",
+      "bytes": 152086
+    },
+    "docs/color_only_verification.json": {
+      "sha256": "8e47b409aed892487d2af55ea46b90feea9f93c15046b34915e24c1789dc5a1f",
+      "bytes": 600
+    },
+    "docs/gazebo_validation.json": {
+      "sha256": "e854b0021d03fbce18460a1b3fc40ee31be360949b632de2fafb95fb76e62b16",
+      "bytes": 2485
+    },
+    "docs/link_1_colors.npz": {
+      "sha256": "7d93d3a2217dab1c4259db9786d799450db2d7757f4943757595eeca249d28a5",
+      "bytes": 3315
+    },
+    "docs/link_2_colors.npz": {
+      "sha256": "d9c6ea85a1718b01af379b46bacae6425e4113171b329b26039d3618eac8f342",
+      "bytes": 3268
+    },
+    "docs/link_3_colors.npz": {
+      "sha256": "b5e1695404af85558cf1bac31c1e8789248aa23829898c2563191816a8cd1bf6",
+      "bytes": 2127
+    },
+    "docs/link_4_colors.npz": {
+      "sha256": "1c771795e3243b2d7cc6665db7c4d6cd1ea3073087da36706475b7edbe1f1d98",
+      "bytes": 1881
+    },
+    "docs/link_5_colors.npz": {
+      "sha256": "f304bddc4da50e8673ee8beeb703b874e4968d9c425af78939e3cfb0690bd164",
+      "bytes": 1863
+    },
+    "docs/link_6_colors.npz": {
+      "sha256": "3088e3f1ae2785ff00ce4a9b402a396d3e06c8ba91b0c76704f24f72a6d43eff",
+      "bytes": 1255
+    },
+    "docs/mesh_audit.json": {
+      "sha256": "efa86fed3a690f52cf0d8a8a1305602ef0ce799fe195ec741fc0bb4c9bc8757d",
+      "bytes": 147892
+    },
+    "docs/mesh_topology.json": {
+      "sha256": "8e6f97c8002ca9c3818934ae2d4b30283f283e4feebc17ec7d08825544fb9098",
+      "bytes": 958
+    },
+    "docs/migration_validation.json": {
+      "sha256": "ff5d16b8ec94af6c8a069c2448f7f6e01ab09b1896972aee76b82df1bc1f734d",
+      "bytes": 7952
+    },
+    "docs/nominal_frames.json": {
+      "sha256": "5952cc3261046ea22a2e9709bea66d771da6f5f008732e625c5e53bdf7876a6b",
+      "bytes": 2110
+    },
+    "docs/robot_preview.png": {
+      "sha256": "b9e4c14cf3f4f542812c55afb3e400666a664e19d5f79f1361a3d22f1494bf81",
+      "bytes": 143958
+    },
+    "docs/source_audit.json": {
+      "sha256": "12aff0ed51513138670376cc12c5d7abb8f44f6f2866cbffb7c52851926e67b7",
+      "bytes": 133674
+    },
+    "docs/source_export_log.txt": {
+      "sha256": "4b2b7fba85c2355b157621d1d94527ac4986c7ab1f1d327f3e3cd4b32fb2ba30",
+      "bytes": 539
+    },
+    "docs/sources/CORRECCION_PROPIEDADES_FISICAS_V2.md": {
+      "sha256": "37179d6af8a2cdb929c79cf11079e65281e2a9dc63d8cae7f330cd2548b5550e",
+      "bytes": 4119
+    },
+    "docs/sources/DECISIONES_DISENO.md": {
+      "sha256": "8d0e70c80fb5e44670b5ddbec0b5067b6fbbf8cc0d574cd42abddeb6e89f194c",
+      "bytes": 12663
+    },
+    "docs/sources/GEOMETRIA_FINAL_JOINTS.csv": {
+      "sha256": "4e36691b805fca82144091180cae4c12ac2a5b024f8a3fe9c2cad52c1057bf23",
+      "bytes": 1035
+    },
+    "docs/sources/INERCIAS_API_AUDITORIA_FINAL.csv": {
+      "sha256": "26d7dba119c68de581d54f2dd50ff1bc276ed67056a2d2142cf92b7ed2207786",
+      "bytes": 1938
+    },
+    "docs/sources/INVENTARIO_ARCHIVOS_ACTIVOS.csv": {
+      "sha256": "7e3d47a60c689f7c0c147508997e08a49c822893ac6925d67f6f65b07e1a5d6b",
+      "bytes": 86005
+    },
+    "docs/sources/INVENTARIO_OCURRENCIAS_ACTIVAS.csv": {
+      "sha256": "608dccf013e6d8bba683948b2ec3d755965f4bdd1e4743cafb1278bebaf45d7f",
+      "bytes": 98877
+    },
+    "docs/sources/LIMITES_ARTICULARES.md": {
+      "sha256": "2b2c2ad0d07a46aab1811d81019df04f8a6904652b5ccf6bc4e0186b91f4953f",
+      "bytes": 7867
+    },
+    "docs/sources/POSES_VERIFICADAS.csv": {
+      "sha256": "0f4e94f47deb4b45e1f061fbd00cf41c3dc40841bd22ca9f117f4e9aa35af6e1",
+      "bytes": 270
+    },
+    "docs/sources/PROPIEDADES_INERCIALES.csv": {
+      "sha256": "2b1e55b4f115f1d787d4331f418b77e3dc16444b6e2c0b48d9206b38ebcc6e45",
+      "bytes": 2201
+    },
+    "docs/sources/RobotBuild.cs": {
+      "sha256": "659560205e18407df31ccc24a746341db5ea5aeb02397088244ce4510b399c75",
+      "bytes": 14848
+    },
+    "docs/sources/RobotPhysicalExportV2.cs": {
+      "sha256": "f1df51cc391ed3b516862341bfa0c27d84db1cfe690ec51909ff316843f33c48",
+      "bytes": 6391
+    },
+    "docs/step_structure.json": {
+      "sha256": "33ab87d39f5733f571065106fb971bf47ec9e36dc7b74de45c91a865de4671e6",
+      "bytes": 4439
+    },
+    "docs/validation.json": {
+      "sha256": "6aca3015ddd9ebdc8f51d8bccd07e761cc6c0b1185eace538ada64bda47cc9d5",
+      "bytes": 2638
+    },
+    "launch/display.launch.py": {
+      "sha256": "044e042c6df2d52316b34c0864c1c6af415c38120c8575c97a7f9229b1653089",
+      "bytes": 1943
+    },
+    "launch/gazebo.launch.py": {
+      "sha256": "18d7336e8a69b3898c278d0e238d12830ac14c290d2704e604ea03fc88bb67e7",
+      "bytes": 4862
+    },
+    "meshes/base_body.dae": {
+      "sha256": "9c3694914877474e4d30d1ea7811eeabbd48e3967d3205d6d64cc0ad97a49f0b",
+      "bytes": 49328635
+    },
+    "meshes/base_body.stl": {
+      "sha256": "e971dae8b6abdb00412d99f3ca5d09f260a11dba3dc07ebc54862190f12b48f6",
+      "bytes": 28355634
+    },
+    "meshes/link_1.dae": {
+      "sha256": "d6aa37fd0c3a1ca1b4168c590eef960e9c697d8f8ad48b366eb9ae62be502e8b",
+      "bytes": 49782713
+    },
+    "meshes/link_1.stl": {
+      "sha256": "aa63c1584fc251bad094ec3e93b9de206d683e2463f3994204a655d856b3ffe7",
+      "bytes": 28814234
+    },
+    "meshes/link_2.dae": {
+      "sha256": "e4719df290226af81c37481135cf6ab31b5ef495f41f350751976d931e47506b",
+      "bytes": 48912558
+    },
+    "meshes/link_2.stl": {
+      "sha256": "466a4a86449f6d8a6bd6ceb4149289b97e5ae7f4290829e0d178bc21a4aa431e",
+      "bytes": 28265734
+    },
+    "meshes/link_3.dae": {
+      "sha256": "af970a9102779a32f170473bc87ef45a596d9f7dfc0791d31ff21c4e3537a726",
+      "bytes": 8143815
+    },
+    "meshes/link_3.stl": {
+      "sha256": "be19d7aa1fadf54e36f21eceb078803f0e4afd9f060eb6ded4b742b5ff56d0ad",
+      "bytes": 6093384
+    },
+    "meshes/link_4.dae": {
+      "sha256": "2ad9d26fa08897bc0899af8e1e82949bd3e4db12d58c02b7d03db508659cb0d4",
+      "bytes": 6644641
+    },
+    "meshes/link_4.stl": {
+      "sha256": "2dfad04f78ad649ce282753e267e03cadc8625b3e6b8cfb4f714040d7553850e",
+      "bytes": 4799884
+    },
+    "meshes/link_5.dae": {
+      "sha256": "5472767b6fc7a40b9085fc66a86d4c6638f89cf25d7b3eabfd77d7cc96d3253e",
+      "bytes": 5851577
+    },
+    "meshes/link_5.stl": {
+      "sha256": "07a03f17dcb0a89fb9a1fc9ef4e014fe006f19d62a95ed2199ace550aad0591e",
+      "bytes": 4178484
+    },
+    "meshes/link_6.dae": {
+      "sha256": "a9b83d30e3a7e63f2ac50476e9f588fa8c6a038e75e7ef390843c536d0a4b688",
+      "bytes": 1082354
+    },
+    "meshes/link_6.stl": {
+      "sha256": "73baabe750c92d2beacb16868b541719dee44afa2c5408b2c2e5573f293481f4",
+      "bytes": 853084
+    },
+    "package.xml": {
+      "sha256": "fcaca9b83ccb2e79200cf65c59491005dc24451107daef921da15050b3f61db7",
+      "bytes": 1561
+    },
+    "rviz/robot_6dof.rviz": {
+      "sha256": "b24444823e6af471fdd4d8a257c0515d5e155c0217dc0eaf2f46ba451718c5bd",
+      "bytes": 1038
+    },
+    "scripts/audit_sources.py": {
+      "sha256": "e9e6912418441b71bd8ac32b73fda3a167d44fd646dcfeca3b4559cea8f33b98",
+      "bytes": 1289
+    },
+    "scripts/build_description.py": {
+      "sha256": "46dda94562616339e30dc108fa701d8da50e15307c329a25ad211d65a333cf49",
+      "bytes": 6789
+    },
+    "scripts/export_meshes.py": {
+      "sha256": "937251ceb9a1239aa900a9e80e294159eb915defc4a7f0581499acef3462fff3",
+      "bytes": 5460
+    },
+    "scripts/export_visual_colors.py": {
+      "sha256": "dac99affe1019908f08736dd4b3c0afae5c05c3fad78db74b0bdf2486f3876df",
+      "bytes": 7865
+    },
+    "scripts/inspect_step.py": {
+      "sha256": "e316a8e6beb95543b4c0d70cea27985ac9ccda877c509c48126d95b413c88da3",
+      "bytes": 2090
+    },
+    "scripts/regenerate_urdf.py": {
+      "sha256": "060b0e4c8aa9bb53ae5e8b69d13c5a74e19281eb55d8cccd6d459f951a672fbb",
+      "bytes": 667
+    },
+    "scripts/render_preview.py": {
+      "sha256": "1ed574e06c521624a8e2afab9c31a6e40a86c79d66204832086cfe8a1edc5bb8",
+      "bytes": 3864
+    },
+    "scripts/requirements-export.txt": {
+      "sha256": "59571a0bd88fe62d0411e1110f4ada87ae088ea37943c4151fee30a5be062a1c",
+      "bytes": 235
+    },
+    "scripts/send_trajectory.py": {
+      "sha256": "961c648f34eedeece4ffe7c299b07f7d546d87d50ae9f6c20f8188dd7da8677c",
+      "bytes": 6687
+    },
+    "scripts/validate_description.py": {
+      "sha256": "feaf3c2b5c7a0523c860cb56236b519cc77a1820b71c8aed5197328d5be270d2",
+      "bytes": 7789
+    },
+    "urdf/cad_macros.xacro": {
+      "sha256": "5578ab01f145dc9caefa84048a977aa43ef005e9849a485d8f481ba780c619bd",
+      "bytes": 1483
+    },
+    "urdf/gazebo_macros.xacro": {
+      "sha256": "0635f9b4157375d7e509d1755f3b93dd673fdb4f3aebd7d24b24945d840e87fa",
+      "bytes": 2141
+    },
+    "urdf/robot_6dof.gazebo.xacro": {
+      "sha256": "46bf232355affdc6243757527b4e19bee02230e327281c372eadf95ec8f324bf",
+      "bytes": 3925
+    },
+    "urdf/robot_6dof.urdf": {
+      "sha256": "7cf1b4ef5616014330627fc5de169e8a2f027a64d048e2a581b8ba5a654eb9af",
+      "bytes": 9528
+    },
+    "urdf/robot_6dof.urdf.xacro": {
+      "sha256": "fc9d7bda1ea680383bd81ec5932037d2a8dcbbf9d9fb371976471d4144ecae61",
+      "bytes": 2116
+    },
+    "worlds/robot_lab.world": {
+      "sha256": "a339c148f7f97634df2a5b7158516d5edd4ad7bc9a6e2ae7074f0084d129feed",
+      "bytes": 1498
+    }
+  },
+  "adapted_utc": "2026-10-01T03:43:50.588057+00:00",
+  "current_package": "robot_description",
+  "checks_origin": "Original CAD export verification; current migration checks are in docs/migration_validation.json",
+  "gazebo_added_utc": "2026-10-01T04:44:11.491752+00:00",
+  "gazebo_configuration": "Gazebo Classic 11 / ROS 2 Humble",
+  "gazebo_validation": "docs/gazebo_validation.json"
+}

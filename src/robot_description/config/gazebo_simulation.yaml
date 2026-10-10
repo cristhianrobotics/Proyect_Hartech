@@ -1,0 +1,66 @@
+# Simulation-only values. Original robot_parameters.yaml remains authoritative for CAD.
+status: simulation_only_provisional_values_not_motor_specifications
+backend: Gazebo Classic 11 / gazebo_ros2_control
+collision_mode: local_axis_aligned_boxes_from_original_STL_bounds
+self_collision: false
+joints:
+  joint_1:
+    effort: 50.0
+    velocity: 0.8
+    damping: 0.1
+  joint_2:
+    effort: 50.0
+    velocity: 0.8
+    damping: 0.1
+  joint_3:
+    effort: 30.0
+    velocity: 0.8
+    damping: 0.1
+  joint_4:
+    effort: 10.0
+    velocity: 0.8
+    damping: 0.1
+  joint_5:
+    effort: 10.0
+    velocity: 0.8
+    damping: 0.1
+  joint_6:
+    effort: 5.0
+    velocity: 0.8
+    damping: 0.1
+links:
+  base_body:
+    collision_center: -0.01500000432133675 0 0.08860000222921371
+    collision_size: 0.2400000020861626 0.2099999934434891 0.1772000044584274
+    source_stl: meshes/base_body.stl
+    source_sha256: e971dae8b6abdb00412d99f3ca5d09f260a11dba3dc07ebc54862190f12b48f6
+  link_1:
+    collision_center: -0.02308467403054237 -0.08215103670954704 0.05841614864766598
+    collision_size: 0.1898306533694267 0.3023020699620247 0.2168322987854481
+    source_stl: meshes/link_1.stl
+    source_sha256: aa63c1584fc251bad094ec3e93b9de206d683e2463f3994204a655d856b3ffe7
+  link_2:
+    collision_center: 0.0681791715323925 -1.246854662895203e-05 0.08115103840827942
+    collision_size: 0.270036019384861 0.1336652114987373 0.2943020761013031
+    source_stl: meshes/link_2.stl
+    source_sha256: 466a4a86449f6d8a6bd6ceb4149289b97e5ae7f4290829e0d178bc21a4aa431e
+  link_3:
+    collision_center: 0.04990451782941818 -0.007449999451637268 0.008000001311302185
+    collision_size: 0.1761909574270248 0.1561000049114227 0.1120000034570694
+    source_stl: meshes/link_3.stl
+    source_sha256: be19d7aa1fadf54e36f21eceb078803f0e4afd9f060eb6ded4b742b5ff56d0ad
+  link_4:
+    collision_center: -0.0009016077965497971 -0.03522500395774841 0.0430000014603138
+    collision_size: 0.08819678798317909 0.2004500031471252 0.1660000011324883
+    source_stl: meshes/link_4.stl
+    source_sha256: 2dfad04f78ad649ce282753e267e03cadc8625b3e6b8cfb4f714040d7553850e
+  link_5:
+    collision_center: 0.03640452027320862 -0.008563857525587082 -0.008249999955296516
+    collision_size: 0.1491909623146057 0.09347228705883026 0.1154999993741512
+    source_stl: meshes/link_5.stl
+    source_sha256: 07a03f17dcb0a89fb9a1fc9ef4e014fe006f19d62a95ed2199ace550aad0591e
+  link_6:
+    collision_center: -0.007012384012341499 0 -0.007500000298023224
+    collision_size: 0.05397523567080498 0.03998440876603127 0.03500000014901161
+    source_stl: meshes/link_6.stl
+    source_sha256: 73baabe750c92d2beacb16868b541719dee44afa2c5408b2c2e5573f293481f4

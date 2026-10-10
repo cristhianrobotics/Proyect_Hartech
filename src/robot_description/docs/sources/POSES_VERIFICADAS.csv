@@ -1,0 +1,7 @@
+pose,q1,q2,q3,q4,q5,q6,joints_ok,base_grounded
+HORIZONTAL,0,0,0,0,0,0,True,True
+VERTICAL,0,-90,0,0,0,0,True,True
+EXTENDIDO,30,-20,0,0,0,0,True,True
+MUNECA_INCLINADA,0,-50,80,45,60,90,True,True
+COMPACTO,30,-80,110,0,-30,0,True,True
+HOME,0,-50,80,0,-30,0,True,True

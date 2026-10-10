@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro">
+  <!-- Simulation-only helpers. The original description remains untouched. -->
+  <xacro:macro name="sim_link" params="name data simulation">
+    <link name="${name}">
+      <inertial>
+        <origin xyz="${data['com']}" rpy="0 0 0"/>
+        <mass value="${data['mass']}"/>
+        <inertia ixx="${data['inertia']['ixx']}" ixy="${data['inertia']['ixy']}"
+                 ixz="${data['inertia']['ixz']}" iyy="${data['inertia']['iyy']}"
+                 iyz="${data['inertia']['iyz']}" izz="${data['inertia']['izz']}"/>
+      </inertial>
+      <visual>
+        <origin xyz="0 0 0" rpy="0 0 0"/>
+        <geometry>
+          <mesh filename="$(arg mesh_prefix)/${name}.dae" scale="1 1 1"/>
+        </geometry>
+      </visual>
+      <collision>
+        <origin xyz="${simulation['collision_center']}" rpy="0 0 0"/>
+        <geometry><box size="${simulation['collision_size']}"/></geometry>
+      </collision>
+    </link>
+    <gazebo reference="${name}">
+      <selfCollide>false</selfCollide>
+    </gazebo>
+  </xacro:macro>
+
+  <xacro:macro name="sim_joint" params="name data simulation">
+    <joint name="${name}" type="revolute">
+      <parent link="${data['parent']}"/><child link="${data['child']}"/>
+      <origin xyz="${data['xyz']}" rpy="${data['rpy']}"/>
+      <axis xyz="0 0 1"/>
+      <limit lower="${data['lower']}" upper="${data['upper']}"
+             effort="${simulation['effort']}" velocity="${simulation['velocity']}"/>
+      <dynamics damping="${simulation['damping']}" friction="0.0"/>
+    </joint>
+  </xacro:macro>
+
+  <xacro:macro name="control_joint" params="name data">
+    <joint name="${name}">
+      <command_interface name="position">
+        <param name="min">${data['lower']}</param>
+        <param name="max">${data['upper']}</param>
+      </command_interface>
+      <state_interface name="position">
+        <param name="initial_value">${data['home'] if '$(arg pose)' == 'home' else 0.0}</param>
+      </state_interface>
+      <state_interface name="velocity"/>
+      <state_interface name="effort"/>
+    </joint>
+  </xacro:macro>
+</robot>

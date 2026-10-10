@@ -1,0 +1,77 @@
+{
+  "result": "PASS_VISUAL_KINEMATIC_WITH_MESH_LIMITATIONS",
+  "xacro_matches_urdf": true,
+  "links": 9,
+  "physical_links": 7,
+  "revolute_joints": 6,
+  "fixed_joints": 2,
+  "axis_all_local_z": true,
+  "mass_kg": 8.008416688468413,
+  "max_home_step_matrix_error": 4.461003459779821e-15,
+  "max_native_joint_geometry_error": 4.461003459779817e-15,
+  "random_fk_cases": 100,
+  "max_random_fk_error": 3.0531133177191805e-15,
+  "inertias_match_native_principal_moments": true,
+  "meshes": [
+    {
+      "file": "base_body.stl",
+      "triangles": 567111,
+      "watertight": false,
+      "open_edges": 4543,
+      "nonmanifold_edges": 1272,
+      "sha256": "e971dae8b6abdb00412d99f3ca5d09f260a11dba3dc07ebc54862190f12b48f6"
+    },
+    {
+      "file": "link_1.stl",
+      "triangles": 576283,
+      "watertight": false,
+      "open_edges": 4543,
+      "nonmanifold_edges": 1536,
+      "sha256": "aa63c1584fc251bad094ec3e93b9de206d683e2463f3994204a655d856b3ffe7"
+    },
+    {
+      "file": "link_2.stl",
+      "triangles": 565313,
+      "watertight": false,
+      "open_edges": 4543,
+      "nonmanifold_edges": 1726,
+      "sha256": "466a4a86449f6d8a6bd6ceb4149289b97e5ae7f4290829e0d178bc21a4aa431e"
+    },
+    {
+      "file": "link_3.stl",
+      "triangles": 121866,
+      "watertight": false,
+      "open_edges": 0,
+      "nonmanifold_edges": 2466,
+      "sha256": "be19d7aa1fadf54e36f21eceb078803f0e4afd9f060eb6ded4b742b5ff56d0ad"
+    },
+    {
+      "file": "link_4.stl",
+      "triangles": 95996,
+      "watertight": false,
+      "open_edges": 0,
+      "nonmanifold_edges": 556,
+      "sha256": "2dfad04f78ad649ce282753e267e03cadc8625b3e6b8cfb4f714040d7553850e"
+    },
+    {
+      "file": "link_5.stl",
+      "triangles": 83568,
+      "watertight": false,
+      "open_edges": 0,
+      "nonmanifold_edges": 1254,
+      "sha256": "07a03f17dcb0a89fb9a1fc9ef4e014fe006f19d62a95ed2199ace550aad0591e"
+    },
+    {
+      "file": "link_6.stl",
+      "triangles": 17060,
+      "watertight": false,
+      "open_edges": 0,
+      "nonmanifold_edges": 325,
+      "sha256": "73baabe750c92d2beacb16868b541719dee44afa2c5408b2c2e5573f293481f4"
+    }
+  ],
+  "mesh_limitations": "Multipart CAD surfaces are not watertight manifold solids. Motor surfaces in base_body/link_1/link_2 contain open tessellation edges. Not certified for dynamics or collision safety.",
+  "ros2_rviz_runtime_test": "NOT RUN: ROS 2 is not installed in this workspace",
+  "hardware_or_dynamic_validation": "NOT PERFORMED",
+  "limits": "CAD positional limits provisional; effort=velocity=0 by user request"
+}

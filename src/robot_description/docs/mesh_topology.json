@@ -1,0 +1,51 @@
+[
+  {
+    "name": "base_body.stl",
+    "closed": false,
+    "winding": true,
+    "open_edges": 4543,
+    "nonmanifold_edges": 1272
+  },
+  {
+    "name": "link_1.stl",
+    "closed": false,
+    "winding": true,
+    "open_edges": 4543,
+    "nonmanifold_edges": 1536
+  },
+  {
+    "name": "link_2.stl",
+    "closed": false,
+    "winding": true,
+    "open_edges": 4543,
+    "nonmanifold_edges": 1726
+  },
+  {
+    "name": "link_3.stl",
+    "closed": false,
+    "winding": true,
+    "open_edges": 0,
+    "nonmanifold_edges": 2466
+  },
+  {
+    "name": "link_4.stl",
+    "closed": false,
+    "winding": true,
+    "open_edges": 0,
+    "nonmanifold_edges": 556
+  },
+  {
+    "name": "link_5.stl",
+    "closed": false,
+    "winding": true,
+    "open_edges": 0,
+    "nonmanifold_edges": 1254
+  },
+  {
+    "name": "link_6.stl",
+    "closed": false,
+    "winding": true,
+    "open_edges": 0,
+    "nonmanifold_edges": 325
+  }
+]

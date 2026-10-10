@@ -1,0 +1,25 @@
+# ROS 2
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Entornos virtuales
+venv/
+.venv/
+
+# Archivos temporales
+*.tmp
+*.bak
+*~
+# Visual Studio Code
+.vscode/
+
+# Graficas generadas de cinematica inversa
+error_ikine_*.png
+error_ikine_gazebo_*.png

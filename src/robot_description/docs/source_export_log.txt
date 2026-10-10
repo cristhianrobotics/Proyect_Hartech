@@ -1,0 +1,5 @@
+2026-09-20T07:44:14 PHYSICAL_FINAL_V2 seven links; horizontal derived from local frames; no pose change; inertia sign multiplier=1 principal determinant error=1.4465395778001341E-15
+2026-09-20T07:44:15 JOINT_GEOMETRY_CLOSURE_V1 exported 6 native joint axes to D:\Utec\GPT6\01_Calculos\GEOMETRIA_FINAL_JOINTS.csv
+2026-09-20T07:44:36 MANIFEST native=458 references_missing=False
+2026-09-20T07:45:01 STEP D:\Utec\GPT6\06_STEP\ROBOT_6DOF.step bytes=42329112
+2026-09-20T07:45:17 EXPORT PACKAGE COMPLETE printable_parts=33 native_files=458

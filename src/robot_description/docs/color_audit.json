@@ -1,0 +1,6582 @@
+{
+  "source_step_sha256": "00d76554187bb234f99740b54bbfb3e7ab20d290d3316527bf420ad9bbc06764",
+  "color_space": "sRGB recovered from STEP/XCAF styles",
+  "unique_colors": 42,
+  "geometry_changed": false,
+  "collision_stls_changed": false,
+  "links": [
+    {
+      "link": "base_body",
+      "stl_sha256_unchanged": "e971dae8b6abdb00412d99f3ca5d09f260a11dba3dc07ebc54862190f12b48f6",
+      "triangles": 567111,
+      "dae_sha256": "9c3694914877474e4d30d1ea7811eeabbd48e3967d3205d6d64cc0ad97a49f0b",
+      "triangle_geometry_exact_float32": true,
+      "parts": [
+        {
+          "occurrence": "BASE",
+          "triangles": 3588,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PEDESTAL",
+          "triangles": 548,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PORTARODAMIENTO_132",
+          "triangles": 1292,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROD_J1_132",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.411764706,
+              0.443137255,
+              0.490196078,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PORTARODAMIENTO_160",
+          "triangles": 2844,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROD_J1_160",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.411764706,
+              0.443137255,
+              0.490196078,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ESPACIADOR_-28_-28",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ESPACIADOR_-28_28",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ESPACIADOR_28_-28",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ESPACIADOR_28_28",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "MOTOR_J1",
+          "triangles": 499519,
+          "colors_srgb": [
+            [
+              0.749019598,
+              0.749019598,
+              0.749019598,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "SOPORTE_MOTOR",
+          "triangles": 1300,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "POLEA_MOTRIZ_J1",
+          "triangles": 1028,
+          "colors_srgb": [
+            [
+              0.815686284,
+              0.568627447,
+              0.156862742,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CORREA_J1",
+          "triangles": 592,
+          "colors_srgb": [
+            [
+              0.164705884,
+              0.17647059,
+              0.196078429,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CARCASA_BASE",
+          "triangles": 4336,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CARCASA_BASE_TAPA",
+          "triangles": 1364,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CARCASA_J1_CORREA",
+          "triangles": 1068,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "SOPORTE_ENCODER_J1",
+          "triangles": 6850,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x6_PIE_ENCODER_J1_-20",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x6_PIE_ENCODER_J1_20",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "RODAMIENTO_ENCODER_J1_158",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TAPA_RODAMIENTO_ENCODER_J1_158",
+          "triangles": 1016,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x4_TAPA_ENCODER_J1_158_-6.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x4_TAPA_ENCODER_J1_158_6.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "RODAMIENTO_ENCODER_J1_164",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TAPA_RODAMIENTO_ENCODER_J1_164",
+          "triangles": 908,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x4_TAPA_ENCODER_J1_164_-4.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x4_TAPA_ENCODER_J1_164_4.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J1_EJE",
+          "triangles": 248,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J1_ESPACIADOR",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J1_ENGRANAJE",
+          "triangles": 5866,
+          "colors_srgb": [
+            [
+              0.70588236,
+              0.588235292,
+              0.294117644,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J1_PORTAIMAN",
+          "triangles": 1818,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J1_PRISIONERO_M2x3_J1_155.5_X",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J1_PRISIONERO_M2x3_J1_155.5_Y",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J1_PRISIONERO_M2x3_J1_169_X",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J1_PRISIONERO_M2x3_J1_169_Y",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ENCODER_J1_AS5048A_PLACA_ENV",
+          "triangles": 1068,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.529411766,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_PCB_J1_-9_89.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_PCB_J1_-9_89.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_PCB_J1_-9_89.5",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_PCB_J1_-9_100.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_PCB_J1_-9_100.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_PCB_J1_-9_100.5",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_PCB_J1_9_89.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_PCB_J1_9_89.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_PCB_J1_9_89.5",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_PCB_J1_9_100.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_PCB_J1_9_100.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_PCB_J1_9_100.5",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_CARCASA_ENCODER_J1_83",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x10_CARCASA_ENCODER_J1_83",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_CARCASA_ENCODER_J1_83",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_CARCASA_ENCODER_J1_119",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x10_CARCASA_ENCODER_J1_119",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_CARCASA_ENCODER_J1_119",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J1_IMAN",
+          "triangles": 248,
+          "colors_srgb": [
+            [
+              0.627450987,
+              0.31372549,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CARCASA_ENCODER_J1",
+          "triangles": 1348,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CARCASA_ENGRANAJE_ENCODER_J1",
+          "triangles": 1214,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x4_CARCASA_ENGRANAJE_J1_-24",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x4_CARCASA_ENGRANAJE_J1_24",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PASACABLE_BASE",
+          "triangles": 740,
+          "colors_srgb": [
+            [
+              0.215686275,
+              0.254901962,
+              0.282352938,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HOME_SENSOR_J1",
+          "triangles": 1028,
+          "colors_srgb": [
+            [
+              0.10980392,
+              0.125490196,
+              0.149019609,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TOPE_J1_HOME",
+          "triangles": 524,
+          "colors_srgb": [
+            [
+              0.823529417,
+              0.588235292,
+              0.215686275,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2_5_CLIP_PASACABLE_BASE_-6.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2_5_CLIP_PASACABLE_BASE_6.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HOME_J1_M2_0",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HOME_J1_M2_1",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TOPE_J1_M3_0",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TOPE_J1_M3_1",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PRISIONERO_M3_MOTOR_J1",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.2745098,
+              0.294117644,
+              0.321568622,
+              1.0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "link": "link_1",
+      "stl_sha256_unchanged": "aa63c1584fc251bad094ec3e93b9de206d683e2463f3994204a655d856b3ffe7",
+      "triangles": 576283,
+      "dae_sha256": "d6aa37fd0c3a1ca1b4168c590eef960e9c697d8f8ad48b366eb9ae62be502e8b",
+      "triangle_geometry_exact_float32": true,
+      "parts": [
+        {
+          "occurrence": "EJE_J1",
+          "triangles": 1812,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "POLEA_CONDUCIDA_J1",
+          "triangles": 1096,
+          "colors_srgb": [
+            [
+              0.815686284,
+              0.568627447,
+              0.156862742,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PLATAFORMA",
+          "triangles": 4732,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "MEJILLA_J2_-44",
+          "triangles": 780,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROD_J2_-44",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.411764706,
+              0.443137255,
+              0.490196078,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "MEJILLA_J2_36",
+          "triangles": 3490,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROD_J2_36",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.411764706,
+              0.443137255,
+              0.490196078,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "SOPORTE_MOTOR_J2",
+          "triangles": 1820,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ACOPLE_J2_REX8_D12",
+          "triangles": 2104,
+          "colors_srgb": [
+            [
+              0.658823528,
+              0.698039211,
+              0.737254913,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "EJE_ENTRADA_J2",
+          "triangles": 292,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "APOYO_ENTRADA_-70",
+          "triangles": 268,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROD_ENTRADA_-70",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.411764706,
+              0.443137255,
+              0.490196078,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "APOYO_ENTRADA_-40",
+          "triangles": 268,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROD_ENTRADA_-40",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.411764706,
+              0.443137255,
+              0.490196078,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "POLEA_MOTRIZ_J2",
+          "triangles": 488,
+          "colors_srgb": [
+            [
+              0.815686284,
+              0.568627447,
+              0.156862742,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CORREA_J2",
+          "triangles": 592,
+          "colors_srgb": [
+            [
+              0.164705884,
+              0.17647059,
+              0.196078429,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "MOTOR_J2",
+          "triangles": 499519,
+          "colors_srgb": [
+            [
+              0.749019598,
+              0.749019598,
+              0.749019598,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CARCASA_J2_CORREA",
+          "triangles": 860,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CARCASA_MOTOR_J2_V06",
+          "triangles": 1668,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ESCUADRA_J2_-1",
+          "triangles": 1044,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M5x16_MEJILLA_-1_-25",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M5x16_PIE_-1_-25",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M5_PIE_-1_-25",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.352941175,
+              0.352941175,
+              0.352941175,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M5x16_MEJILLA_-1_25",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M5x16_PIE_-1_25",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M5_PIE_-1_25",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.352941175,
+              0.352941175,
+              0.352941175,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ESCUADRA_J2_1",
+          "triangles": 1044,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M5x16_MEJILLA_1_-25",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M5x16_PIE_1_-25",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M5_PIE_1_-25",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.352941175,
+              0.352941175,
+              0.352941175,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M5x16_MEJILLA_1_25",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M5x16_PIE_1_25",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M5_PIE_1_25",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.352941175,
+              0.352941175,
+              0.352941175,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TOPE_POSITIVO_J2",
+          "triangles": 524,
+          "colors_srgb": [
+            [
+              0.392156864,
+              0.431372552,
+              0.470588241,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x10_TOPE_J2_45",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x10_TOPE_J2_53",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "SOPORTE_ENCODER_J2",
+          "triangles": 4744,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x8_ENCODER_J2_X-19",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x8_ENCODER_J2_X19",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x8_ENCODER_J2_Z76",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x8_ENCODER_J2_Z114",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ENCODER_J2_AS5048A_PLACA_ENV",
+          "triangles": 1068,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.529411766,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_PCB_J2_-9_89.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_PCB_J2_-9_89.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_PCB_J2_-9_89.5",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_PCB_J2_-9_100.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_PCB_J2_-9_100.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_PCB_J2_-9_100.5",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_PCB_J2_9_89.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_PCB_J2_9_89.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_PCB_J2_9_89.5",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_PCB_J2_9_100.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_PCB_J2_9_100.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_PCB_J2_9_100.5",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CARCASA_ENCODER_J2",
+          "triangles": 1348,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_CARCASA_ENCODER_J2_83",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x10_CARCASA_ENCODER_J2_83",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_CARCASA_ENCODER_J2_83",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_CARCASA_ENCODER_J2_119",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x10_CARCASA_ENCODER_J2_119",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_CARCASA_ENCODER_J2_119",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CORONA_LECTURA_J1_60T",
+          "triangles": 5868,
+          "colors_srgb": [
+            [
+              0.737254913,
+              0.568627447,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PRISIONERO_M3x4_CORONA_J1_X",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PRISIONERO_M3x4_CORONA_J1_Y",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ALIVIO_J1",
+          "triangles": 740,
+          "colors_srgb": [
+            [
+              0.215686275,
+              0.254901962,
+              0.282352938,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ALIVIO_J2",
+          "triangles": 740,
+          "colors_srgb": [
+            [
+              0.215686275,
+              0.254901962,
+              0.282352938,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HOME_TARGET_J1",
+          "triangles": 248,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HOME_SENSOR_J2",
+          "triangles": 1028,
+          "colors_srgb": [
+            [
+              0.10980392,
+              0.125490196,
+              0.149019609,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CHAVETA_POLEA_J1",
+          "triangles": 12,
+          "colors_srgb": [
+            [
+              0.823529417,
+              0.666666665,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CHAVETA_ENTRADA_J2",
+          "triangles": 12,
+          "colors_srgb": [
+            [
+              0.823529417,
+              0.666666665,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2_5_CLIP_ALIVIO_J1_-6.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2_5_CLIP_ALIVIO_J1_6.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2_5_CLIP_ALIVIO_J2_-6.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2_5_CLIP_ALIVIO_J2_6.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HOME_J2_M2_0",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HOME_J2_M2_1",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x10_BRIDA_PLATAFORMA_J1_0",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x10_BRIDA_PLATAFORMA_J1_1",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x10_BRIDA_PLATAFORMA_J1_2",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x10_BRIDA_PLATAFORMA_J1_3",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PRISIONERO_M3_POLEA_J1",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.2745098,
+              0.294117644,
+              0.321568622,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "COLLAR_RETENCION_J1_INFERIOR_MONTADO",
+          "triangles": 778,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PRISIONERO_M3_COLLAR_J1",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.2745098,
+              0.294117644,
+              0.321568622,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ESPACIADOR_J1_INF_POLEA",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ESPACIADOR_J1_SUP_POLEA",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ESPACIADOR_J1_CORONA_ENCODER",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ESPACIADOR_ENTRADA_J2_NEG",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ESPACIADOR_ENTRADA_J2_POS",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x14_APRIETE_ACOPLE_J2_-93",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x14_APRIETE_ACOPLE_J2_-75",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "link": "link_2",
+      "stl_sha256_unchanged": "466a4a86449f6d8a6bd6ceb4149289b97e5ae7f4290829e0d178bc21a4aa431e",
+      "triangles": 565313,
+      "dae_sha256": "e4719df290226af81c37481135cf6ab31b5ef495f41f350751976d931e47506b",
+      "triangle_geometry_exact_float32": true,
+      "parts": [
+        {
+          "occurrence": "EJE_J2",
+          "triangles": 380,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "POLEA_J2",
+          "triangles": 1252,
+          "colors_srgb": [
+            [
+              0.815686284,
+              0.568627447,
+              0.156862742,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "BRAZO_PLACA_-32",
+          "triangles": 2832,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CUBO_-32",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "BRAZO_PLACA_28",
+          "triangles": 3734,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CUBO_28",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TRAVESANO_22",
+          "triangles": 1020,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TRAVESANO_138",
+          "triangles": 1020,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "MOTOR_J3",
+          "triangles": 499519,
+          "colors_srgb": [
+            [
+              0.749019598,
+              0.749019598,
+              0.749019598,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "SOPORTE_MOTOR_J3",
+          "triangles": 1836,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ACOPLE_J3_REX8_D12",
+          "triangles": 2104,
+          "colors_srgb": [
+            [
+              0.658823528,
+              0.698039211,
+              0.737254913,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "EJE_ENTRADA_J3",
+          "triangles": 292,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "APOYO_ENTRADA_J3_32",
+          "triangles": 484,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROD_ENTRADA_J3_32",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.411764706,
+              0.443137255,
+              0.490196078,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "APOYO_ENTRADA_J3_62",
+          "triangles": 484,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROD_ENTRADA_J3_62",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.411764706,
+              0.443137255,
+              0.490196078,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "POLEA_MOTRIZ_J3",
+          "triangles": 488,
+          "colors_srgb": [
+            [
+              0.815686284,
+              0.568627447,
+              0.156862742,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CORREA_J3",
+          "triangles": 592,
+          "colors_srgb": [
+            [
+              0.164705884,
+              0.17647059,
+              0.196078429,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PORTARODAMIENTO_J3_-32",
+          "triangles": 1528,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROD_J3_-32",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.411764706,
+              0.443137255,
+              0.490196078,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PORTARODAMIENTO_J3_24",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROD_J3_24",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.411764706,
+              0.443137255,
+              0.490196078,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CARCASA_J3_CORREA",
+          "triangles": 418,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CARCASA_MOTOR_J3_V06",
+          "triangles": 1670,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CARCASA_BRAZO",
+          "triangles": 2416,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x10_UNION_TRAVESANO_V1_22_-1_-10",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x10_UNION_TRAVESANO_V1_22_-1_10",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x10_UNION_TRAVESANO_V1_22_1_-10",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x10_UNION_TRAVESANO_V1_22_1_10",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x10_UNION_TRAVESANO_V1_130_-1_-10",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x10_UNION_TRAVESANO_V1_130_-1_10",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x10_UNION_TRAVESANO_V1_130_1_-10",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x10_UNION_TRAVESANO_V1_130_1_10",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PORTAIMAN_ENCODER_J2",
+          "triangles": 1546,
+          "colors_srgb": [
+            [
+              0.745098043,
+              0.764705876,
+              0.784313732,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "IMAN_DIAMETRAL_ENCODER_J2",
+          "triangles": 248,
+          "colors_srgb": [
+            [
+              0.627450987,
+              0.31372549,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PRISIONERO_M2x3_ENCODER_J2_X",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PRISIONERO_M2x3_ENCODER_J2_Z",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "SOPORTE_ENCODER_J3",
+          "triangles": 5170,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3_BASE_ENCODER_J3_X-16.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3_BASE_ENCODER_J3_X16.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3_BASE_ENCODER_J3_Z-16.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3_BASE_ENCODER_J3_Z16.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ENCODER_J3_AS5048A_PLACA_ENV",
+          "triangles": 1068,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.529411766,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_PCB_J3_-9_-5.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_PCB_J3_-9_-5.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_PCB_J3_-9_-5.5",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_PCB_J3_-9_5.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_PCB_J3_-9_5.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_PCB_J3_-9_5.5",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_PCB_J3_9_-5.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_PCB_J3_9_-5.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_PCB_J3_9_-5.5",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_PCB_J3_9_5.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_PCB_J3_9_5.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_PCB_J3_9_5.5",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CARCASA_ENCODER_J3",
+          "triangles": 1348,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_CARCASA_J3_-12",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x10_CARCASA_J3_-12",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_CARCASA_J3_-12",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_CARCASA_J3_24",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x10_CARCASA_J3_24",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_CARCASA_J3_24",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ALIVIO_J3",
+          "triangles": 740,
+          "colors_srgb": [
+            [
+              0.215686275,
+              0.254901962,
+              0.282352938,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HOME_TARGET_J2",
+          "triangles": 248,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HOME_SENSOR_J3",
+          "triangles": 1028,
+          "colors_srgb": [
+            [
+              0.10980392,
+              0.125490196,
+              0.149019609,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TOPE_J3_HOME",
+          "triangles": 524,
+          "colors_srgb": [
+            [
+              0.823529417,
+              0.588235292,
+              0.215686275,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CHAVETA_POLEA_J2",
+          "triangles": 12,
+          "colors_srgb": [
+            [
+              0.823529417,
+              0.666666665,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CHAVETA_ENTRADA_J3",
+          "triangles": 12,
+          "colors_srgb": [
+            [
+              0.823529417,
+              0.666666665,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2_5_CLIP_ALIVIO_J3_-6.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2_5_CLIP_ALIVIO_J3_6.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HOME_J3_M2_0",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HOME_J3_M2_1",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TOPE_J3_M3_0",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TOPE_J3_M3_1",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CHAVETA_ESTRUCTURAL_J2_NEG",
+          "triangles": 12,
+          "colors_srgb": [
+            [
+              0.823529417,
+              0.666666665,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CHAVETA_ESTRUCTURAL_J2_POS",
+          "triangles": 12,
+          "colors_srgb": [
+            [
+              0.823529417,
+              0.666666665,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PRISIONERO_M3_POLEA_J2",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.2745098,
+              0.294117644,
+              0.321568622,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_RETENCION_J2_NEG_MONTADA",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_RETENCION_J2_POS_MONTADA",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ESPACIADOR_ENTRADA_J3_NEG",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ESPACIADOR_ENTRADA_J3_POS",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x14_APRIETE_ACOPLE_J3_90",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x14_APRIETE_ACOPLE_J3_74.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "link": "link_3",
+      "stl_sha256_unchanged": "be19d7aa1fadf54e36f21eceb078803f0e4afd9f060eb6ded4b742b5ff56d0ad",
+      "triangles": 121866,
+      "dae_sha256": "af970a9102779a32f170473bc87ef45a596d9f7dfc0791d31ff21c4e3537a726",
+      "triangle_geometry_exact_float32": true,
+      "parts": [
+        {
+          "occurrence": "EJE_J3",
+          "triangles": 636,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "POLEA_J3",
+          "triangles": 2164,
+          "colors_srgb": [
+            [
+              0.815686284,
+              0.568627447,
+              0.156862742,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PLACA_ANTEBRAZO_-22",
+          "triangles": 1960,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PLACA_ANTEBRAZO_18",
+          "triangles": 1936,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TRAVESANO",
+          "triangles": 1020,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "SOPORTE_J4_104",
+          "triangles": 4338,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROD_J4_104",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.411764706,
+              0.443137255,
+              0.490196078,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "SOPORTE_J4_133",
+          "triangles": 4978,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROD_J4_133",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.411764706,
+              0.443137255,
+              0.490196078,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "MOTOR_J4",
+          "triangles": 20192,
+          "colors_srgb": [
+            [
+              0.007843137,
+              0.239215689,
+              0.823529417,
+              1.0
+            ],
+            [
+              0.019607844,
+              0.78039217,
+              0.0,
+              1.0
+            ],
+            [
+              0.149019609,
+              0.149019609,
+              0.149019609,
+              1.0
+            ],
+            [
+              0.199999999,
+              0.199999999,
+              0.199999999,
+              1.0
+            ],
+            [
+              0.250980388,
+              0.250980388,
+              0.250980388,
+              1.0
+            ],
+            [
+              0.286274508,
+              0.662745089,
+              0.32941176,
+              1.0
+            ],
+            [
+              0.650980399,
+              0.619607835,
+              0.588235292,
+              1.0
+            ],
+            [
+              0.694117652,
+              0.098039218,
+              0.098039218,
+              1.0
+            ],
+            [
+              0.776470592,
+              0.756862729,
+              0.737254913,
+              1.0
+            ],
+            [
+              0.792156867,
+              0.819607827,
+              0.933333343,
+              1.0
+            ],
+            [
+              0.800000011,
+              0.811764697,
+              0.800000011,
+              1.0
+            ],
+            [
+              0.898039223,
+              0.921568637,
+              0.929411761,
+              1.0
+            ],
+            [
+              0.94901961,
+              0.760784317,
+              0.180392157,
+              1.0
+            ],
+            [
+              0.988235297,
+              0.737254913,
+              0.517647066,
+              1.0
+            ],
+            [
+              1.0,
+              0.937254902,
+              0.137254901,
+              1.0
+            ],
+            [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "POLEA_MOTRIZ_J4",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.815686284,
+              0.568627447,
+              0.156862742,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CORREA_J4",
+          "triangles": 592,
+          "colors_srgb": [
+            [
+              0.164705884,
+              0.17647059,
+              0.196078429,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ESPACIADOR_J4_-40_-40",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ESPACIADOR_J4_-40_60",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ESPACIADOR_J4_40_-40",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ESPACIADOR_J4_40_60",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CARCASA_ANTEBRAZO",
+          "triangles": 2080,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CARCASA_J4_CORREA",
+          "triangles": 1292,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CARCASA_MOTOR_J4_V06",
+          "triangles": 1832,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x10_UNION_TRAVESANO_V1_18_-1_-8",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x10_UNION_TRAVESANO_V1_18_-1_8",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x10_UNION_TRAVESANO_V1_18_1_-8",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x10_UNION_TRAVESANO_V1_18_1_8",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TAPA_RODAMIENTO_J4_DELANTERO",
+          "triangles": 1540,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x8_TAPA_RODAMIENTO_J4_0",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x8_TAPA_RODAMIENTO_J4_1",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x8_TAPA_RODAMIENTO_J4_2",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x8_TAPA_RODAMIENTO_J4_3",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CARRO_MOTOR_J4_TENSOR",
+          "triangles": 2344,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PUENTE_AJUSTADOR_J4",
+          "triangles": 780,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_PUENTE_J4_54",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x12_PUENTE_J4_54",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_PUENTE_J4_67",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x12_PUENTE_J4_67",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_TRACCION_J4",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x20_AJUSTADOR_J4",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_BLOQUEO_J4_-30",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x12_BLOQUEO_J4_-30",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_BLOQUEO_J4_-30",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.352941175,
+              0.352941175,
+              0.352941175,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_BLOQUEO_J4_30",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x12_BLOQUEO_J4_30",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_BLOQUEO_J4_30",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.352941175,
+              0.352941175,
+              0.352941175,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_MOTOR_J4_-8.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x6_MOTOR_J4_-8.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_MOTOR_J4_8.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x6_MOTOR_J4_8.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_FUNDA_J4_-18",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x18_FUNDA_J4_-18",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_FUNDA_J4_-18",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.352941175,
+              0.352941175,
+              0.352941175,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_FUNDA_J4_18",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x18_FUNDA_J4_18",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_FUNDA_J4_18",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.352941175,
+              0.352941175,
+              0.352941175,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PORTAIMAN_ENCODER_J3",
+          "triangles": 1546,
+          "colors_srgb": [
+            [
+              0.745098043,
+              0.764705876,
+              0.784313732,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PRISIONERO_M2x3_ENCODER_J3_X",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PRISIONERO_M2x3_ENCODER_J3_Z",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "IMAN_DIAMETRAL_ENCODER_J3",
+          "triangles": 248,
+          "colors_srgb": [
+            [
+              0.627450987,
+              0.31372549,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "SOPORTE_ENCODER_J4",
+          "triangles": 6160,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x8_PUENTE_ENCODER_J4_-34",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x8_PUENTE_ENCODER_J4_34",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "RODAMIENTO_ENCODER_J4_MR63ZZ_84",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.627450987,
+              0.658823528,
+              0.698039211,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TAPA_RODAMIENTO_ENCODER_J4_84",
+          "triangles": 1016,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x4_TAPA_ENCODER_J4_84_-6.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x4_TAPA_ENCODER_J4_84_6.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "RODAMIENTO_ENCODER_J4_MR63ZZ_90",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.627450987,
+              0.658823528,
+              0.698039211,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TAPA_RODAMIENTO_ENCODER_J4_90",
+          "triangles": 788,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x4_TAPA_ENCODER_J4_90_-5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x4_TAPA_ENCODER_J4_90_5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J4_EJE",
+          "triangles": 248,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J4_ENGRANAJE",
+          "triangles": 5866,
+          "colors_srgb": [
+            [
+              0.70588236,
+              0.588235292,
+              0.294117644,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J4_ESPACIADOR",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J4_COLLAR",
+          "triangles": 792,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J4_PORTAIMAN",
+          "triangles": 1818,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J4_PRISIONERO_M2x3_ENCODER_J4_81.5_Y",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J4_PRISIONERO_M2x3_ENCODER_J4_81.5_Z",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J4_PRISIONERO_M2x3_ENCODER_J4_108.5_Y",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J4_PRISIONERO_M2x3_ENCODER_J4_108.5_Z",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J4_PRISIONERO_COLLAR",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ENCODER_J4_AS5048A_PLACA_ENV",
+          "triangles": 1068,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.529411766,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_PCB_J4_-9_89.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_PCB_J4_-9_89.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_PCB_J4_-9_89.5",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_PCB_J4_-9_100.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_PCB_J4_-9_100.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_PCB_J4_-9_100.5",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_PCB_J4_9_89.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_PCB_J4_9_89.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_PCB_J4_9_89.5",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_PCB_J4_9_100.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_PCB_J4_9_100.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_PCB_J4_9_100.5",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CARCASA_ENCODER_J4",
+          "triangles": 1348,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_CARCASA_ENCODER_J4_83",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x10_CARCASA_ENCODER_J4_83",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_CARCASA_ENCODER_J4_83",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_CARCASA_ENCODER_J4_119",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x10_CARCASA_ENCODER_J4_119",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_CARCASA_ENCODER_J4_119",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J4_IMAN",
+          "triangles": 248,
+          "colors_srgb": [
+            [
+              0.627450987,
+              0.31372549,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CARCASA_TRANSMISION_ENCODER_J4",
+          "triangles": 1716,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x5_EXTENSION_ENCODER_J4_-28",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_EXTENSION_ENCODER_J4_-28",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x5_EXTENSION_ENCODER_J4_28",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_EXTENSION_ENCODER_J4_28",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ALIVIO_J4",
+          "triangles": 740,
+          "colors_srgb": [
+            [
+              0.215686275,
+              0.254901962,
+              0.282352938,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HOME_TARGET_J3",
+          "triangles": 248,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HOME_SENSOR_J4",
+          "triangles": 1028,
+          "colors_srgb": [
+            [
+              0.10980392,
+              0.125490196,
+              0.149019609,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TOPE_J4_HOME",
+          "triangles": 524,
+          "colors_srgb": [
+            [
+              0.823529417,
+              0.588235292,
+              0.215686275,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CHAVETA_POLEA_J3",
+          "triangles": 12,
+          "colors_srgb": [
+            [
+              0.823529417,
+              0.666666665,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2_5_CLIP_ALIVIO_J4_-6.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2_5_CLIP_ALIVIO_J4_6.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HOME_J4_M2_0",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HOME_J4_M2_1",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TOPE_J4_M3_0",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TOPE_J4_M3_1",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CHAVETA_ESTRUCTURAL_J3_NEG",
+          "triangles": 12,
+          "colors_srgb": [
+            [
+              0.823529417,
+              0.666666665,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CHAVETA_ESTRUCTURAL_J3_POS",
+          "triangles": 12,
+          "colors_srgb": [
+            [
+              0.823529417,
+              0.666666665,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PRISIONERO_M3_POLEA_J3",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.2745098,
+              0.294117644,
+              0.321568622,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ESPACIADOR_RETENCION_J3_NEG_MONTADO",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ESPACIADOR_RETENCION_J3_POS_MONTADO",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "link": "link_4",
+      "stl_sha256_unchanged": "2dfad04f78ad649ce282753e267e03cadc8625b3e6b8cfb4f714040d7553850e",
+      "triangles": 95996,
+      "dae_sha256": "2ad9d26fa08897bc0899af8e1e82949bd3e4db12d58c02b7d03db508659cb0d4",
+      "triangle_geometry_exact_float32": true,
+      "parts": [
+        {
+          "occurrence": "EJE_J4",
+          "triangles": 4550,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "POLEA_J4",
+          "triangles": 2628,
+          "colors_srgb": [
+            [
+              0.815686284,
+              0.568627447,
+              0.156862742,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TRAVESANO_J4",
+          "triangles": 5940,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HORQUILLA_J5_-39",
+          "triangles": 288,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROD_J5_-39",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.411764706,
+              0.443137255,
+              0.490196078,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HORQUILLA_J5_34",
+          "triangles": 2424,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROD_J5_34",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.411764706,
+              0.443137255,
+              0.490196078,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "MOTOR_J5",
+          "triangles": 20192,
+          "colors_srgb": [
+            [
+              0.007843137,
+              0.239215689,
+              0.823529417,
+              1.0
+            ],
+            [
+              0.019607844,
+              0.78039217,
+              0.0,
+              1.0
+            ],
+            [
+              0.149019609,
+              0.149019609,
+              0.149019609,
+              1.0
+            ],
+            [
+              0.199999999,
+              0.199999999,
+              0.199999999,
+              1.0
+            ],
+            [
+              0.250980388,
+              0.250980388,
+              0.250980388,
+              1.0
+            ],
+            [
+              0.286274508,
+              0.662745089,
+              0.32941176,
+              1.0
+            ],
+            [
+              0.650980399,
+              0.619607835,
+              0.588235292,
+              1.0
+            ],
+            [
+              0.694117652,
+              0.098039218,
+              0.098039218,
+              1.0
+            ],
+            [
+              0.776470592,
+              0.756862729,
+              0.737254913,
+              1.0
+            ],
+            [
+              0.792156867,
+              0.819607827,
+              0.933333343,
+              1.0
+            ],
+            [
+              0.800000011,
+              0.811764697,
+              0.800000011,
+              1.0
+            ],
+            [
+              0.898039223,
+              0.921568637,
+              0.929411761,
+              1.0
+            ],
+            [
+              0.94901961,
+              0.760784317,
+              0.180392157,
+              1.0
+            ],
+            [
+              0.988235297,
+              0.737254913,
+              0.517647066,
+              1.0
+            ],
+            [
+              1.0,
+              0.937254902,
+              0.137254901,
+              1.0
+            ],
+            [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "SOPORTE_MOTOR_J5",
+          "triangles": 1300,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "POLEA_MOTRIZ_J5",
+          "triangles": 1038,
+          "colors_srgb": [
+            [
+              0.815686284,
+              0.568627447,
+              0.156862742,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CORREA_J5",
+          "triangles": 592,
+          "colors_srgb": [
+            [
+              0.164705884,
+              0.17647059,
+              0.196078429,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CARCASA_J5_CORREA",
+          "triangles": 422,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CARCASA_MOTOR_J5_V06",
+          "triangles": 1664,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TORNILLO_BRIDA_J4_M3x10_0",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TORNILLO_BRIDA_J4_M3x10_1",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TORNILLO_BRIDA_J4_M3x10_2",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TORNILLO_BRIDA_J4_M3x10_3",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CHAVETA_J4_4x4x9",
+          "triangles": 12,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CABLE_GUIDE_MUNECA",
+          "triangles": 6000,
+          "colors_srgb": [
+            [
+              0.921568637,
+              0.745098043,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CIRCLIP_J4_DIN471_20x1_2",
+          "triangles": 480,
+          "colors_srgb": [
+            [
+              0.352941175,
+              0.352941175,
+              0.352941175,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ESPACIADOR_J4_POSTERIOR_1",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ESPACIADOR_J4_INTERIOR_12",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ESPACIADOR_J4_FRONTAL_3",
+          "triangles": 620,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_J4_CONTACTO_ANILLO_INTERIOR",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ABRAZADERA_GUIA_J4_-1_V1",
+          "triangles": 1444,
+          "colors_srgb": [
+            [
+              0.921568637,
+              0.745098043,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2_5x8_GUIA_J4_-1_10",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2_5x8_GUIA_J4_-1_19",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ABRAZADERA_GUIA_J4_1_V1",
+          "triangles": 1438,
+          "colors_srgb": [
+            [
+              0.921568637,
+              0.745098043,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2_5x8_GUIA_J4_1_10",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2_5x8_GUIA_J4_1_19",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "SOPORTE_ENCODER_J5",
+          "triangles": 5176,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2_BASE_ENCODER_J5_X-16.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2_BASE_ENCODER_J5_X16.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2_BASE_ENCODER_J5_Z-16.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2_BASE_ENCODER_J5_Z16.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ENCODER_J5_AS5048A_PLACA_ENV",
+          "triangles": 1068,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.529411766,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_PCB_J5_-9_-5.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_PCB_J5_-9_-5.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_PCB_J5_-9_-5.5",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_PCB_J5_-9_5.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_PCB_J5_-9_5.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_PCB_J5_-9_5.5",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_PCB_J5_9_-5.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_PCB_J5_9_-5.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_PCB_J5_9_-5.5",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_PCB_J5_9_5.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_PCB_J5_9_5.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_PCB_J5_9_5.5",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CARCASA_ENCODER_J5",
+          "triangles": 1348,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_CARCASA_J5_-12",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x10_CARCASA_J5_-12",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_CARCASA_J5_-12",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_CARCASA_J5_24",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x10_CARCASA_J5_24",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_CARCASA_J5_24",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CORONA_LECTURA_J4_60T",
+          "triangles": 6076,
+          "colors_srgb": [
+            [
+              0.737254913,
+              0.568627447,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_CORONA_LECTURA_J4_0",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_CORONA_LECTURA_J4_1",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_CORONA_LECTURA_J4_2",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_CORONA_LECTURA_J4_3",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ALIVIO_J5",
+          "triangles": 740,
+          "colors_srgb": [
+            [
+              0.215686275,
+              0.254901962,
+              0.282352938,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HOME_TARGET_J4",
+          "triangles": 248,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HOME_SENSOR_J5",
+          "triangles": 1028,
+          "colors_srgb": [
+            [
+              0.10980392,
+              0.125490196,
+              0.149019609,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TOPE_J5_HOME",
+          "triangles": 524,
+          "colors_srgb": [
+            [
+              0.823529417,
+              0.588235292,
+              0.215686275,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2_5_CLIP_ALIVIO_J5_-6.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2_5_CLIP_ALIVIO_J5_6.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HOME_J5_M2_0",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HOME_J5_M2_1",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TOPE_J5_M3_0",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TOPE_J5_M3_1",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PRISIONERO_M2_MOTOR_J5",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.2745098,
+              0.294117644,
+              0.321568622,
+              1.0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "link": "link_5",
+      "stl_sha256_unchanged": "07a03f17dcb0a89fb9a1fc9ef4e014fe006f19d62a95ed2199ace550aad0591e",
+      "triangles": 83568,
+      "dae_sha256": "5472767b6fc7a40b9085fc66a86d4c6638f89cf25d7b3eabfd77d7cc96d3253e",
+      "triangle_geometry_exact_float32": true,
+      "parts": [
+        {
+          "occurrence": "EJE_J5",
+          "triangles": 636,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "POLEA_J5",
+          "triangles": 2166,
+          "colors_srgb": [
+            [
+              0.815686284,
+              0.568627447,
+              0.156862742,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "MEJILLA_MUNECA_-29",
+          "triangles": 400,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "MEJILLA_MUNECA_26",
+          "triangles": 1412,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "MOTOR_J6",
+          "triangles": 20192,
+          "colors_srgb": [
+            [
+              0.007843137,
+              0.239215689,
+              0.823529417,
+              1.0
+            ],
+            [
+              0.019607844,
+              0.78039217,
+              0.0,
+              1.0
+            ],
+            [
+              0.149019609,
+              0.149019609,
+              0.149019609,
+              1.0
+            ],
+            [
+              0.199999999,
+              0.199999999,
+              0.199999999,
+              1.0
+            ],
+            [
+              0.250980388,
+              0.250980388,
+              0.250980388,
+              1.0
+            ],
+            [
+              0.286274508,
+              0.662745089,
+              0.32941176,
+              1.0
+            ],
+            [
+              0.650980399,
+              0.619607835,
+              0.588235292,
+              1.0
+            ],
+            [
+              0.694117652,
+              0.098039218,
+              0.098039218,
+              1.0
+            ],
+            [
+              0.776470592,
+              0.756862729,
+              0.737254913,
+              1.0
+            ],
+            [
+              0.792156867,
+              0.819607827,
+              0.933333343,
+              1.0
+            ],
+            [
+              0.800000011,
+              0.811764697,
+              0.800000011,
+              1.0
+            ],
+            [
+              0.898039223,
+              0.921568637,
+              0.929411761,
+              1.0
+            ],
+            [
+              0.94901961,
+              0.760784317,
+              0.180392157,
+              1.0
+            ],
+            [
+              0.988235297,
+              0.737254913,
+              0.517647066,
+              1.0
+            ],
+            [
+              1.0,
+              0.937254902,
+              0.137254901,
+              1.0
+            ],
+            [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "SOPORTE_MOTOR_J6",
+          "triangles": 1292,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PORTARODAMIENTO_J6",
+          "triangles": 1804,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROD_J6",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.411764706,
+              0.443137255,
+              0.490196078,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PORTARODAMIENTO_J6_POSTERIOR",
+          "triangles": 772,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROD_J6_POSTERIOR",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.411764706,
+              0.443137255,
+              0.490196078,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CARCASA_MUNECA_J6_V06",
+          "triangles": 1676,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PORTAIMAN_ENCODER_J5",
+          "triangles": 1546,
+          "colors_srgb": [
+            [
+              0.745098043,
+              0.764705876,
+              0.784313732,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PRISIONERO_M2x4_ENCODER_J5_X",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PRISIONERO_M2x4_ENCODER_J5_Z",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "IMAN_DIAMETRAL_ENCODER_J5",
+          "triangles": 248,
+          "colors_srgb": [
+            [
+              0.627450987,
+              0.31372549,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "SOPORTE_ENCODER_J6",
+          "triangles": 5846,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x8_BASE_ENCODER_J6_-16",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M3x8_BASE_ENCODER_J6_16",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "RODAMIENTO_ENCODER_J6_MR63ZZ_80",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.627450987,
+              0.658823528,
+              0.698039211,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "RODAMIENTO_ENCODER_J6_MR63ZZ_86",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.627450987,
+              0.658823528,
+              0.698039211,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TAPA_RODAMIENTO_ENCODER_J6_POSTERIOR",
+          "triangles": 1016,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x4_TAPA_POSTERIOR_ENCODER_J6_-7",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x4_TAPA_POSTERIOR_ENCODER_J6_7",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TAPA_RODAMIENTO_ENCODER_J6_FRONTAL",
+          "triangles": 780,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x6_TAPA_FRONTAL_ENCODER_J6_-21",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x6_TAPA_FRONTAL_ENCODER_J6_21",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J6_EJE",
+          "triangles": 248,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J6_ENGRANAJE",
+          "triangles": 5866,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.254901962,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J6_ESPACIADOR_INTERIOR",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J6_ESPACIADOR_FRONTAL",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J6_PORTAIMAN",
+          "triangles": 1818,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J6_PRISIONERO_M2x3_ENCODER_J6_77.5_Y",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J6_PRISIONERO_M2x3_ENCODER_J6_77.5_Z",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J6_PRISIONERO_M2x2.5_ENCODER_J6_96_Y",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J6_PRISIONERO_M2x2.5_ENCODER_J6_96_Z",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ENCODER_J6_AS5048A_PLACA_ENV",
+          "triangles": 1068,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.529411766,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_PCB_J6_-9_89.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_PCB_J6_-9_89.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_PCB_J6_-9_89.5",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_PCB_J6_-9_100.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_PCB_J6_-9_100.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_PCB_J6_-9_100.5",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_PCB_J6_9_89.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_PCB_J6_9_89.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_PCB_J6_9_89.5",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_PCB_J6_9_100.5",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_PCB_J6_9_100.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_PCB_J6_9_100.5",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ROTOR_LECTURA_J6_IMAN",
+          "triangles": 248,
+          "colors_srgb": [
+            [
+              0.627450987,
+              0.31372549,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CARCASA_ENCODER_J6",
+          "triangles": 1352,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_CARCASA_ENCODER_J6_-14",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x10_CARCASA_ENCODER_J6_-14",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_CARCASA_ENCODER_J6_-14",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_CARCASA_ENCODER_J6_14",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x10_CARCASA_ENCODER_J6_14",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TUERCA_M2_CARCASA_ENCODER_J6_14",
+          "triangles": 276,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CARCASA_TRANSMISION_ENCODER_J6",
+          "triangles": 2346,
+          "colors_srgb": [
+            [
+              0.188235296,
+              0.227450982,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_GUARDA_LECTURA_J6_-21",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_GUARDA_LECTURA_J6_-21",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ARANDELA_M2_GUARDA_LECTURA_J6_21",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2x8_GUARDA_LECTURA_J6_21",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ALIVIO_J6",
+          "triangles": 740,
+          "colors_srgb": [
+            [
+              0.215686275,
+              0.254901962,
+              0.282352938,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HOME_TARGET_J5",
+          "triangles": 248,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HOME_SENSOR_J6",
+          "triangles": 1028,
+          "colors_srgb": [
+            [
+              0.10980392,
+              0.125490196,
+              0.149019609,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TOPE_J6_HOME",
+          "triangles": 524,
+          "colors_srgb": [
+            [
+              0.823529417,
+              0.588235292,
+              0.215686275,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CHAVETA_POLEA_J5",
+          "triangles": 12,
+          "colors_srgb": [
+            [
+              0.823529417,
+              0.666666665,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2_5_CLIP_ALIVIO_J6_-6.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "M2_5_CLIP_ALIVIO_J6_6.5",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HOME_J6_M2_0",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HOME_J6_M2_1",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TOPE_J6_M3_0",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TOPE_J6_M3_1",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CHAVETA_ESTRUCTURAL_J5_NEG",
+          "triangles": 12,
+          "colors_srgb": [
+            [
+              0.823529417,
+              0.666666665,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "CHAVETA_ESTRUCTURAL_J5_POS",
+          "triangles": 12,
+          "colors_srgb": [
+            [
+              0.823529417,
+              0.666666665,
+              0.2745098,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PRISIONERO_M3_POLEA_J5",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.2745098,
+              0.294117644,
+              0.321568622,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ESPACIADOR_RETENCION_J5_NEG_MONTADO",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ESPACIADOR_RETENCION_J5_POS_MONTADO",
+          "triangles": 504,
+          "colors_srgb": [
+            [
+              0.698039211,
+              0.721568618,
+              0.745098043,
+              1.0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "link": "link_6",
+      "stl_sha256_unchanged": "73baabe750c92d2beacb16868b541719dee44afa2c5408b2c2e5573f293481f4",
+      "triangles": 17060,
+      "dae_sha256": "a9b83d30e3a7e63f2ac50476e9f588fa8c6a038e75e7ef390843c536d0a4b688",
+      "triangle_geometry_exact_float32": true,
+      "parts": [
+        {
+          "occurrence": "EJE_J6",
+          "triangles": 2092,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "ACOPLE_J6",
+          "triangles": 6940,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PASADOR_ELASTICO_J6_D2x20",
+          "triangles": 468,
+          "colors_srgb": [
+            [
+              0.352941175,
+              0.352941175,
+              0.352941175,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "BRIDA_EFECTOR",
+          "triangles": 3548,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.443137255,
+              0.549019612,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TORNILLO_BRIDA_J6_M2_5x6_0",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TORNILLO_BRIDA_J6_M2_5x6_1",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "TORNILLO_BRIDA_J6_M2_5x6_2",
+          "triangles": 752,
+          "colors_srgb": [
+            [
+              0.282352938,
+              0.301960791,
+              0.32941176,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "HOME_TARGET_J6",
+          "triangles": 248,
+          "colors_srgb": [
+            [
+              0.725490203,
+              0.596078433,
+              0.235294114,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PASACABLE_BRIDA",
+          "triangles": 1008,
+          "colors_srgb": [
+            [
+              0.17647059,
+              0.196078429,
+              0.215686275,
+              1.0
+            ]
+          ]
+        },
+        {
+          "occurrence": "PRISIONERO_M3_ENTRADA_J6",
+          "triangles": 500,
+          "colors_srgb": [
+            [
+              0.2745098,
+              0.294117644,
+              0.321568622,
+              1.0
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

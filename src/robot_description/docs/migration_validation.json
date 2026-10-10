@@ -1,0 +1,245 @@
+{
+  "package": "robot_description",
+  "build_type": "ament_cmake",
+  "residual_old_namespace_references": 0,
+  "original_cmake_structure_preserved": true,
+  "installed_resource_directories": [
+    "urdf",
+    "meshes",
+    "launch",
+    "rviz",
+    "config",
+    "scripts",
+    "docs"
+  ],
+  "installed_programs": [
+    "regenerate_urdf.py"
+  ],
+  "original_package_metadata_preserved": true,
+  "exec_dependencies_added": [
+    "ament_index_python",
+    "launch",
+    "launch_ros",
+    "xacro",
+    "robot_state_publisher",
+    "joint_state_publisher_gui",
+    "rviz2",
+    "python3-yaml"
+  ],
+  "original_license_preserved": true,
+  "empty_unused_directories_removed": [
+    "include",
+    "src"
+  ],
+  "config_rviz_macros_byte_identical": true,
+  "robot_and_launch_edits_only_package_namespace": true,
+  "real_xacro_expansion_matches_urdf": true,
+  "xacro_version_tested": "2.1.1",
+  "old_and_new_robot_semantically_identical": true,
+  "robot_structure": {
+    "root": "base_link",
+    "links": 9,
+    "joints": 8,
+    "revolute_joints": 6,
+    "fixed_joints": 2
+  },
+  "resolved_mesh_uris": [
+    "package://robot_description/meshes/base_body.dae",
+    "package://robot_description/meshes/base_body.stl",
+    "package://robot_description/meshes/link_1.dae",
+    "package://robot_description/meshes/link_1.stl",
+    "package://robot_description/meshes/link_2.dae",
+    "package://robot_description/meshes/link_2.stl",
+    "package://robot_description/meshes/link_3.dae",
+    "package://robot_description/meshes/link_3.stl",
+    "package://robot_description/meshes/link_4.dae",
+    "package://robot_description/meshes/link_4.stl",
+    "package://robot_description/meshes/link_5.dae",
+    "package://robot_description/meshes/link_5.stl",
+    "package://robot_description/meshes/link_6.dae",
+    "package://robot_description/meshes/link_6.stl"
+  ],
+  "all_14_meshes_byte_identical": true,
+  "meshes": [
+    {
+      "file": "base_body.dae",
+      "sha256": "9c3694914877474e4d30d1ea7811eeabbd48e3967d3205d6d64cc0ad97a49f0b",
+      "bytes": 49328635
+    },
+    {
+      "file": "base_body.stl",
+      "sha256": "e971dae8b6abdb00412d99f3ca5d09f260a11dba3dc07ebc54862190f12b48f6",
+      "bytes": 28355634
+    },
+    {
+      "file": "link_1.dae",
+      "sha256": "d6aa37fd0c3a1ca1b4168c590eef960e9c697d8f8ad48b366eb9ae62be502e8b",
+      "bytes": 49782713
+    },
+    {
+      "file": "link_1.stl",
+      "sha256": "aa63c1584fc251bad094ec3e93b9de206d683e2463f3994204a655d856b3ffe7",
+      "bytes": 28814234
+    },
+    {
+      "file": "link_2.dae",
+      "sha256": "e4719df290226af81c37481135cf6ab31b5ef495f41f350751976d931e47506b",
+      "bytes": 48912558
+    },
+    {
+      "file": "link_2.stl",
+      "sha256": "466a4a86449f6d8a6bd6ceb4149289b97e5ae7f4290829e0d178bc21a4aa431e",
+      "bytes": 28265734
+    },
+    {
+      "file": "link_3.dae",
+      "sha256": "af970a9102779a32f170473bc87ef45a596d9f7dfc0791d31ff21c4e3537a726",
+      "bytes": 8143815
+    },
+    {
+      "file": "link_3.stl",
+      "sha256": "be19d7aa1fadf54e36f21eceb078803f0e4afd9f060eb6ded4b742b5ff56d0ad",
+      "bytes": 6093384
+    },
+    {
+      "file": "link_4.dae",
+      "sha256": "2ad9d26fa08897bc0899af8e1e82949bd3e4db12d58c02b7d03db508659cb0d4",
+      "bytes": 6644641
+    },
+    {
+      "file": "link_4.stl",
+      "sha256": "2dfad04f78ad649ce282753e267e03cadc8625b3e6b8cfb4f714040d7553850e",
+      "bytes": 4799884
+    },
+    {
+      "file": "link_5.dae",
+      "sha256": "5472767b6fc7a40b9085fc66a86d4c6638f89cf25d7b3eabfd77d7cc96d3253e",
+      "bytes": 5851577
+    },
+    {
+      "file": "link_5.stl",
+      "sha256": "07a03f17dcb0a89fb9a1fc9ef4e014fe006f19d62a95ed2199ace550aad0591e",
+      "bytes": 4178484
+    },
+    {
+      "file": "link_6.dae",
+      "sha256": "a9b83d30e3a7e63f2ac50476e9f588fa8c6a038e75e7ef390843c536d0a4b688",
+      "bytes": 1082354
+    },
+    {
+      "file": "link_6.stl",
+      "sha256": "73baabe750c92d2beacb16868b541719dee44afa2c5408b2c2e5573f293481f4",
+      "bytes": 853084
+    }
+  ],
+  "dae_external_texture_dependencies": 0,
+  "python_files_syntax_checked": 9,
+  "launch_resource_paths_valid": true,
+  "regenerator_source_mode_test": "PASS",
+  "regenerator_installed_path_fallback": "REVIEWED: resolves package share using ament_index_python",
+  "ros2_tools_available": {
+    "ros2": false,
+    "colcon": false,
+    "cmake": false,
+    "check_urdf": false
+  },
+  "colcon_build_test": "NOT RUN: ROS 2, ament_cmake and colcon are absent",
+  "ros2_rviz_launch_test": "NOT RUN: ROS 2 and RViz are absent",
+  "cad_reexport_sources": "Optional GPT6 source folder is not supplied; not needed by launch",
+  "existing_model_limitations_preserved": "Effort/velocity are zero; original CAD collision meshes remain unchanged",
+  "cad_validation": {
+    "result": "PASS_VISUAL_KINEMATIC_WITH_MESH_LIMITATIONS",
+    "xacro_matches_urdf": true,
+    "links": 9,
+    "physical_links": 7,
+    "revolute_joints": 6,
+    "fixed_joints": 2,
+    "axis_all_local_z": true,
+    "mass_kg": 8.008416688468413,
+    "max_home_step_matrix_error": 4.461003459779821e-15,
+    "max_native_joint_geometry_error": 4.461003459779817e-15,
+    "random_fk_cases": 100,
+    "max_random_fk_error": 3.094746681142624e-15,
+    "inertias_match_native_principal_moments": true,
+    "meshes": [
+      {
+        "file": "base_body.stl",
+        "triangles": 567111,
+        "watertight": false,
+        "open_edges": 4543,
+        "nonmanifold_edges": 1272,
+        "sha256": "e971dae8b6abdb00412d99f3ca5d09f260a11dba3dc07ebc54862190f12b48f6"
+      },
+      {
+        "file": "link_1.stl",
+        "triangles": 576283,
+        "watertight": false,
+        "open_edges": 4543,
+        "nonmanifold_edges": 1536,
+        "sha256": "aa63c1584fc251bad094ec3e93b9de206d683e2463f3994204a655d856b3ffe7"
+      },
+      {
+        "file": "link_2.stl",
+        "triangles": 565313,
+        "watertight": false,
+        "open_edges": 4543,
+        "nonmanifold_edges": 1726,
+        "sha256": "466a4a86449f6d8a6bd6ceb4149289b97e5ae7f4290829e0d178bc21a4aa431e"
+      },
+      {
+        "file": "link_3.stl",
+        "triangles": 121866,
+        "watertight": false,
+        "open_edges": 0,
+        "nonmanifold_edges": 2466,
+        "sha256": "be19d7aa1fadf54e36f21eceb078803f0e4afd9f060eb6ded4b742b5ff56d0ad"
+      },
+      {
+        "file": "link_4.stl",
+        "triangles": 95996,
+        "watertight": false,
+        "open_edges": 0,
+        "nonmanifold_edges": 556,
+        "sha256": "2dfad04f78ad649ce282753e267e03cadc8625b3e6b8cfb4f714040d7553850e"
+      },
+      {
+        "file": "link_5.stl",
+        "triangles": 83568,
+        "watertight": false,
+        "open_edges": 0,
+        "nonmanifold_edges": 1254,
+        "sha256": "07a03f17dcb0a89fb9a1fc9ef4e014fe006f19d62a95ed2199ace550aad0591e"
+      },
+      {
+        "file": "link_6.stl",
+        "triangles": 17060,
+        "watertight": false,
+        "open_edges": 0,
+        "nonmanifold_edges": 325,
+        "sha256": "73baabe750c92d2beacb16868b541719dee44afa2c5408b2c2e5573f293481f4"
+      }
+    ],
+    "mesh_limitations": "Multipart CAD surfaces are not watertight manifold solids. Motor surfaces in base_body/link_1/link_2 contain open tessellation edges. Not certified for dynamics or collision safety.",
+    "ros2_rviz_runtime_test": "NOT RUN: ROS 2 is not installed in this workspace",
+    "hardware_or_dynamic_validation": "NOT PERFORMED",
+    "limits": "CAD positional limits provisional; effort=velocity=0 by user request"
+  },
+  "verified_utc": "2026-10-01T03:43:49.799287+00:00",
+  "modified_files": [
+    "CMakeLists.txt",
+    "package.xml",
+    "README.md",
+    "urdf/robot_6dof.urdf",
+    "urdf/robot_6dof.urdf.xacro",
+    "launch/display.launch.py",
+    "scripts/build_description.py",
+    "scripts/render_preview.py",
+    "scripts/validate_description.py",
+    "scripts/regenerate_urdf.py",
+    "docs/delivery_manifest.json"
+  ],
+  "added_files": [
+    "docs/MIGRACION.md",
+    "docs/migration_validation.json"
+  ]
+}

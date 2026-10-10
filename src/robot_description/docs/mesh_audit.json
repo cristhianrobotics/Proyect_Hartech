@@ -1,0 +1,4519 @@
+[
+  {
+    "cad_link": "L0_BASE_SUBASSEMBLY",
+    "ros_link": "base_body",
+    "step_pose_mm": [
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      [
+        0,
+        0,
+        0,
+        1
+      ]
+    ],
+    "physical_occurrences": 70,
+    "excluded_references": 1,
+    "triangles": 567111,
+    "bounds_m": [
+      [
+        -0.135,
+        -0.105,
+        0.0
+      ],
+      [
+        0.105,
+        0.105,
+        0.1772
+      ]
+    ],
+    "parts": [
+      {
+        "name": "REFERENCIAS",
+        "excluded": "reference_BOM"
+      },
+      {
+        "name": "BASE",
+        "triangles": 3588,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 0.0004000804416918843,
+        "mesh_volume_m3": 0.0004000856106677298,
+        "relative_volume_error": 1.291984137898456e-05
+      },
+      {
+        "name": "PEDESTAL",
+        "triangles": 548,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 0.00016838622463975932,
+        "mesh_volume_m3": 0.00016824150515230615,
+        "relative_volume_error": 0.0008594496833857768
+      },
+      {
+        "name": "PORTARODAMIENTO_132",
+        "triangles": 1292,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.659775282327937e-05,
+        "mesh_volume_m3": 4.660967338581081e-05,
+        "relative_volume_error": 0.00025581839915431956
+      },
+      {
+        "name": "ROD_J1_132",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.430619177720054e-06,
+        "mesh_volume_m3": 3.424934787202905e-06,
+        "relative_volume_error": 0.001656957599393667
+      },
+      {
+        "name": "PORTARODAMIENTO_160",
+        "triangles": 2844,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.5994812647486386e-05,
+        "mesh_volume_m3": 4.6007910785777826e-05,
+        "relative_volume_error": 0.0002847742503448564
+      },
+      {
+        "name": "ROD_J1_160",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.430619177720054e-06,
+        "mesh_volume_m3": 3.424934787202905e-06,
+        "relative_volume_error": 0.001656957599393667
+      },
+      {
+        "name": "ESPACIADOR_-28_-28",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.971791358484104e-07,
+        "mesh_volume_m3": 7.958582438211863e-07,
+        "relative_volume_error": 0.0016569575993962212
+      },
+      {
+        "name": "ESPACIADOR_-28_28",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.971791358484104e-07,
+        "mesh_volume_m3": 7.958582438211864e-07,
+        "relative_volume_error": 0.0016569575993960885
+      },
+      {
+        "name": "ESPACIADOR_28_-28",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.971791358484104e-07,
+        "mesh_volume_m3": 7.958582438211868e-07,
+        "relative_volume_error": 0.0016569575993955572
+      },
+      {
+        "name": "ESPACIADOR_28_28",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.971791358484104e-07,
+        "mesh_volume_m3": 7.95858243821187e-07,
+        "relative_volume_error": 0.0016569575993952916
+      },
+      {
+        "name": "MOTOR_J1",
+        "triangles": 499519,
+        "nurbs_faces": 8,
+        "cad_volume_m3": 6.860960292872861e-05,
+        "mesh_volume_m3": 6.814450480469268e-05,
+        "relative_volume_error": 0.006778907094376769
+      },
+      {
+        "name": "SOPORTE_MOTOR",
+        "triangles": 1300,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.657242706617786e-05,
+        "mesh_volume_m3": 5.65738911090656e-05,
+        "relative_volume_error": 2.58790892253945e-05
+      },
+      {
+        "name": "POLEA_MOTRIZ_J1",
+        "triangles": 1028,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.7333691084534342e-06,
+        "mesh_volume_m3": 2.7288705186976623e-06,
+        "relative_volume_error": 0.0016458039793671524
+      },
+      {
+        "name": "CORREA_J1",
+        "triangles": 592,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.423873424276123e-06,
+        "mesh_volume_m3": 3.423873424276121e-06,
+        "relative_volume_error": 6.184756577511188e-16
+      },
+      {
+        "name": "CARCASA_BASE",
+        "triangles": 4336,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 0.00012972677863900994,
+        "mesh_volume_m3": 0.00012971993439443545,
+        "relative_volume_error": 5.275891875443751e-05
+      },
+      {
+        "name": "CARCASA_BASE_TAPA",
+        "triangles": 1364,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.9874566027608712e-05,
+        "mesh_volume_m3": 1.9879476226777164e-05,
+        "relative_volume_error": 0.0002470594407762655
+      },
+      {
+        "name": "CARCASA_J1_CORREA",
+        "triangles": 1068,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.1472429279497972e-05,
+        "mesh_volume_m3": 1.1474423501116172e-05,
+        "relative_volume_error": 0.00017382731848811155
+      },
+      {
+        "name": "SOPORTE_ENCODER_J1",
+        "triangles": 6850,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.776709716377538e-06,
+        "mesh_volume_m3": 7.776569822115131e-06,
+        "relative_volume_error": 1.7988875438189756e-05
+      },
+      {
+        "name": "M3x6_PIE_ENCODER_J1_-20",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 6.439550227530336e-08,
+        "mesh_volume_m3": 6.428880165844153e-08,
+        "relative_volume_error": 0.0016569575993935423
+      },
+      {
+        "name": "M3x6_PIE_ENCODER_J1_20",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 6.439550227530336e-08,
+        "mesh_volume_m3": 6.428880165844153e-08,
+        "relative_volume_error": 0.0016569575993935423
+      },
+      {
+        "name": "RODAMIENTO_ENCODER_J1_158",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.3014376029327776e-08,
+        "mesh_volume_m3": 5.292653345608885e-08,
+        "relative_volume_error": 0.0016569575993940246
+      },
+      {
+        "name": "TAPA_RODAMIENTO_ENCODER_J1_158",
+        "triangles": 1016,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.7889799365867079e-07,
+        "mesh_volume_m3": 1.786015672685618e-07,
+        "relative_volume_error": 0.0016569575993935453
+      },
+      {
+        "name": "M2x4_TAPA_ENCODER_J1_158_-6.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.235734046881261e-08,
+        "mesh_volume_m3": 2.2320295303620567e-08,
+        "relative_volume_error": 0.0016569575993942976
+      },
+      {
+        "name": "M2x4_TAPA_ENCODER_J1_158_6.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.235734046881261e-08,
+        "mesh_volume_m3": 2.2320295303620547e-08,
+        "relative_volume_error": 0.0016569575993951855
+      },
+      {
+        "name": "RODAMIENTO_ENCODER_J1_164",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.3014376029327776e-08,
+        "mesh_volume_m3": 5.292653345608885e-08,
+        "relative_volume_error": 0.0016569575993940246
+      },
+      {
+        "name": "TAPA_RODAMIENTO_ENCODER_J1_164",
+        "triangles": 908,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.312531780830083e-08,
+        "mesh_volume_m3": 7.302084772930865e-08,
+        "relative_volume_error": 0.0014286444438580727
+      },
+      {
+        "name": "M2x4_TAPA_ENCODER_J1_164_-4.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.235734046881261e-08,
+        "mesh_volume_m3": 2.2320295303620573e-08,
+        "relative_volume_error": 0.0016569575993940016
+      },
+      {
+        "name": "M2x4_TAPA_ENCODER_J1_164_4.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.235734046881261e-08,
+        "mesh_volume_m3": 2.2320295303620554e-08,
+        "relative_volume_error": 0.0016569575993948895
+      },
+      {
+        "name": "ROTOR_LECTURA_J1_EJE",
+        "triangles": 248,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.5409511965857948e-07,
+        "mesh_volume_m3": 1.5383979057903168e-07,
+        "relative_volume_error": 0.0016569575993939446
+      },
+      {
+        "name": "ROTOR_LECTURA_J1_ESPACIADOR",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.841071469774047e-08,
+        "mesh_volume_m3": 1.838020892411182e-08,
+        "relative_volume_error": 0.0016569575993914162
+      },
+      {
+        "name": "ROTOR_LECTURA_J1_ENGRANAJE",
+        "triangles": 5866,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.979847081975678e-06,
+        "mesh_volume_m3": 5.979372849738289e-06,
+        "relative_volume_error": 7.930507768634698e-05
+      },
+      {
+        "name": "ROTOR_LECTURA_J1_PORTAIMAN",
+        "triangles": 1818,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.755284281784727e-07,
+        "mesh_volume_m3": 3.7491784182779606e-07,
+        "relative_volume_error": 0.0016259390897203723
+      },
+      {
+        "name": "ROTOR_LECTURA_J1_PRISIONERO_M2x3_J1_155.5_X",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.919734095521609e-09,
+        "mesh_volume_m3": 4.911582304725052e-09,
+        "relative_volume_error": 0.0016569575993907795
+      },
+      {
+        "name": "ROTOR_LECTURA_J1_PRISIONERO_M2x3_J1_155.5_Y",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.919734095521641e-09,
+        "mesh_volume_m3": 4.911582304725074e-09,
+        "relative_volume_error": 0.0016569575993929545
+      },
+      {
+        "name": "ROTOR_LECTURA_J1_PRISIONERO_M2x3_J1_169_X",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.919734095521609e-09,
+        "mesh_volume_m3": 4.911582304725047e-09,
+        "relative_volume_error": 0.0016569575993917883
+      },
+      {
+        "name": "ROTOR_LECTURA_J1_PRISIONERO_M2x3_J1_169_Y",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.919734095521641e-09,
+        "mesh_volume_m3": 4.911582304725003e-09,
+        "relative_volume_error": 0.001656957599407246
+      },
+      {
+        "name": "ENCODER_J1_AS5048A_PLACA_ENV",
+        "triangles": 1068,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.4803885338587716e-06,
+        "mesh_volume_m3": 1.4804448363934109e-06,
+        "relative_volume_error": 3.803226879398469e-05
+      },
+      {
+        "name": "ARANDELA_M2_PCB_J1_-9_89.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181884e-09,
+        "mesh_volume_m3": 4.833172625530633e-09,
+        "relative_volume_error": 0.001656957599438942
+      },
+      {
+        "name": "M2x8_PCB_J1_-9_89.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.9425923939389675e-08,
+        "mesh_volume_m3": 2.9377166431099065e-08,
+        "relative_volume_error": 0.0016569575993956248
+      },
+      {
+        "name": "TUERCA_M2_PCB_J1_-9_89.5",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459605438e-08,
+        "mesh_volume_m3": 1.895858987708688e-08,
+        "relative_volume_error": 0.00028124014725816566
+      },
+      {
+        "name": "ARANDELA_M2_PCB_J1_-9_100.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181884e-09,
+        "mesh_volume_m3": 4.833172625530637e-09,
+        "relative_volume_error": 0.0016569575994380876
+      },
+      {
+        "name": "M2x8_PCB_J1_-9_100.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.9425923939389675e-08,
+        "mesh_volume_m3": 2.937716643109903e-08,
+        "relative_volume_error": 0.0016569575993968617
+      },
+      {
+        "name": "TUERCA_M2_PCB_J1_-9_100.5",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.895325945960298e-08,
+        "mesh_volume_m3": 1.8958589877084746e-08,
+        "relative_volume_error": 0.00028124014727531026
+      },
+      {
+        "name": "ARANDELA_M2_PCB_J1_9_89.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181884e-09,
+        "mesh_volume_m3": 4.833172625530635e-09,
+        "relative_volume_error": 0.0016569575994386002
+      },
+      {
+        "name": "M2x8_PCB_J1_9_89.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.9425923939389675e-08,
+        "mesh_volume_m3": 2.93771664310991e-08,
+        "relative_volume_error": 0.001656957599394388
+      },
+      {
+        "name": "TUERCA_M2_PCB_J1_9_89.5",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459605438e-08,
+        "mesh_volume_m3": 1.8958589877086916e-08,
+        "relative_volume_error": 0.00028124014726008595
+      },
+      {
+        "name": "ARANDELA_M2_PCB_J1_9_100.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181884e-09,
+        "mesh_volume_m3": 4.8331726255306365e-09,
+        "relative_volume_error": 0.0016569575994382585
+      },
+      {
+        "name": "M2x8_PCB_J1_9_100.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.9425923939389675e-08,
+        "mesh_volume_m3": 2.93771664310991e-08,
+        "relative_volume_error": 0.001656957599394388
+      },
+      {
+        "name": "TUERCA_M2_PCB_J1_9_100.5",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459602983e-08,
+        "mesh_volume_m3": 1.8958589877084762e-08,
+        "relative_volume_error": 0.00028124014727600854
+      },
+      {
+        "name": "ARANDELA_M2_CARCASA_ENCODER_J1_83",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181884e-09,
+        "mesh_volume_m3": 4.833172625530969e-09,
+        "relative_volume_error": 0.0016569575993695717
+      },
+      {
+        "name": "M2x10_CARCASA_ENCODER_J1_83",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.296021567467819e-08,
+        "mesh_volume_m3": 3.290560199483828e-08,
+        "relative_volume_error": 0.0016569575993965776
+      },
+      {
+        "name": "TUERCA_M2_CARCASA_ENCODER_J1_83",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459605494e-08,
+        "mesh_volume_m3": 1.895858987708706e-08,
+        "relative_volume_error": 0.00028124014726462404
+      },
+      {
+        "name": "ARANDELA_M2_CARCASA_ENCODER_J1_119",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181884e-09,
+        "mesh_volume_m3": 4.833172625530967e-09,
+        "relative_volume_error": 0.0016569575993700843
+      },
+      {
+        "name": "M2x10_CARCASA_ENCODER_J1_119",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.296021567467819e-08,
+        "mesh_volume_m3": 3.2905601994838316e-08,
+        "relative_volume_error": 0.0016569575993955737
+      },
+      {
+        "name": "TUERCA_M2_CARCASA_ENCODER_J1_119",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.895325945960848e-08,
+        "mesh_volume_m3": 1.8958589877088806e-08,
+        "relative_volume_error": 0.0002812401471992895
+      },
+      {
+        "name": "ROTOR_LECTURA_J1_IMAN",
+        "triangles": 248,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.068583470577033e-08,
+        "mesh_volume_m3": 7.05687112747851e-08,
+        "relative_volume_error": 0.0016569575993940254
+      },
+      {
+        "name": "CARCASA_ENCODER_J1",
+        "triangles": 1348,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.0305434118382412e-06,
+        "mesh_volume_m3": 3.030412561947218e-06,
+        "relative_volume_error": 4.3177038979956283e-05
+      },
+      {
+        "name": "CARCASA_ENGRANAJE_ENCODER_J1",
+        "triangles": 1214,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.872015510092923e-06,
+        "mesh_volume_m3": 4.870764864075528e-06,
+        "relative_volume_error": 0.0002566999252781585
+      },
+      {
+        "name": "M2x4_CARCASA_ENGRANAJE_J1_-24",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.2357340468812562e-08,
+        "mesh_volume_m3": 2.2320295303620577e-08,
+        "relative_volume_error": 0.0016569575993916374
+      },
+      {
+        "name": "M2x4_CARCASA_ENGRANAJE_J1_24",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.2357340468812562e-08,
+        "mesh_volume_m3": 2.2320295303620577e-08,
+        "relative_volume_error": 0.0016569575993916374
+      },
+      {
+        "name": "PASACABLE_BASE",
+        "triangles": 740,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.905067037203357e-07,
+        "mesh_volume_m3": 5.908787591411114e-07,
+        "relative_volume_error": 0.0006300612989346831
+      },
+      {
+        "name": "HOME_SENSOR_J1",
+        "triangles": 1028,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.780163769446733e-07,
+        "mesh_volume_m3": 5.781190811799335e-07,
+        "relative_volume_error": 0.00017768395387528075
+      },
+      {
+        "name": "TOPE_J1_HOME",
+        "triangles": 524,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 6.473663778490039e-07,
+        "mesh_volume_m3": 6.474867286811991e-07,
+        "relative_volume_error": 0.00018590837632790095
+      },
+      {
+        "name": "M2_5_CLIP_PASACABLE_BASE_-6.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.5877037191380655e-08,
+        "mesh_volume_m3": 3.581759046196257e-08,
+        "relative_volume_error": 0.001656957599396399
+      },
+      {
+        "name": "M2_5_CLIP_PASACABLE_BASE_6.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.5877037191380655e-08,
+        "mesh_volume_m3": 3.5817590461962636e-08,
+        "relative_volume_error": 0.0016569575993945545
+      },
+      {
+        "name": "HOME_J1_M2_0",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.7547840581165483e-08,
+        "mesh_volume_m3": 2.750219497736762e-08,
+        "relative_volume_error": 0.0016569575993942286
+      },
+      {
+        "name": "HOME_J1_M2_1",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.7547840581165483e-08,
+        "mesh_volume_m3": 2.7502194977367617e-08,
+        "relative_volume_error": 0.0016569575993943487
+      },
+      {
+        "name": "TOPE_J1_M3_0",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 9.864443852639275e-08,
+        "mesh_volume_m3": 9.848098887433845e-08,
+        "relative_volume_error": 0.00165695759939441
+      },
+      {
+        "name": "TOPE_J1_M3_1",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 9.864443852639283e-08,
+        "mesh_volume_m3": 9.848098887433842e-08,
+        "relative_volume_error": 0.001656957599395482
+      },
+      {
+        "name": "PRISIONERO_M3_MOTOR_J1",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.2823541388981938e-08,
+        "mesh_volume_m3": 1.2802293324626433e-08,
+        "relative_volume_error": 0.0016569575993853043
+      }
+    ]
+  },
+  {
+    "cad_link": "L1_HOMBRO_SUBASSEMBLY",
+    "ros_link": "link_1",
+    "step_pose_mm": [
+      [
+        1.0,
+        -2.9927940776267187e-31,
+        1.05471187339391e-15,
+        3.94430452610507e-29
+      ],
+      [
+        1.47911419728941e-31,
+        1.0,
+        1.43515960948321e-16,
+        -5.44513836812848e-60
+      ],
+      [
+        -1.05471187339391e-15,
+        -1.43515960948321e-16,
+        1.0,
+        178.0
+      ],
+      [
+        0,
+        0,
+        0,
+        1
+      ]
+    ],
+    "physical_occurrences": 90,
+    "excluded_references": 1,
+    "triangles": 576283,
+    "bounds_m": [
+      [
+        -0.11800000000000001,
+        -0.2333020725942229,
+        -0.05
+      ],
+      [
+        0.0718306532027968,
+        0.069,
+        0.166832303515871
+      ]
+    ],
+    "parts": [
+      {
+        "name": "REFERENCIAS",
+        "excluded": "reference_BOM"
+      },
+      {
+        "name": "EJE_J1",
+        "triangles": 1812,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.1828355379720525e-05,
+        "mesh_volume_m3": 1.1809273508797833e-05,
+        "relative_volume_error": 0.001613231113719156
+      },
+      {
+        "name": "POLEA_CONDUCIDA_J1",
+        "triangles": 1096,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.1488229515561072e-05,
+        "mesh_volume_m3": 2.1464083743221538e-05,
+        "relative_volume_error": 0.0011236743502785257
+      },
+      {
+        "name": "PLATAFORMA",
+        "triangles": 4732,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 6.0348757873352595e-05,
+        "mesh_volume_m3": 6.03115387143292e-05,
+        "relative_volume_error": 0.0006167344670374493
+      },
+      {
+        "name": "MEJILLA_J2_-44",
+        "triangles": 780,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 6.278985000808682e-05,
+        "mesh_volume_m3": 6.27986420736394e-05,
+        "relative_volume_error": 0.00014002367502787832
+      },
+      {
+        "name": "ROD_J2_-44",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.021238596594936e-06,
+        "mesh_volume_m3": 4.014575574743326e-06,
+        "relative_volume_error": 0.001656957599395429
+      },
+      {
+        "name": "MEJILLA_J2_36",
+        "triangles": 3490,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 6.249557116720486e-05,
+        "mesh_volume_m3": 6.250484310073886e-05,
+        "relative_volume_error": 0.0001483614496329512
+      },
+      {
+        "name": "ROD_J2_36",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.021238596594936e-06,
+        "mesh_volume_m3": 4.014575574743326e-06,
+        "relative_volume_error": 0.001656957599395429
+      },
+      {
+        "name": "SOPORTE_MOTOR_J2",
+        "triangles": 1820,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.433476204618696e-05,
+        "mesh_volume_m3": 4.433669942389999e-05,
+        "relative_volume_error": 4.369884090077636e-05
+      },
+      {
+        "name": "ACOPLE_J2_REX8_D12",
+        "triangles": 2104,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.0098551204441772e-05,
+        "mesh_volume_m3": 1.0082877213917358e-05,
+        "relative_volume_error": 0.0015521028915039346
+      },
+      {
+        "name": "EJE_ENTRADA_J2",
+        "triangles": 292,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.766591941202115e-06,
+        "mesh_volume_m3": 5.756903287724073e-06,
+        "relative_volume_error": 0.0016801350913729287
+      },
+      {
+        "name": "APOYO_ENTRADA_-70",
+        "triangles": 268,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.0529982719171206e-05,
+        "mesh_volume_m3": 1.0538144920939432e-05,
+        "relative_volume_error": 0.0007751391418112457
+      },
+      {
+        "name": "ROD_ENTRADA_-70",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.021238596594936e-06,
+        "mesh_volume_m3": 4.014575574743333e-06,
+        "relative_volume_error": 0.001656957599393744
+      },
+      {
+        "name": "APOYO_ENTRADA_-40",
+        "triangles": 268,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.0529982719171206e-05,
+        "mesh_volume_m3": 1.0538144920939425e-05,
+        "relative_volume_error": 0.0007751391418106021
+      },
+      {
+        "name": "ROD_ENTRADA_-40",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.021238596594936e-06,
+        "mesh_volume_m3": 4.014575574743329e-06,
+        "relative_volume_error": 0.0016569575993945864
+      },
+      {
+        "name": "POLEA_MOTRIZ_J2",
+        "triangles": 488,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.4713209723996016e-06,
+        "mesh_volume_m3": 2.4667146575423274e-06,
+        "relative_volume_error": 0.0018639079701579721
+      },
+      {
+        "name": "CORREA_J2",
+        "triangles": 592,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 9.706026950579841e-06,
+        "mesh_volume_m3": 9.706026950579956e-06,
+        "relative_volume_error": 1.1868551510636696e-14
+      },
+      {
+        "name": "MOTOR_J2",
+        "triangles": 499519,
+        "nurbs_faces": 8,
+        "cad_volume_m3": 6.860960292872846e-05,
+        "mesh_volume_m3": 6.769191450962325e-05,
+        "relative_volume_error": 0.01337550984019697
+      },
+      {
+        "name": "CARCASA_J2_CORREA",
+        "triangles": 860,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.60888127635758e-05,
+        "mesh_volume_m3": 3.608978879216727e-05,
+        "relative_volume_error": 2.7045184275408168e-05
+      },
+      {
+        "name": "CARCASA_MOTOR_J2_V06",
+        "triangles": 1668,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.5237923714694273e-05,
+        "mesh_volume_m3": 1.522372977106999e-05,
+        "relative_volume_error": 0.0009314880353808046
+      },
+      {
+        "name": "ESCUADRA_J2_-1",
+        "triangles": 1044,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.4372262866820522e-05,
+        "mesh_volume_m3": 1.43729450977923e-05,
+        "relative_volume_error": 4.746858432111111e-05
+      },
+      {
+        "name": "M5x16_MEJILLA_-1_-25",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.439463118604076e-07,
+        "mesh_volume_m3": 4.432107116452475e-07,
+        "relative_volume_error": 0.00165695759939413
+      },
+      {
+        "name": "M5x16_PIE_-1_-25",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.439463118604076e-07,
+        "mesh_volume_m3": 4.432107116452475e-07,
+        "relative_volume_error": 0.00165695759939413
+      },
+      {
+        "name": "TUERCA_M5_PIE_-1_-25",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.9905131053144932e-07,
+        "mesh_volume_m3": 1.987214909497947e-07,
+        "relative_volume_error": 0.0016569575993950153
+      },
+      {
+        "name": "M5x16_MEJILLA_-1_25",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.439463118604076e-07,
+        "mesh_volume_m3": 4.432107116452478e-07,
+        "relative_volume_error": 0.0016569575993935339
+      },
+      {
+        "name": "M5x16_PIE_-1_25",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.439463118604076e-07,
+        "mesh_volume_m3": 4.432107116452475e-07,
+        "relative_volume_error": 0.00165695759939413
+      },
+      {
+        "name": "TUERCA_M5_PIE_-1_25",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.9905131053144932e-07,
+        "mesh_volume_m3": 1.9872149094979483e-07,
+        "relative_volume_error": 0.0016569575993943505
+      },
+      {
+        "name": "ESCUADRA_J2_1",
+        "triangles": 1044,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.4372262866820522e-05,
+        "mesh_volume_m3": 1.43729450977923e-05,
+        "relative_volume_error": 4.746858432111111e-05
+      },
+      {
+        "name": "M5x16_MEJILLA_1_-25",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.439463118604076e-07,
+        "mesh_volume_m3": 4.432107116452478e-07,
+        "relative_volume_error": 0.0016569575993935339
+      },
+      {
+        "name": "M5x16_PIE_1_-25",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.439463118604076e-07,
+        "mesh_volume_m3": 4.4321071164524746e-07,
+        "relative_volume_error": 0.0016569575993942492
+      },
+      {
+        "name": "TUERCA_M5_PIE_1_-25",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.9905131053144932e-07,
+        "mesh_volume_m3": 1.987214909497947e-07,
+        "relative_volume_error": 0.0016569575993950153
+      },
+      {
+        "name": "M5x16_MEJILLA_1_25",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.439463118604076e-07,
+        "mesh_volume_m3": 4.432107116452475e-07,
+        "relative_volume_error": 0.00165695759939413
+      },
+      {
+        "name": "M5x16_PIE_1_25",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.439463118604076e-07,
+        "mesh_volume_m3": 4.4321071164524735e-07,
+        "relative_volume_error": 0.0016569575993944877
+      },
+      {
+        "name": "TUERCA_M5_PIE_1_25",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.9905131053144932e-07,
+        "mesh_volume_m3": 1.9872149094979477e-07,
+        "relative_volume_error": 0.0016569575993946163
+      },
+      {
+        "name": "TOPE_POSITIVO_J2",
+        "triangles": 524,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.938384095843767e-07,
+        "mesh_volume_m3": 3.9390082844005335e-07,
+        "relative_volume_error": 0.00015848849212681847
+      },
+      {
+        "name": "M3x10_TOPE_J2_45",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 8.249107595998107e-08,
+        "mesh_volume_m3": 8.235439174478712e-08,
+        "relative_volume_error": 0.0016569575993924405
+      },
+      {
+        "name": "M3x10_TOPE_J2_53",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 8.249107595998107e-08,
+        "mesh_volume_m3": 8.235439174478712e-08,
+        "relative_volume_error": 0.0016569575993924405
+      },
+      {
+        "name": "SOPORTE_ENCODER_J2",
+        "triangles": 4744,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.515302403241984e-06,
+        "mesh_volume_m3": 5.511936612917696e-06,
+        "relative_volume_error": 0.0006102639670871729
+      },
+      {
+        "name": "M3x8_ENCODER_J2_X-19",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.344328911764241e-08,
+        "mesh_volume_m3": 7.332159670161439e-08,
+        "relative_volume_error": 0.0016569575993948113
+      },
+      {
+        "name": "M3x8_ENCODER_J2_X19",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.344328911764241e-08,
+        "mesh_volume_m3": 7.332159670161439e-08,
+        "relative_volume_error": 0.0016569575993948113
+      },
+      {
+        "name": "M3x8_ENCODER_J2_Z76",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.344328911764241e-08,
+        "mesh_volume_m3": 7.332159670161439e-08,
+        "relative_volume_error": 0.0016569575993948113
+      },
+      {
+        "name": "M3x8_ENCODER_J2_Z114",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.344328911764241e-08,
+        "mesh_volume_m3": 7.332159670161447e-08,
+        "relative_volume_error": 0.00165695759939373
+      },
+      {
+        "name": "ENCODER_J2_AS5048A_PLACA_ENV",
+        "triangles": 1068,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.480388533858773e-06,
+        "mesh_volume_m3": 1.4804448363934164e-06,
+        "relative_volume_error": 3.803226879670246e-05
+      },
+      {
+        "name": "ARANDELA_M2_PCB_J2_-9_89.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181857e-09,
+        "mesh_volume_m3": 4.8331726255308905e-09,
+        "relative_volume_error": 0.0016569575993801745
+      },
+      {
+        "name": "M2x8_PCB_J2_-9_89.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.9425923939389665e-08,
+        "mesh_volume_m3": 2.937716643109909e-08,
+        "relative_volume_error": 0.0016569575993943884
+      },
+      {
+        "name": "TUERCA_M2_PCB_J2_-9_89.5",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459605465e-08,
+        "mesh_volume_m3": 1.8958589877086546e-08,
+        "relative_volume_error": 0.00028124014723913683
+      },
+      {
+        "name": "ARANDELA_M2_PCB_J2_-9_100.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181857e-09,
+        "mesh_volume_m3": 4.833172625530887e-09,
+        "relative_volume_error": 0.001656957599380858
+      },
+      {
+        "name": "M2x8_PCB_J2_-9_100.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.9425923939389665e-08,
+        "mesh_volume_m3": 2.937716643109909e-08,
+        "relative_volume_error": 0.0016569575993943884
+      },
+      {
+        "name": "TUERCA_M2_PCB_J2_-9_100.5",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459603013e-08,
+        "mesh_volume_m3": 1.8958589877084438e-08,
+        "relative_volume_error": 0.00028124014725732876
+      },
+      {
+        "name": "ARANDELA_M2_PCB_J2_9_89.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181857e-09,
+        "mesh_volume_m3": 4.8331726255308905e-09,
+        "relative_volume_error": 0.0016569575993801745
+      },
+      {
+        "name": "M2x8_PCB_J2_9_89.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.9425923939389665e-08,
+        "mesh_volume_m3": 2.9377166431099082e-08,
+        "relative_volume_error": 0.0016569575993947258
+      },
+      {
+        "name": "TUERCA_M2_PCB_J2_9_89.5",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.895325945960547e-08,
+        "mesh_volume_m3": 1.895858987708655e-08,
+        "relative_volume_error": 0.00028124014723896216
+      },
+      {
+        "name": "ARANDELA_M2_PCB_J2_9_100.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181857e-09,
+        "mesh_volume_m3": 4.833172625530886e-09,
+        "relative_volume_error": 0.0016569575993810289
+      },
+      {
+        "name": "M2x8_PCB_J2_9_100.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.9425923939389665e-08,
+        "mesh_volume_m3": 2.9377166431099082e-08,
+        "relative_volume_error": 0.0016569575993947258
+      },
+      {
+        "name": "TUERCA_M2_PCB_J2_9_100.5",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459603016e-08,
+        "mesh_volume_m3": 1.8958589877084445e-08,
+        "relative_volume_error": 0.0002812401472575033
+      },
+      {
+        "name": "CARCASA_ENCODER_J2",
+        "triangles": 1348,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.1783834118382505e-06,
+        "mesh_volume_m3": 3.178252561947248e-06,
+        "relative_volume_error": 4.1168693026546716e-05
+      },
+      {
+        "name": "ARANDELA_M2_CARCASA_ENCODER_J2_83",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181856e-09,
+        "mesh_volume_m3": 4.833172625530885e-09,
+        "relative_volume_error": 0.0016569575993812
+      },
+      {
+        "name": "M2x10_CARCASA_ENCODER_J2_83",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.2960215674678185e-08,
+        "mesh_volume_m3": 3.290560199483838e-08,
+        "relative_volume_error": 0.0016569575993933656
+      },
+      {
+        "name": "TUERCA_M2_CARCASA_ENCODER_J2_83",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459605528e-08,
+        "mesh_volume_m3": 1.8958589877086714e-08,
+        "relative_volume_error": 0.00028124014724472226
+      },
+      {
+        "name": "ARANDELA_M2_CARCASA_ENCODER_J2_119",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181856e-09,
+        "mesh_volume_m3": 4.833172625530887e-09,
+        "relative_volume_error": 0.0016569575993806874
+      },
+      {
+        "name": "M2x10_CARCASA_ENCODER_J2_119",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.2960215674678185e-08,
+        "mesh_volume_m3": 3.2905601994838376e-08,
+        "relative_volume_error": 0.0016569575993935664
+      },
+      {
+        "name": "TUERCA_M2_CARCASA_ENCODER_J2_119",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.895325945960851e-08,
+        "mesh_volume_m3": 1.895858987708846e-08,
+        "relative_volume_error": 0.00028124014717956236
+      },
+      {
+        "name": "CORONA_LECTURA_J1_60T",
+        "triangles": 5868,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 6.1440429778983465e-06,
+        "mesh_volume_m3": 6.1445177155336555e-06,
+        "relative_volume_error": 7.72679548331199e-05
+      },
+      {
+        "name": "PRISIONERO_M3x4_CORONA_J1_X",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.6556193284418207e-08,
+        "mesh_volume_m3": 1.652876037413856e-08,
+        "relative_volume_error": 0.0016569575993936167
+      },
+      {
+        "name": "PRISIONERO_M3x4_CORONA_J1_Y",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.6556193284418203e-08,
+        "mesh_volume_m3": 1.652876037413855e-08,
+        "relative_volume_error": 0.0016569575993940165
+      },
+      {
+        "name": "ALIVIO_J1",
+        "triangles": 740,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.905067037203357e-07,
+        "mesh_volume_m3": 5.908787591411108e-07,
+        "relative_volume_error": 0.0006300612989336074
+      },
+      {
+        "name": "ALIVIO_J2",
+        "triangles": 740,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.905067037203357e-07,
+        "mesh_volume_m3": 5.90878759141111e-07,
+        "relative_volume_error": 0.0006300612989339659
+      },
+      {
+        "name": "HOME_TARGET_J1",
+        "triangles": 248,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 8.482300164692441e-08,
+        "mesh_volume_m3": 8.468245352974209e-08,
+        "relative_volume_error": 0.0016569575993945244
+      },
+      {
+        "name": "HOME_SENSOR_J2",
+        "triangles": 1028,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.780163769446731e-07,
+        "mesh_volume_m3": 5.781190811799336e-07,
+        "relative_volume_error": 0.00017768395387583033
+      },
+      {
+        "name": "CHAVETA_POLEA_J1",
+        "triangles": 12,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.4256359999999998e-07,
+        "mesh_volume_m3": 1.4256360000000004e-07,
+        "relative_volume_error": 3.7133994374015373e-16
+      },
+      {
+        "name": "CHAVETA_ENTRADA_J2",
+        "triangles": 12,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.3760599999999967e-07,
+        "mesh_volume_m3": 2.376060000000001e-07,
+        "relative_volume_error": 1.78243172995274e-15
+      },
+      {
+        "name": "M2_5_CLIP_ALIVIO_J1_-6.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.5877037191380655e-08,
+        "mesh_volume_m3": 3.5817590461962636e-08,
+        "relative_volume_error": 0.0016569575993945545
+      },
+      {
+        "name": "M2_5_CLIP_ALIVIO_J1_6.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.5877037191380655e-08,
+        "mesh_volume_m3": 3.5817590461962596e-08,
+        "relative_volume_error": 0.0016569575993956613
+      },
+      {
+        "name": "M2_5_CLIP_ALIVIO_J2_-6.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.587703719138065e-08,
+        "mesh_volume_m3": 3.5817590461962596e-08,
+        "relative_volume_error": 0.0016569575993954772
+      },
+      {
+        "name": "M2_5_CLIP_ALIVIO_J2_6.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.5877037191380655e-08,
+        "mesh_volume_m3": 3.581759046196256e-08,
+        "relative_volume_error": 0.0016569575993965835
+      },
+      {
+        "name": "HOME_J2_M2_0",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.7547840581165503e-08,
+        "mesh_volume_m3": 2.7502194977367673e-08,
+        "relative_volume_error": 0.0016569575993930262
+      },
+      {
+        "name": "HOME_J2_M2_1",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.7547840581165503e-08,
+        "mesh_volume_m3": 2.750219497736762e-08,
+        "relative_volume_error": 0.001656957599394948
+      },
+      {
+        "name": "M3x10_BRIDA_PLATAFORMA_J1_0",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 8.249107595998105e-08,
+        "mesh_volume_m3": 8.235439174478695e-08,
+        "relative_volume_error": 0.001656957599394206
+      },
+      {
+        "name": "M3x10_BRIDA_PLATAFORMA_J1_1",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 8.249107595998105e-08,
+        "mesh_volume_m3": 8.235439174478695e-08,
+        "relative_volume_error": 0.001656957599394206
+      },
+      {
+        "name": "M3x10_BRIDA_PLATAFORMA_J1_2",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 8.249107595998106e-08,
+        "mesh_volume_m3": 8.235439174478695e-08,
+        "relative_volume_error": 0.001656957599394366
+      },
+      {
+        "name": "M3x10_BRIDA_PLATAFORMA_J1_3",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 8.249107595998105e-08,
+        "mesh_volume_m3": 8.235439174478695e-08,
+        "relative_volume_error": 0.001656957599394206
+      },
+      {
+        "name": "PRISIONERO_M3_POLEA_J1",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.7347434810151332e-08,
+        "mesh_volume_m3": 1.7318690846212647e-08,
+        "relative_volume_error": 0.001656957599394729
+      },
+      {
+        "name": "COLLAR_RETENCION_J1_INFERIOR_MONTADO",
+        "triangles": 778,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.1868275112019758e-06,
+        "mesh_volume_m3": 1.1849013529417762e-06,
+        "relative_volume_error": 0.0016229470938441894
+      },
+      {
+        "name": "PRISIONERO_M3_COLLAR_J1",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.729917994699219e-08,
+        "mesh_volume_m3": 1.7270515939315738e-08,
+        "relative_volume_error": 0.0016569575993940014
+      },
+      {
+        "name": "ESPACIADOR_J1_INF_POLEA",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 6.911503837897548e-07,
+        "mesh_volume_m3": 6.900051769090095e-07,
+        "relative_volume_error": 0.0016569575993951988
+      },
+      {
+        "name": "ESPACIADOR_J1_SUP_POLEA",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.764601535159019e-07,
+        "mesh_volume_m3": 2.7600207076360367e-07,
+        "relative_volume_error": 0.0016569575993954672
+      },
+      {
+        "name": "ESPACIADOR_J1_CORONA_ENCODER",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.796990997853364e-07,
+        "mesh_volume_m3": 1.7940134599634242e-07,
+        "relative_volume_error": 0.0016569575993962756
+      },
+      {
+        "name": "ESPACIADOR_ENTRADA_J2_NEG",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.7592918860102846e-07,
+        "mesh_volume_m3": 1.7563768139502078e-07,
+        "relative_volume_error": 0.0016569575993938942
+      },
+      {
+        "name": "ESPACIADOR_ENTRADA_J2_POS",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.398229715025711e-07,
+        "mesh_volume_m3": 4.3909420348755174e-07,
+        "relative_volume_error": 0.0016569575993943457
+      },
+      {
+        "name": "M3x14_APRIETE_ACOPLE_J2_-93",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.2578779905340852e-07,
+        "mesh_volume_m3": 1.2557937400385603e-07,
+        "relative_volume_error": 0.0016569575993932019
+      },
+      {
+        "name": "M3x14_APRIETE_ACOPLE_J2_-75",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.2578779905340852e-07,
+        "mesh_volume_m3": 1.2557937400385603e-07,
+        "relative_volume_error": 0.0016569575993932019
+      }
+    ]
+  },
+  {
+    "cad_link": "L2_BRAZO_SUBASSEMBLY",
+    "ros_link": "link_2",
+    "step_pose_mm": [
+      [
+        0.6427876096865398,
+        -1.0820424741839694e-15,
+        -0.7660444431189778,
+        1.32639524951742e-13
+      ],
+      [
+        2.3947763167162396e-15,
+        1.0,
+        5.969497909417958e-16,
+        5.37945359462398e-28
+      ],
+      [
+        0.7660444431189778,
+        -2.2182170191557647e-15,
+        0.6427876096865398,
+        273.0
+      ],
+      [
+        0,
+        0,
+        0,
+        1
+      ]
+    ],
+    "physical_occurrences": 83,
+    "excluded_references": 1,
+    "triangles": 565313,
+    "bounds_m": [
+      [
+        -0.06683884052014571,
+        -0.06684507609859601,
+        -0.06600000000000002
+      ],
+      [
+        0.20319718634205505,
+        0.06682013494815463,
+        0.22830207259422294
+      ]
+    ],
+    "parts": [
+      {
+        "name": "REFERENCIAS",
+        "excluded": "reference_BOM"
+      },
+      {
+        "name": "EJE_J2",
+        "triangles": 380,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.2717352787237136e-05,
+        "mesh_volume_m3": 1.269720820253346e-05,
+        "relative_volume_error": 0.0015840234237971802
+      },
+      {
+        "name": "POLEA_J2",
+        "triangles": 1252,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 0.00020952084569978832,
+        "mesh_volume_m3": 0.0002094165724334302,
+        "relative_volume_error": 0.000497674902035898
+      },
+      {
+        "name": "BRAZO_PLACA_-32",
+        "triangles": 2832,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.024387849625633e-05,
+        "mesh_volume_m3": 2.0244179955919084e-05,
+        "relative_volume_error": 1.4891398543516687e-05
+      },
+      {
+        "name": "CUBO_-32",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.714336052701581e-06,
+        "mesh_volume_m3": 2.7098385129517493e-06,
+        "relative_volume_error": 0.0016569575993935883
+      },
+      {
+        "name": "BRAZO_PLACA_28",
+        "triangles": 3734,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.1102604833328074e-05,
+        "mesh_volume_m3": 2.1103109371237762e-05,
+        "relative_volume_error": 2.3908797689810523e-05
+      },
+      {
+        "name": "CUBO_28",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.714336052701581e-06,
+        "mesh_volume_m3": 2.7098385129517493e-06,
+        "relative_volume_error": 0.0016569575993935883
+      },
+      {
+        "name": "TRAVESANO_22",
+        "triangles": 1020,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.4218190275490383e-05,
+        "mesh_volume_m3": 1.4218385481208707e-05,
+        "relative_volume_error": 1.3729294273194254e-05
+      },
+      {
+        "name": "TRAVESANO_138",
+        "triangles": 1020,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.4218190275490383e-05,
+        "mesh_volume_m3": 1.4218385481208748e-05,
+        "relative_volume_error": 1.37292942760538e-05
+      },
+      {
+        "name": "MOTOR_J3",
+        "triangles": 499519,
+        "nurbs_faces": 8,
+        "cad_volume_m3": 6.860960292872853e-05,
+        "mesh_volume_m3": 6.783966137808962e-05,
+        "relative_volume_error": 0.011222066850302576
+      },
+      {
+        "name": "SOPORTE_MOTOR_J3",
+        "triangles": 1836,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.6594762046186925e-05,
+        "mesh_volume_m3": 3.6596699423900056e-05,
+        "relative_volume_error": 5.2941393926446245e-05
+      },
+      {
+        "name": "ACOPLE_J3_REX8_D12",
+        "triangles": 2104,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 9.500708784094127e-06,
+        "mesh_volume_m3": 9.485789421170214e-06,
+        "relative_volume_error": 0.0015703420937278818
+      },
+      {
+        "name": "EJE_ENTRADA_J3",
+        "triangles": 292,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.4272999346144196e-06,
+        "mesh_volume_m3": 5.418183438619744e-06,
+        "relative_volume_error": 0.0016797479602209235
+      },
+      {
+        "name": "APOYO_ENTRADA_J3_32",
+        "triangles": 484,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 6.769219122447796e-06,
+        "mesh_volume_m3": 6.762995868023215e-06,
+        "relative_volume_error": 0.0009193459854097214
+      },
+      {
+        "name": "ROD_ENTRADA_J3_32",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.021238596594937e-06,
+        "mesh_volume_m3": 4.014575574743328e-06,
+        "relative_volume_error": 0.0016569575993950073
+      },
+      {
+        "name": "APOYO_ENTRADA_J3_62",
+        "triangles": 484,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 6.769219122447796e-06,
+        "mesh_volume_m3": 6.762995868023212e-06,
+        "relative_volume_error": 0.0009193459854100969
+      },
+      {
+        "name": "ROD_ENTRADA_J3_62",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.021238596594937e-06,
+        "mesh_volume_m3": 4.0145755747433334e-06,
+        "relative_volume_error": 0.0016569575993937435
+      },
+      {
+        "name": "POLEA_MOTRIZ_J3",
+        "triangles": 488,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.4713209723996007e-06,
+        "mesh_volume_m3": 2.466714657542331e-06,
+        "relative_volume_error": 0.0018639079701560876
+      },
+      {
+        "name": "CORREA_J3",
+        "triangles": 592,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.0832620375330055e-06,
+        "mesh_volume_m3": 7.083262037532925e-06,
+        "relative_volume_error": 1.1360320931623248e-14
+      },
+      {
+        "name": "PORTARODAMIENTO_J3_-32",
+        "triangles": 1528,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.989822670059037e-06,
+        "mesh_volume_m3": 3.983211703065651e-06,
+        "relative_volume_error": 0.0016569575993933263
+      },
+      {
+        "name": "ROD_J3_-32",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.021238596594934e-06,
+        "mesh_volume_m3": 4.01457557474333e-06,
+        "relative_volume_error": 0.0016569575993939552
+      },
+      {
+        "name": "PORTARODAMIENTO_J3_24",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.1469023027385265e-06,
+        "mesh_volume_m3": 4.140031061454064e-06,
+        "relative_volume_error": 0.0016569575993929018
+      },
+      {
+        "name": "ROD_J3_24",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.021238596594934e-06,
+        "mesh_volume_m3": 4.01457557474333e-06,
+        "relative_volume_error": 0.0016569575993939552
+      },
+      {
+        "name": "CARCASA_J3_CORREA",
+        "triangles": 418,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.143467827027391e-05,
+        "mesh_volume_m3": 2.143575834844285e-05,
+        "relative_volume_error": 5.038928764511751e-05
+      },
+      {
+        "name": "CARCASA_MOTOR_J3_V06",
+        "triangles": 1670,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.5237923714694405e-05,
+        "mesh_volume_m3": 1.5194519127064997e-05,
+        "relative_volume_error": 0.002848458126060302
+      },
+      {
+        "name": "CARCASA_BRAZO",
+        "triangles": 2416,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 6.8904801358177705e-06,
+        "mesh_volume_m3": 6.890267540170474e-06,
+        "relative_volume_error": 3.0853531699654754e-05
+      },
+      {
+        "name": "M3x10_UNION_TRAVESANO_V1_22_-1_-10",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.0769222536873129e-07,
+        "mesh_volume_m3": 1.0751378391751097e-07,
+        "relative_volume_error": 0.0016569575993934898
+      },
+      {
+        "name": "M3x10_UNION_TRAVESANO_V1_22_-1_10",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.0769222536873129e-07,
+        "mesh_volume_m3": 1.0751378391751105e-07,
+        "relative_volume_error": 0.0016569575993927524
+      },
+      {
+        "name": "M3x10_UNION_TRAVESANO_V1_22_1_-10",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.0769222536873129e-07,
+        "mesh_volume_m3": 1.0751378391751097e-07,
+        "relative_volume_error": 0.0016569575993934898
+      },
+      {
+        "name": "M3x10_UNION_TRAVESANO_V1_22_1_10",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.0769222536873129e-07,
+        "mesh_volume_m3": 1.0751378391751105e-07,
+        "relative_volume_error": 0.0016569575993927524
+      },
+      {
+        "name": "M3x10_UNION_TRAVESANO_V1_130_-1_-10",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.0769222536873138e-07,
+        "mesh_volume_m3": 1.0751378391751112e-07,
+        "relative_volume_error": 0.0016569575993929967
+      },
+      {
+        "name": "M3x10_UNION_TRAVESANO_V1_130_-1_10",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.0769222536873139e-07,
+        "mesh_volume_m3": 1.0751378391751112e-07,
+        "relative_volume_error": 0.0016569575993931195
+      },
+      {
+        "name": "M3x10_UNION_TRAVESANO_V1_130_1_-10",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.0769222536873139e-07,
+        "mesh_volume_m3": 1.0751378391751084e-07,
+        "relative_volume_error": 0.0016569575993957003
+      },
+      {
+        "name": "M3x10_UNION_TRAVESANO_V1_130_1_10",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.0769222536873138e-07,
+        "mesh_volume_m3": 1.0751378391751112e-07,
+        "relative_volume_error": 0.0016569575993929967
+      },
+      {
+        "name": "PORTAIMAN_ENCODER_J2",
+        "triangles": 1546,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.1307152961722912e-06,
+        "mesh_volume_m3": 1.1288695416959486e-06,
+        "relative_volume_error": 0.0016323777369872737
+      },
+      {
+        "name": "IMAN_DIAMETRAL_ENCODER_J2",
+        "triangles": 248,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.068583470577035e-08,
+        "mesh_volume_m3": 7.056871127478498e-08,
+        "relative_volume_error": 0.0016569575993958974
+      },
+      {
+        "name": "PRISIONERO_M2x3_ENCODER_J2_X",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.919734095521614e-09,
+        "mesh_volume_m3": 4.911582304725046e-09,
+        "relative_volume_error": 0.0016569575993931314
+      },
+      {
+        "name": "PRISIONERO_M2x3_ENCODER_J2_Z",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.919734095521619e-09,
+        "mesh_volume_m3": 4.911582304725042e-09,
+        "relative_volume_error": 0.0016569575993949793
+      },
+      {
+        "name": "SOPORTE_ENCODER_J3",
+        "triangles": 5170,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.119049441640294e-06,
+        "mesh_volume_m3": 5.116852286104399e-06,
+        "relative_volume_error": 0.00042921162628789425
+      },
+      {
+        "name": "M3_BASE_ENCODER_J3_X-16.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.34432891176425e-08,
+        "mesh_volume_m3": 7.332159670161439e-08,
+        "relative_volume_error": 0.0016569575993958907
+      },
+      {
+        "name": "M3_BASE_ENCODER_J3_X16.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.34432891176425e-08,
+        "mesh_volume_m3": 7.332159670161496e-08,
+        "relative_volume_error": 0.001656957599388142
+      },
+      {
+        "name": "M3_BASE_ENCODER_J3_Z-16.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.34432891176425e-08,
+        "mesh_volume_m3": 7.332159670161411e-08,
+        "relative_volume_error": 0.001656957599399675
+      },
+      {
+        "name": "M3_BASE_ENCODER_J3_Z16.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.344328911764247e-08,
+        "mesh_volume_m3": 7.332159670161439e-08,
+        "relative_volume_error": 0.001656957599395531
+      },
+      {
+        "name": "ENCODER_J3_AS5048A_PLACA_ENV",
+        "triangles": 1068,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.4803885338587733e-06,
+        "mesh_volume_m3": 1.4804448363934202e-06,
+        "relative_volume_error": 3.803226879913417e-05
+      },
+      {
+        "name": "ARANDELA_M2_PCB_J3_-9_-5.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181854e-09,
+        "mesh_volume_m3": 4.833172625530873e-09,
+        "relative_volume_error": 0.0016569575993832508
+      },
+      {
+        "name": "M2x8_PCB_J3_-9_-5.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.9425923939389635e-08,
+        "mesh_volume_m3": 2.9377166431099313e-08,
+        "relative_volume_error": 0.0016569575993858445
+      },
+      {
+        "name": "TUERCA_M2_PCB_J3_-9_-5.5",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459605666e-08,
+        "mesh_volume_m3": 1.8958589877086986e-08,
+        "relative_volume_error": 0.0002812401472517031
+      },
+      {
+        "name": "ARANDELA_M2_PCB_J3_-9_5.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.8411942791818526e-09,
+        "mesh_volume_m3": 4.833172625530871e-09,
+        "relative_volume_error": 0.0016569575993834224
+      },
+      {
+        "name": "M2x8_PCB_J3_-9_5.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.9425923939389628e-08,
+        "mesh_volume_m3": 2.9377166431099313e-08,
+        "relative_volume_error": 0.00165695759938562
+      },
+      {
+        "name": "TUERCA_M2_PCB_J3_-9_5.5",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459605666e-08,
+        "mesh_volume_m3": 1.8958589877086774e-08,
+        "relative_volume_error": 0.0002812401472405304
+      },
+      {
+        "name": "ARANDELA_M2_PCB_J3_9_-5.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181854e-09,
+        "mesh_volume_m3": 4.833172625530894e-09,
+        "relative_volume_error": 0.0016569575993789793
+      },
+      {
+        "name": "M2x8_PCB_J3_9_-5.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.9425923939389635e-08,
+        "mesh_volume_m3": 2.9377166431098748e-08,
+        "relative_volume_error": 0.0016569575994050722
+      },
+      {
+        "name": "TUERCA_M2_PCB_J3_9_-5.5",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.895325945960567e-08,
+        "mesh_volume_m3": 1.8958589877086916e-08,
+        "relative_volume_error": 0.00028124014724786243
+      },
+      {
+        "name": "ARANDELA_M2_PCB_J3_9_5.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.8411942791818526e-09,
+        "mesh_volume_m3": 4.833172625530883e-09,
+        "relative_volume_error": 0.0016569575993808593
+      },
+      {
+        "name": "M2x8_PCB_J3_9_5.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.9425923939389628e-08,
+        "mesh_volume_m3": 2.937716643109903e-08,
+        "relative_volume_error": 0.00165695759939529
+      },
+      {
+        "name": "TUERCA_M2_PCB_J3_9_5.5",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459605666e-08,
+        "mesh_volume_m3": 1.8958589877086916e-08,
+        "relative_volume_error": 0.00028124014724803704
+      },
+      {
+        "name": "CARCASA_ENCODER_J3",
+        "triangles": 1348,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.1783834118381433e-06,
+        "mesh_volume_m3": 3.1782525619472855e-06,
+        "relative_volume_error": 4.116869298097694e-05
+      },
+      {
+        "name": "ARANDELA_M2_CARCASA_J3_-12",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181854e-09,
+        "mesh_volume_m3": 4.833172625530839e-09,
+        "relative_volume_error": 0.0016569575993902563
+      },
+      {
+        "name": "M2x10_CARCASA_J3_-12",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.296021567467814e-08,
+        "mesh_volume_m3": 3.290560199483824e-08,
+        "relative_volume_error": 0.0016569575993961787
+      },
+      {
+        "name": "TUERCA_M2_CARCASA_J3_-12",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459605875e-08,
+        "mesh_volume_m3": 1.8958589877087376e-08,
+        "relative_volume_error": 0.0002812401472613015
+      },
+      {
+        "name": "ARANDELA_M2_CARCASA_J3_24",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181854e-09,
+        "mesh_volume_m3": 4.833172625530833e-09,
+        "relative_volume_error": 0.001656957599391623
+      },
+      {
+        "name": "M2x10_CARCASA_J3_24",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.296021567467813e-08,
+        "mesh_volume_m3": 3.290560199483839e-08,
+        "relative_volume_error": 0.0016569575993915613
+      },
+      {
+        "name": "TUERCA_M2_CARCASA_J3_24",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459605878e-08,
+        "mesh_volume_m3": 1.895858987708734e-08,
+        "relative_volume_error": 0.00028124014725920655
+      },
+      {
+        "name": "ALIVIO_J3",
+        "triangles": 740,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.905067037203355e-07,
+        "mesh_volume_m3": 5.908787591411116e-07,
+        "relative_volume_error": 0.0006300612989354005
+      },
+      {
+        "name": "HOME_TARGET_J2",
+        "triangles": 248,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 8.482300164692441e-08,
+        "mesh_volume_m3": 8.468245352974209e-08,
+        "relative_volume_error": 0.0016569575993945244
+      },
+      {
+        "name": "HOME_SENSOR_J3",
+        "triangles": 1028,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.780163769446733e-07,
+        "mesh_volume_m3": 5.781190811799365e-07,
+        "relative_volume_error": 0.0001776839538804097
+      },
+      {
+        "name": "TOPE_J3_HOME",
+        "triangles": 524,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.67366377849004e-07,
+        "mesh_volume_m3": 5.67486728681198e-07,
+        "relative_volume_error": 0.00021212189670154837
+      },
+      {
+        "name": "CHAVETA_POLEA_J2",
+        "triangles": 12,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.3760600000000002e-07,
+        "mesh_volume_m3": 2.3760600000000036e-07,
+        "relative_volume_error": 1.4482257805865992e-15
+      },
+      {
+        "name": "CHAVETA_ENTRADA_J3",
+        "triangles": 12,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.3760599999999938e-07,
+        "mesh_volume_m3": 2.3760599999999896e-07,
+        "relative_volume_error": 1.7824317299527422e-15
+      },
+      {
+        "name": "M2_5_CLIP_ALIVIO_J3_-6.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.587703719138066e-08,
+        "mesh_volume_m3": 3.581759046196281e-08,
+        "relative_volume_error": 0.001656957599389943
+      },
+      {
+        "name": "M2_5_CLIP_ALIVIO_J3_6.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.587703719138066e-08,
+        "mesh_volume_m3": 3.581759046196267e-08,
+        "relative_volume_error": 0.0016569575993938164
+      },
+      {
+        "name": "HOME_J3_M2_0",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.7547840581165503e-08,
+        "mesh_volume_m3": 2.7502194977367604e-08,
+        "relative_volume_error": 0.0016569575993955485
+      },
+      {
+        "name": "HOME_J3_M2_1",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.7547840581165503e-08,
+        "mesh_volume_m3": 2.7502194977368027e-08,
+        "relative_volume_error": 0.0016569575993801748
+      },
+      {
+        "name": "TOPE_J3_M3_0",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 9.864443852639275e-08,
+        "mesh_volume_m3": 9.848098887433853e-08,
+        "relative_volume_error": 0.001656957599393605
+      },
+      {
+        "name": "TOPE_J3_M3_1",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 9.864443852639276e-08,
+        "mesh_volume_m3": 9.848098887433937e-08,
+        "relative_volume_error": 0.001656957599385152
+      },
+      {
+        "name": "CHAVETA_ESTRUCTURAL_J2_NEG",
+        "triangles": 12,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 6.33616e-08,
+        "mesh_volume_m3": 6.336160000000004e-08,
+        "relative_volume_error": 6.266361550615093e-16
+      },
+      {
+        "name": "CHAVETA_ESTRUCTURAL_J2_POS",
+        "triangles": 12,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 6.33616e-08,
+        "mesh_volume_m3": 6.336160000000004e-08,
+        "relative_volume_error": 6.266361550615093e-16
+      },
+      {
+        "name": "PRISIONERO_M3_POLEA_J2",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.734743481015133e-08,
+        "mesh_volume_m3": 1.7318690846212647e-08,
+        "relative_volume_error": 0.0016569575993945387
+      },
+      {
+        "name": "ARANDELA_RETENCION_J2_NEG_MONTADA",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 8.796459430051423e-08,
+        "mesh_volume_m3": 8.781884069750984e-08,
+        "relative_volume_error": 0.0016569575994002134
+      },
+      {
+        "name": "ARANDELA_RETENCION_J2_POS_MONTADA",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.3982297150257115e-08,
+        "mesh_volume_m3": 4.390942034875461e-08,
+        "relative_volume_error": 0.001656957599407285
+      },
+      {
+        "name": "ESPACIADOR_ENTRADA_J3_NEG",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.6389378290154266e-07,
+        "mesh_volume_m3": 2.6345652209253103e-07,
+        "relative_volume_error": 0.0016569575993943457
+      },
+      {
+        "name": "ESPACIADOR_ENTRADA_J3_POS",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.518583772020569e-07,
+        "mesh_volume_m3": 3.512753627900406e-07,
+        "relative_volume_error": 0.0016569575993966026
+      },
+      {
+        "name": "M3x14_APRIETE_ACOPLE_J3_90",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.2578779905340855e-07,
+        "mesh_volume_m3": 1.2557937400385582e-07,
+        "relative_volume_error": 0.0016569575993950955
+      },
+      {
+        "name": "M3x14_APRIETE_ACOPLE_J3_74.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.2578779905340855e-07,
+        "mesh_volume_m3": 1.2557937400385598e-07,
+        "relative_volume_error": 0.0016569575993938329
+      }
+    ]
+  },
+  {
+    "cad_link": "L3_ANTEBRAZO_SUBASSEMBLY",
+    "ros_link": "link_3",
+    "step_pose_mm": [
+      [
+        0.866025403784438,
+        -3.287745592040297e-15,
+        0.500000000000001,
+        102.846017549847
+      ],
+      [
+        3.596148532996339e-15,
+        1.0,
+        3.46779213366655e-16,
+        3.83164210674601e-13
+      ],
+      [
+        -0.500000000000001,
+        1.497754658218266e-15,
+        0.866025403784438,
+        395.567110899037
+      ],
+      [
+        0,
+        0,
+        0,
+        1
+      ]
+    ],
+    "physical_occurrences": 119,
+    "excluded_references": 1,
+    "triangles": 121866,
+    "bounds_m": [
+      [
+        -0.03819096060422072,
+        -0.08550000000000002,
+        -0.048000000000000015
+      ],
+      [
+        0.13800000000000004,
+        0.07060000000000001,
+        0.06400000000000002
+      ]
+    ],
+    "parts": [
+      {
+        "name": "REFERENCIAS",
+        "excluded": "reference_BOM"
+      },
+      {
+        "name": "EJE_J3",
+        "triangles": 636,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 8.476202704890918e-06,
+        "mesh_volume_m3": 8.461895458516706e-06,
+        "relative_volume_error": 0.0016879311258042773
+      },
+      {
+        "name": "POLEA_J3",
+        "triangles": 2164,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.4094988604525554e-05,
+        "mesh_volume_m3": 5.4058270356364984e-05,
+        "relative_volume_error": 0.0006787735630930264
+      },
+      {
+        "name": "PLACA_ANTEBRAZO_-22",
+        "triangles": 1960,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.0546686504871439e-05,
+        "mesh_volume_m3": 1.0543788455614084e-05,
+        "relative_volume_error": 0.000274782914616522
+      },
+      {
+        "name": "PLACA_ANTEBRAZO_18",
+        "triangles": 1936,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.1450732656438223e-05,
+        "mesh_volume_m3": 1.1448312407450125e-05,
+        "relative_volume_error": 0.00021136193296216352
+      },
+      {
+        "name": "TRAVESANO",
+        "triangles": 1020,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.370190275490383e-06,
+        "mesh_volume_m3": 7.370385481208693e-06,
+        "relative_volume_error": 2.6485845142863504e-05
+      },
+      {
+        "name": "SOPORTE_J4_104",
+        "triangles": 4338,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.148472173357834e-05,
+        "mesh_volume_m3": 2.1488936099453234e-05,
+        "relative_volume_error": 0.00019615640952455658
+      },
+      {
+        "name": "ROD_J4_104",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.4306191777200545e-06,
+        "mesh_volume_m3": 3.4249347872029204e-06,
+        "relative_volume_error": 0.001656957599389346
+      },
+      {
+        "name": "SOPORTE_J4_133",
+        "triangles": 4978,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.565348020487146e-05,
+        "mesh_volume_m3": 2.5657992578049848e-05,
+        "relative_volume_error": 0.0001758971158046652
+      },
+      {
+        "name": "ROD_J4_133",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.4306191777200545e-06,
+        "mesh_volume_m3": 3.4249347872029107e-06,
+        "relative_volume_error": 0.0016569575993921855
+      },
+      {
+        "name": "MOTOR_J4",
+        "triangles": 20192,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.8143339990403626e-05,
+        "mesh_volume_m3": 2.8105831354498633e-05,
+        "relative_volume_error": 0.0013327713028298575
+      },
+      {
+        "name": "POLEA_MOTRIZ_J4",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.4652127425594716e-06,
+        "mesh_volume_m3": 2.461127989571556e-06,
+        "relative_volume_error": 0.0016569575993975302
+      },
+      {
+        "name": "CORREA_J4",
+        "triangles": 592,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.5212870948237553e-06,
+        "mesh_volume_m3": 3.521287094823735e-06,
+        "relative_volume_error": 5.773113690157856e-15
+      },
+      {
+        "name": "ESPACIADOR_J4_-40_-40",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.559457322700442e-07,
+        "mesh_volume_m3": 7.546931622442303e-07,
+        "relative_volume_error": 0.0016569575993933914
+      },
+      {
+        "name": "ESPACIADOR_J4_-40_60",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.559457322700442e-07,
+        "mesh_volume_m3": 7.546931622442297e-07,
+        "relative_volume_error": 0.0016569575993942319
+      },
+      {
+        "name": "ESPACIADOR_J4_40_-40",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.559457322700442e-07,
+        "mesh_volume_m3": 7.546931622442298e-07,
+        "relative_volume_error": 0.0016569575993940918
+      },
+      {
+        "name": "ESPACIADOR_J4_40_60",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.559457322700442e-07,
+        "mesh_volume_m3": 7.546931622442297e-07,
+        "relative_volume_error": 0.0016569575993942319
+      },
+      {
+        "name": "CARCASA_ANTEBRAZO",
+        "triangles": 2080,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.7249380388201246e-06,
+        "mesh_volume_m3": 3.7246594412189617e-06,
+        "relative_volume_error": 7.479254641541317e-05
+      },
+      {
+        "name": "CARCASA_J4_CORREA",
+        "triangles": 1292,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.1009615194254033e-05,
+        "mesh_volume_m3": 1.1010378552722255e-05,
+        "relative_volume_error": 6.933561752638876e-05
+      },
+      {
+        "name": "CARCASA_MOTOR_J4_V06",
+        "triangles": 1832,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.8177446369651965e-06,
+        "mesh_volume_m3": 5.817946931248033e-06,
+        "relative_volume_error": 3.4771942644458695e-05
+      },
+      {
+        "name": "M3x10_UNION_TRAVESANO_V1_18_-1_-8",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 8.249107595998102e-08,
+        "mesh_volume_m3": 8.23543917447869e-08,
+        "relative_volume_error": 0.0016569575993945274
+      },
+      {
+        "name": "M3x10_UNION_TRAVESANO_V1_18_-1_8",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 8.249107595998103e-08,
+        "mesh_volume_m3": 8.235439174478695e-08,
+        "relative_volume_error": 0.0016569575993940458
+      },
+      {
+        "name": "M3x10_UNION_TRAVESANO_V1_18_1_-8",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 8.249107595998101e-08,
+        "mesh_volume_m3": 8.235439174478689e-08,
+        "relative_volume_error": 0.0016569575993945276
+      },
+      {
+        "name": "M3x10_UNION_TRAVESANO_V1_18_1_8",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 8.249107595998101e-08,
+        "mesh_volume_m3": 8.235439174478689e-08,
+        "relative_volume_error": 0.0016569575993945276
+      },
+      {
+        "name": "TAPA_RODAMIENTO_J4_DELANTERO",
+        "triangles": 1540,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.554711372408517e-06,
+        "mesh_volume_m3": 1.5525827504943105e-06,
+        "relative_volume_error": 0.0013691428209655278
+      },
+      {
+        "name": "M3x8_TAPA_RODAMIENTO_J4_0",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.344328911764256e-08,
+        "mesh_volume_m3": 7.332159670161496e-08,
+        "relative_volume_error": 0.0016569575993890414
+      },
+      {
+        "name": "M3x8_TAPA_RODAMIENTO_J4_1",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.344328911764256e-08,
+        "mesh_volume_m3": 7.332159670161496e-08,
+        "relative_volume_error": 0.0016569575993890414
+      },
+      {
+        "name": "M3x8_TAPA_RODAMIENTO_J4_2",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.344328911764256e-08,
+        "mesh_volume_m3": 7.332159670161411e-08,
+        "relative_volume_error": 0.0016569575994005747
+      },
+      {
+        "name": "M3x8_TAPA_RODAMIENTO_J4_3",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.344328911764256e-08,
+        "mesh_volume_m3": 7.332159670161468e-08,
+        "relative_volume_error": 0.0016569575993928259
+      },
+      {
+        "name": "CARRO_MOTOR_J4_TENSOR",
+        "triangles": 2344,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 9.599859683487227e-06,
+        "mesh_volume_m3": 9.603181121798016e-06,
+        "relative_volume_error": 0.0003459882144426371
+      },
+      {
+        "name": "PUENTE_AJUSTADOR_J4",
+        "triangles": 780,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.405143372584757e-06,
+        "mesh_volume_m3": 2.40533368514639e-06,
+        "relative_volume_error": 7.912732513252122e-05
+      },
+      {
+        "name": "ARANDELA_PUENTE_J4_54",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.0115928344559129e-08,
+        "mesh_volume_m3": 1.0099166680213828e-08,
+        "relative_volume_error": 0.0016569575993799946
+      },
+      {
+        "name": "M3x12_PUENTE_J4_54",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 9.153886280231986e-08,
+        "mesh_volume_m3": 9.13871867879593e-08,
+        "relative_volume_error": 0.0016569575993980543
+      },
+      {
+        "name": "ARANDELA_PUENTE_J4_67",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.5221016406642545e-08,
+        "mesh_volume_m3": 1.5195795827836802e-08,
+        "relative_volume_error": 0.0016569575994108
+      },
+      {
+        "name": "M3x12_PUENTE_J4_67",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 9.153886280231986e-08,
+        "mesh_volume_m3": 9.13871867879593e-08,
+        "relative_volume_error": 0.0016569575993980543
+      },
+      {
+        "name": "ARANDELA_TRACCION_J4",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.522101640664256e-08,
+        "mesh_volume_m3": 1.5195795827837103e-08,
+        "relative_volume_error": 0.0016569575993921038
+      },
+      {
+        "name": "M3x20_AJUSTADOR_J4",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.5293115958042435e-07,
+        "mesh_volume_m3": 1.5267775913337332e-07,
+        "relative_volume_error": 0.0016569575993947588
+      },
+      {
+        "name": "ARANDELA_BLOQUEO_J4_-30",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.522101640664255e-08,
+        "mesh_volume_m3": 1.5195795827836815e-08,
+        "relative_volume_error": 0.0016569575994103646
+      },
+      {
+        "name": "M3x12_BLOQUEO_J4_-30",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 9.153886280231977e-08,
+        "mesh_volume_m3": 9.138718678795958e-08,
+        "relative_volume_error": 0.0016569575993940079
+      },
+      {
+        "name": "TUERCA_BLOQUEO_J4_-30",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.1092471863788754e-08,
+        "mesh_volume_m3": 5.1111992435618945e-08,
+        "relative_volume_error": 0.00038206356275406755
+      },
+      {
+        "name": "ARANDELA_BLOQUEO_J4_30",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.5221016406642545e-08,
+        "mesh_volume_m3": 1.519579582783732e-08,
+        "relative_volume_error": 0.0016569575993766717
+      },
+      {
+        "name": "M3x12_BLOQUEO_J4_30",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 9.153886280231977e-08,
+        "mesh_volume_m3": 9.138718678796015e-08,
+        "relative_volume_error": 0.0016569575993877908
+      },
+      {
+        "name": "TUERCA_BLOQUEO_J4_30",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.109247186378875e-08,
+        "mesh_volume_m3": 5.1111992435618945e-08,
+        "relative_volume_error": 0.0003820635627541971
+      },
+      {
+        "name": "ARANDELA_MOTOR_J4_-8.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.522101640664255e-08,
+        "mesh_volume_m3": 1.5195795827836812e-08,
+        "relative_volume_error": 0.001656957599410582
+      },
+      {
+        "name": "M3x6_MOTOR_J4_-8.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 6.439550227530393e-08,
+        "mesh_volume_m3": 6.42888016584418e-08,
+        "relative_volume_error": 0.001656957599398255
+      },
+      {
+        "name": "ARANDELA_MOTOR_J4_8.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.522101640664255e-08,
+        "mesh_volume_m3": 1.519579582783738e-08,
+        "relative_volume_error": 0.001656957599373193
+      },
+      {
+        "name": "M3x6_MOTOR_J4_8.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 6.439550227530394e-08,
+        "mesh_volume_m3": 6.428880165844237e-08,
+        "relative_volume_error": 0.0016569575993896225
+      },
+      {
+        "name": "ARANDELA_FUNDA_J4_-18",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.5221016406642548e-08,
+        "mesh_volume_m3": 1.5195795827836193e-08,
+        "relative_volume_error": 0.0016569575994510148
+      },
+      {
+        "name": "M3x18_FUNDA_J4_-18",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.1868222332933553e-07,
+        "mesh_volume_m3": 1.184855719174768e-07,
+        "relative_volume_error": 0.0016569575993958306
+      },
+      {
+        "name": "TUERCA_FUNDA_J4_-18",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.109247186378876e-08,
+        "mesh_volume_m3": 5.111199243561981e-08,
+        "relative_volume_error": 0.000382063562770905
+      },
+      {
+        "name": "ARANDELA_FUNDA_J4_18",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.522101640664255e-08,
+        "mesh_volume_m3": 1.519579582783738e-08,
+        "relative_volume_error": 0.001656957599373193
+      },
+      {
+        "name": "M3x18_FUNDA_J4_18",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.1868222332933552e-07,
+        "mesh_volume_m3": 1.1848557191747652e-07,
+        "relative_volume_error": 0.001656957599398061
+      },
+      {
+        "name": "TUERCA_FUNDA_J4_18",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.1092471863788754e-08,
+        "mesh_volume_m3": 5.111199243561953e-08,
+        "relative_volume_error": 0.00038206356276546523
+      },
+      {
+        "name": "PORTAIMAN_ENCODER_J3",
+        "triangles": 1546,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.1307110897642502e-06,
+        "mesh_volume_m3": 1.1288695215826223e-06,
+        "relative_volume_error": 0.0016286814539087124
+      },
+      {
+        "name": "PRISIONERO_M2x3_ENCODER_J3_X",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.919734095521614e-09,
+        "mesh_volume_m3": 4.911582304725039e-09,
+        "relative_volume_error": 0.0016569575993946447
+      },
+      {
+        "name": "PRISIONERO_M2x3_ENCODER_J3_Z",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.919734095521619e-09,
+        "mesh_volume_m3": 4.911582304725044e-09,
+        "relative_volume_error": 0.001656957599394643
+      },
+      {
+        "name": "IMAN_DIAMETRAL_ENCODER_J3",
+        "triangles": 248,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.068583470577035e-08,
+        "mesh_volume_m3": 7.056871127478516e-08,
+        "relative_volume_error": 0.001656957599393276
+      },
+      {
+        "name": "SOPORTE_ENCODER_J4",
+        "triangles": 6160,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.1337716481711403e-05,
+        "mesh_volume_m3": 1.1337235537462632e-05,
+        "relative_volume_error": 4.241985143546459e-05
+      },
+      {
+        "name": "M3x8_PUENTE_ENCODER_J4_-34",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.344328911764261e-08,
+        "mesh_volume_m3": 7.332159670161496e-08,
+        "relative_volume_error": 0.001656957599389761
+      },
+      {
+        "name": "M3x8_PUENTE_ENCODER_J4_34",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.344328911764261e-08,
+        "mesh_volume_m3": 7.332159670161439e-08,
+        "relative_volume_error": 0.0016569575993975098
+      },
+      {
+        "name": "RODAMIENTO_ENCODER_J4_MR63ZZ_84",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.301437602932774e-08,
+        "mesh_volume_m3": 5.2926533456089206e-08,
+        "relative_volume_error": 0.0016569575993866609
+      },
+      {
+        "name": "TAPA_RODAMIENTO_ENCODER_J4_84",
+        "triangles": 1016,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.7889799365867076e-07,
+        "mesh_volume_m3": 1.786015672685635e-07,
+        "relative_volume_error": 0.0016569575993837804
+      },
+      {
+        "name": "M2x4_TAPA_ENCODER_J4_84_-6.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.2357340468812625e-08,
+        "mesh_volume_m3": 2.23202953036206e-08,
+        "relative_volume_error": 0.0016569575993934087
+      },
+      {
+        "name": "M2x4_TAPA_ENCODER_J4_84_6.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.2357340468812625e-08,
+        "mesh_volume_m3": 2.232029530362074e-08,
+        "relative_volume_error": 0.001656957599387193
+      },
+      {
+        "name": "RODAMIENTO_ENCODER_J4_MR63ZZ_90",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.301437602932774e-08,
+        "mesh_volume_m3": 5.292653345608834e-08,
+        "relative_volume_error": 0.0016569575994030128
+      },
+      {
+        "name": "TAPA_RODAMIENTO_ENCODER_J4_90",
+        "triangles": 788,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.494337749744923e-08,
+        "mesh_volume_m3": 7.484143803769722e-08,
+        "relative_volume_error": 0.0013602197172856746
+      },
+      {
+        "name": "M2x4_TAPA_ENCODER_J4_90_-5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.2357340468812625e-08,
+        "mesh_volume_m3": 2.2320295303620458e-08,
+        "relative_volume_error": 0.0016569575993997724
+      },
+      {
+        "name": "M2x4_TAPA_ENCODER_J4_90_5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.2357340468812625e-08,
+        "mesh_volume_m3": 2.2320295303620458e-08,
+        "relative_volume_error": 0.0016569575993997724
+      },
+      {
+        "name": "ROTOR_LECTURA_J4_EJE",
+        "triangles": 248,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.459867047760809e-07,
+        "mesh_volume_m3": 2.455791152362522e-07,
+        "relative_volume_error": 0.001656957599394502
+      },
+      {
+        "name": "ROTOR_LECTURA_J4_ENGRANAJE",
+        "triangles": 5866,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.951615879434627e-06,
+        "mesh_volume_m3": 5.951190757058336e-06,
+        "relative_volume_error": 7.142974024238469e-05
+      },
+      {
+        "name": "ROTOR_LECTURA_J4_ESPACIADOR",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.841071469774044e-08,
+        "mesh_volume_m3": 1.8380208924111748e-08,
+        "relative_volume_error": 0.0016569575993937553
+      },
+      {
+        "name": "ROTOR_LECTURA_J4_COLLAR",
+        "triangles": 792,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.051638686877171e-07,
+        "mesh_volume_m3": 1.0500025502300983e-07,
+        "relative_volume_error": 0.0015557973165965808
+      },
+      {
+        "name": "ROTOR_LECTURA_J4_PORTAIMAN",
+        "triangles": 1818,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.7552722087866757e-07,
+        "mesh_volume_m3": 3.749178418277962e-07,
+        "relative_volume_error": 0.0016227293708442868
+      },
+      {
+        "name": "ROTOR_LECTURA_J4_PRISIONERO_M2x3_ENCODER_J4_81.5_Y",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.91973409552162e-09,
+        "mesh_volume_m3": 4.911582304725003e-09,
+        "relative_volume_error": 0.0016569575994030495
+      },
+      {
+        "name": "ROTOR_LECTURA_J4_PRISIONERO_M2x3_ENCODER_J4_81.5_Z",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.919734095521609e-09,
+        "mesh_volume_m3": 4.9115823047250166e-09,
+        "relative_volume_error": 0.0016569575993980092
+      },
+      {
+        "name": "ROTOR_LECTURA_J4_PRISIONERO_M2x3_ENCODER_J4_108.5_Y",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.91973409552162e-09,
+        "mesh_volume_m3": 4.911582304724933e-09,
+        "relative_volume_error": 0.001656957599417341
+      },
+      {
+        "name": "ROTOR_LECTURA_J4_PRISIONERO_M2x3_ENCODER_J4_108.5_Z",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.919734095521609e-09,
+        "mesh_volume_m3": 4.911582304725047e-09,
+        "relative_volume_error": 0.0016569575993917883
+      },
+      {
+        "name": "ROTOR_LECTURA_J4_PRISIONERO_COLLAR",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.2162054791125532e-09,
+        "mesh_volume_m3": 3.2108763630026635e-09,
+        "relative_volume_error": 0.0016569575994131505
+      },
+      {
+        "name": "ENCODER_J4_AS5048A_PLACA_ENV",
+        "triangles": 1068,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.4803885338587716e-06,
+        "mesh_volume_m3": 1.4804448363934219e-06,
+        "relative_volume_error": 3.803226880142289e-05
+      },
+      {
+        "name": "ARANDELA_M2_PCB_J4_-9_89.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181884e-09,
+        "mesh_volume_m3": 4.8331726255309335e-09,
+        "relative_volume_error": 0.0016569575993769187
+      },
+      {
+        "name": "M2x8_PCB_J4_-9_89.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.942592393938967e-08,
+        "mesh_volume_m3": 2.93771664310991e-08,
+        "relative_volume_error": 0.0016569575993942757
+      },
+      {
+        "name": "TUERCA_M2_PCB_J4_-9_89.5",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459605438e-08,
+        "mesh_volume_m3": 1.895858987708672e-08,
+        "relative_volume_error": 0.0002812401472497862
+      },
+      {
+        "name": "ARANDELA_M2_PCB_J4_-9_100.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181885e-09,
+        "mesh_volume_m3": 4.833172625530792e-09,
+        "relative_volume_error": 0.0016569575994063068
+      },
+      {
+        "name": "M2x8_PCB_J4_-9_100.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.942592393938967e-08,
+        "mesh_volume_m3": 2.937716643109896e-08,
+        "relative_volume_error": 0.0016569575993991108
+      },
+      {
+        "name": "TUERCA_M2_PCB_J4_-9_100.5",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459602986e-08,
+        "mesh_volume_m3": 1.895858987708446e-08,
+        "relative_volume_error": 0.00028124014725994776
+      },
+      {
+        "name": "ARANDELA_M2_PCB_J4_9_89.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181884e-09,
+        "mesh_volume_m3": 4.8331726255309674e-09,
+        "relative_volume_error": 0.0016569575993699134
+      },
+      {
+        "name": "M2x8_PCB_J4_9_89.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.942592393938967e-08,
+        "mesh_volume_m3": 2.937716643109896e-08,
+        "relative_volume_error": 0.0016569575993991108
+      },
+      {
+        "name": "TUERCA_M2_PCB_J4_9_89.5",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459605438e-08,
+        "mesh_volume_m3": 1.8958589877086827e-08,
+        "relative_volume_error": 0.0002812401472553725
+      },
+      {
+        "name": "ARANDELA_M2_PCB_J4_9_100.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181885e-09,
+        "mesh_volume_m3": 4.833172625530826e-09,
+        "relative_volume_error": 0.0016569575993993016
+      },
+      {
+        "name": "M2x8_PCB_J4_9_100.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.942592393938967e-08,
+        "mesh_volume_m3": 2.937716643109903e-08,
+        "relative_volume_error": 0.0016569575993967494
+      },
+      {
+        "name": "TUERCA_M2_PCB_J4_9_100.5",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459602983e-08,
+        "mesh_volume_m3": 1.895858987708471e-08,
+        "relative_volume_error": 0.00028124014727321536
+      },
+      {
+        "name": "CARCASA_ENCODER_J4",
+        "triangles": 1348,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.178383411838251e-06,
+        "mesh_volume_m3": 3.178252561947246e-06,
+        "relative_volume_error": 4.116869302721296e-05
+      },
+      {
+        "name": "ARANDELA_M2_CARCASA_ENCODER_J4_83",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181884e-09,
+        "mesh_volume_m3": 4.833172625531018e-09,
+        "relative_volume_error": 0.0016569575993594908
+      },
+      {
+        "name": "M2x10_CARCASA_ENCODER_J4_83",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.296021567467818e-08,
+        "mesh_volume_m3": 3.290560199483839e-08,
+        "relative_volume_error": 0.0016569575993929644
+      },
+      {
+        "name": "TUERCA_M2_CARCASA_ENCODER_J4_83",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459605498e-08,
+        "mesh_volume_m3": 1.8958589877086986e-08,
+        "relative_volume_error": 0.0002812401472606088
+      },
+      {
+        "name": "ARANDELA_M2_CARCASA_ENCODER_J4_119",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181885e-09,
+        "mesh_volume_m3": 4.833172625531018e-09,
+        "relative_volume_error": 0.0016569575993596612
+      },
+      {
+        "name": "M2x10_CARCASA_ENCODER_J4_119",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.296021567467818e-08,
+        "mesh_volume_m3": 3.290560199483824e-08,
+        "relative_volume_error": 0.0016569575993973813
+      },
+      {
+        "name": "TUERCA_M2_CARCASA_ENCODER_J4_119",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459608482e-08,
+        "mesh_volume_m3": 1.895858987708854e-08,
+        "relative_volume_error": 0.0002812401471851491
+      },
+      {
+        "name": "ROTOR_LECTURA_J4_IMAN",
+        "triangles": 248,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.068583470577036e-08,
+        "mesh_volume_m3": 7.056871127478516e-08,
+        "relative_volume_error": 0.001656957599393463
+      },
+      {
+        "name": "CARCASA_TRANSMISION_ENCODER_J4",
+        "triangles": 1716,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.2466122715912895e-06,
+        "mesh_volume_m3": 7.240801052980056e-06,
+        "relative_volume_error": 0.0008019221111104266
+      },
+      {
+        "name": "M2x5_EXTENSION_ENCODER_J4_-28",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.4124486336456847e-08,
+        "mesh_volume_m3": 2.4084513085490278e-08,
+        "relative_volume_error": 0.0016569575993898354
+      },
+      {
+        "name": "TUERCA_M2_EXTENSION_ENCODER_J4_-28",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.895325945960598e-08,
+        "mesh_volume_m3": 1.8958589877087118e-08,
+        "relative_volume_error": 0.0002812401472420969
+      },
+      {
+        "name": "M2x5_EXTENSION_ENCODER_J4_28",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.4124486336456847e-08,
+        "mesh_volume_m3": 2.4084513085490278e-08,
+        "relative_volume_error": 0.0016569575993898354
+      },
+      {
+        "name": "TUERCA_M2_EXTENSION_ENCODER_J4_28",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.895325945960598e-08,
+        "mesh_volume_m3": 1.8958589877087118e-08,
+        "relative_volume_error": 0.0002812401472420969
+      },
+      {
+        "name": "ALIVIO_J4",
+        "triangles": 740,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.905067037203354e-07,
+        "mesh_volume_m3": 5.908787591411097e-07,
+        "relative_volume_error": 0.0006300612989323525
+      },
+      {
+        "name": "HOME_TARGET_J3",
+        "triangles": 248,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 8.482300164692441e-08,
+        "mesh_volume_m3": 8.468245352974207e-08,
+        "relative_volume_error": 0.0016569575993946805
+      },
+      {
+        "name": "HOME_SENSOR_J4",
+        "triangles": 1028,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.780163769446733e-07,
+        "mesh_volume_m3": 5.78119081179934e-07,
+        "relative_volume_error": 0.00017768395387619663
+      },
+      {
+        "name": "TOPE_J4_HOME",
+        "triangles": 524,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.673663778490039e-07,
+        "mesh_volume_m3": 5.67486728681202e-07,
+        "relative_volume_error": 0.0002121218967088264
+      },
+      {
+        "name": "CHAVETA_POLEA_J3",
+        "triangles": 12,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.3760600000000002e-07,
+        "mesh_volume_m3": 2.3760600000000026e-07,
+        "relative_volume_error": 1.0026178480984148e-15
+      },
+      {
+        "name": "M2_5_CLIP_ALIVIO_J4_-6.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.5877037191380655e-08,
+        "mesh_volume_m3": 3.581759046196253e-08,
+        "relative_volume_error": 0.0016569575993975057
+      },
+      {
+        "name": "M2_5_CLIP_ALIVIO_J4_6.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.5877037191380655e-08,
+        "mesh_volume_m3": 3.581759046196267e-08,
+        "relative_volume_error": 0.0016569575993936323
+      },
+      {
+        "name": "HOME_J4_M2_0",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.7547840581165483e-08,
+        "mesh_volume_m3": 2.7502194977367604e-08,
+        "relative_volume_error": 0.001656957599394829
+      },
+      {
+        "name": "HOME_J4_M2_1",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.7547840581165483e-08,
+        "mesh_volume_m3": 2.7502194977367743e-08,
+        "relative_volume_error": 0.0016569575993897847
+      },
+      {
+        "name": "TOPE_J4_M3_0",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 9.864443852639273e-08,
+        "mesh_volume_m3": 9.848098887433824e-08,
+        "relative_volume_error": 0.0016569575993964226
+      },
+      {
+        "name": "TOPE_J4_M3_1",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 9.86444385263928e-08,
+        "mesh_volume_m3": 9.848098887433824e-08,
+        "relative_volume_error": 0.0016569575993970924
+      },
+      {
+        "name": "CHAVETA_ESTRUCTURAL_J3_NEG",
+        "triangles": 12,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 6.33616e-08,
+        "mesh_volume_m3": 6.336160000000004e-08,
+        "relative_volume_error": 6.266361550615093e-16
+      },
+      {
+        "name": "CHAVETA_ESTRUCTURAL_J3_POS",
+        "triangles": 12,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 6.33616e-08,
+        "mesh_volume_m3": 6.336160000000004e-08,
+        "relative_volume_error": 6.266361550615093e-16
+      },
+      {
+        "name": "PRISIONERO_M3_POLEA_J3",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.734743481015133e-08,
+        "mesh_volume_m3": 1.731869084621265e-08,
+        "relative_volume_error": 0.001656957599394348
+      },
+      {
+        "name": "ESPACIADOR_RETENCION_J3_NEG_MONTADO",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.1991148575128564e-07,
+        "mesh_volume_m3": 2.1954710174377605e-07,
+        "relative_volume_error": 0.0016569575993938637
+      },
+      {
+        "name": "ESPACIADOR_RETENCION_J3_POS_MONTADO",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 9.676105373056566e-07,
+        "mesh_volume_m3": 9.660072476726145e-07,
+        "relative_volume_error": 0.0016569575993936891
+      }
+    ]
+  },
+  {
+    "cad_link": "L4_MUNECA_J4_SUBASSEMBLY",
+    "ros_link": "link_4",
+    "step_pose_mm": [
+      [
+        0.866025403784438,
+        -3.586937828718446e-15,
+        0.500000000000001,
+        215.429320041825
+      ],
+      [
+        2.115352455347669e-15,
+        1.0,
+        3.50997772885915e-15,
+        8.50663519964127e-13
+      ],
+      [
+        -0.500000000000001,
+        -1.9820536522357936e-15,
+        0.866025403784438,
+        330.567110899037
+      ],
+      [
+        0,
+        0,
+        0,
+        1
+      ]
+    ],
+    "physical_occurrences": 71,
+    "excluded_references": 1,
+    "triangles": 95996,
+    "bounds_m": [
+      [
+        -0.045000000000000005,
+        -0.13545000000000007,
+        -0.04000000000000001
+      ],
+      [
+        0.04319678645639791,
+        0.06500000000000002,
+        0.12600000000000003
+      ]
+    ],
+    "parts": [
+      {
+        "name": "REFERENCIAS",
+        "excluded": "reference_BOM"
+      },
+      {
+        "name": "EJE_J4",
+        "triangles": 4550,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.17846743017973e-05,
+        "mesh_volume_m3": 1.1763309505126283e-05,
+        "relative_volume_error": 0.0018129306015490553
+      },
+      {
+        "name": "POLEA_J4",
+        "triangles": 2628,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.584039895114668e-05,
+        "mesh_volume_m3": 2.5829644194668664e-05,
+        "relative_volume_error": 0.00041619932023303596
+      },
+      {
+        "name": "TRAVESANO_J4",
+        "triangles": 5940,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.46611552125232e-05,
+        "mesh_volume_m3": 4.4665278617574995e-05,
+        "relative_volume_error": 9.232643070193809e-05
+      },
+      {
+        "name": "HORQUILLA_J5_-39",
+        "triangles": 288,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.3945354207716625e-05,
+        "mesh_volume_m3": 1.3949752843235848e-05,
+        "relative_volume_error": 0.0003154194188046133
+      },
+      {
+        "name": "ROD_J5_-39",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.6191147369354406e-06,
+        "mesh_volume_m3": 3.613118017268998e-06,
+        "relative_volume_error": 0.0016569575993936277
+      },
+      {
+        "name": "HORQUILLA_J5_34",
+        "triangles": 2424,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.960505198343735e-06,
+        "mesh_volume_m3": 5.9605397008073236e-06,
+        "relative_volume_error": 5.7885132955423495e-06
+      },
+      {
+        "name": "ROD_J5_34",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.6191147369354406e-06,
+        "mesh_volume_m3": 3.613118017268998e-06,
+        "relative_volume_error": 0.0016569575993936277
+      },
+      {
+        "name": "MOTOR_J5",
+        "triangles": 20192,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.814333999040363e-05,
+        "mesh_volume_m3": 2.8105831354498663e-05,
+        "relative_volume_error": 0.0013327713028288943
+      },
+      {
+        "name": "SOPORTE_MOTOR_J5",
+        "triangles": 1300,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.4118018168933583e-05,
+        "mesh_volume_m3": 1.4118551679175437e-05,
+        "relative_volume_error": 3.778931543155177e-05
+      },
+      {
+        "name": "POLEA_MOTRIZ_J5",
+        "triangles": 1038,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.5748081861348237e-06,
+        "mesh_volume_m3": 2.5705489686966985e-06,
+        "relative_volume_error": 0.0016541882463558782
+      },
+      {
+        "name": "CORREA_J5",
+        "triangles": 592,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.3008300543890026e-06,
+        "mesh_volume_m3": 3.300830054389e-06,
+        "relative_volume_error": 7.69836313864171e-16
+      },
+      {
+        "name": "CARCASA_J5_CORREA",
+        "triangles": 422,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.1447669320868619e-05,
+        "mesh_volume_m3": 1.1448632335620793e-05,
+        "relative_volume_error": 8.412321540582652e-05
+      },
+      {
+        "name": "CARCASA_MOTOR_J5_V06",
+        "triangles": 1664,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.670873743327652e-06,
+        "mesh_volume_m3": 5.668133281694262e-06,
+        "relative_volume_error": 0.00048325209790018843
+      },
+      {
+        "name": "TORNILLO_BRIDA_J4_M3x10_0",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 8.249107595998103e-08,
+        "mesh_volume_m3": 8.235439174478702e-08,
+        "relative_volume_error": 0.0016569575993932435
+      },
+      {
+        "name": "TORNILLO_BRIDA_J4_M3x10_1",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 8.249107595998103e-08,
+        "mesh_volume_m3": 8.2354391744787e-08,
+        "relative_volume_error": 0.001656957599393404
+      },
+      {
+        "name": "TORNILLO_BRIDA_J4_M3x10_2",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 8.249107595998105e-08,
+        "mesh_volume_m3": 8.235439174478702e-08,
+        "relative_volume_error": 0.0016569575993934038
+      },
+      {
+        "name": "TORNILLO_BRIDA_J4_M3x10_3",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 8.249107595998105e-08,
+        "mesh_volume_m3": 8.235439174478699e-08,
+        "relative_volume_error": 0.0016569575993937247
+      },
+      {
+        "name": "CHAVETA_J4_4x4x9",
+        "triangles": 12,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.425636e-07,
+        "mesh_volume_m3": 1.4256360000000014e-07,
+        "relative_volume_error": 9.283498593503841e-16
+      },
+      {
+        "name": "CABLE_GUIDE_MUNECA",
+        "triangles": 6000,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.5920117435657055e-06,
+        "mesh_volume_m3": 1.5883105617842832e-06,
+        "relative_volume_error": 0.002324845778544631
+      },
+      {
+        "name": "CIRCLIP_J4_DIN471_20x1_2",
+        "triangles": 480,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.275305348153418e-07,
+        "mesh_volume_m3": 3.2696650671336225e-07,
+        "relative_volume_error": 0.0017220626537844189
+      },
+      {
+        "name": "ESPACIADOR_J4_POSTERIOR_1",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.0131636307827086e-07,
+        "mesh_volume_m3": 1.0114848616052537e-07,
+        "relative_volume_error": 0.0016569575993938418
+      },
+      {
+        "name": "ESPACIADOR_J4_INTERIOR_12",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.21579635693925e-06,
+        "mesh_volume_m3": 1.2137818339263034e-06,
+        "relative_volume_error": 0.0016569575993945387
+      },
+      {
+        "name": "ESPACIADOR_J4_FRONTAL_3",
+        "triangles": 620,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.969550224032068e-07,
+        "mesh_volume_m3": 2.96911634645812e-07,
+        "relative_volume_error": 0.00014610885191873688
+      },
+      {
+        "name": "ARANDELA_J4_CONTACTO_ANILLO_INTERIOR",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.0131636307827086e-07,
+        "mesh_volume_m3": 1.0114848616052459e-07,
+        "relative_volume_error": 0.001656957599401549
+      },
+      {
+        "name": "ABRAZADERA_GUIA_J4_-1_V1",
+        "triangles": 1444,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.585786359653796e-06,
+        "mesh_volume_m3": 1.5853034525013608e-06,
+        "relative_volume_error": 0.0003045222009228434
+      },
+      {
+        "name": "M2_5x8_GUIA_J4_-1_10",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.879956981352816e-08,
+        "mesh_volume_m3": 5.870214141948463e-08,
+        "relative_volume_error": 0.0016569575993923594
+      },
+      {
+        "name": "M2_5x8_GUIA_J4_-1_19",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.879956981352818e-08,
+        "mesh_volume_m3": 5.8702141419484564e-08,
+        "relative_volume_error": 0.0016569575993938218
+      },
+      {
+        "name": "ABRAZADERA_GUIA_J4_1_V1",
+        "triangles": 1438,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.5857825277269986e-06,
+        "mesh_volume_m3": 1.5853293611179114e-06,
+        "relative_volume_error": 0.0002857684462804205
+      },
+      {
+        "name": "M2_5x8_GUIA_J4_1_10",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.879956981352816e-08,
+        "mesh_volume_m3": 5.87021414194846e-08,
+        "relative_volume_error": 0.0016569575993929221
+      },
+      {
+        "name": "M2_5x8_GUIA_J4_1_19",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.879956981352818e-08,
+        "mesh_volume_m3": 5.870214141948463e-08,
+        "relative_volume_error": 0.0016569575993926964
+      },
+      {
+        "name": "SOPORTE_ENCODER_J5",
+        "triangles": 5176,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.98884988525197e-06,
+        "mesh_volume_m3": 4.986280048742878e-06,
+        "relative_volume_error": 0.000515116022370046
+      },
+      {
+        "name": "M2_BASE_ENCODER_J5_X-16.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.589163220410113e-08,
+        "mesh_volume_m3": 2.5848730867359824e-08,
+        "relative_volume_error": 0.0016569575993942859
+      },
+      {
+        "name": "M2_BASE_ENCODER_J5_X16.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.589163220410113e-08,
+        "mesh_volume_m3": 2.584873086735983e-08,
+        "relative_volume_error": 0.0016569575993940302
+      },
+      {
+        "name": "M2_BASE_ENCODER_J5_Z-16.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.5891632204101118e-08,
+        "mesh_volume_m3": 2.5848730867359837e-08,
+        "relative_volume_error": 0.0016569575993932643
+      },
+      {
+        "name": "M2_BASE_ENCODER_J5_Z16.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.5891632204101128e-08,
+        "mesh_volume_m3": 2.5848730867359824e-08,
+        "relative_volume_error": 0.0016569575993941581
+      },
+      {
+        "name": "ENCODER_J5_AS5048A_PLACA_ENV",
+        "triangles": 1068,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.480388533858774e-06,
+        "mesh_volume_m3": 1.4804448363934172e-06,
+        "relative_volume_error": 3.803226879670243e-05
+      },
+      {
+        "name": "ARANDELA_M2_PCB_J5_-9_-5.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181854e-09,
+        "mesh_volume_m3": 4.833172625530804e-09,
+        "relative_volume_error": 0.0016569575993976033
+      },
+      {
+        "name": "M2x8_PCB_J5_-9_-5.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.942592393938965e-08,
+        "mesh_volume_m3": 2.9377166431099108e-08,
+        "relative_volume_error": 0.0016569575993933773
+      },
+      {
+        "name": "TUERCA_M2_PCB_J5_-9_-5.5",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459605666e-08,
+        "mesh_volume_m3": 1.895858987708696e-08,
+        "relative_volume_error": 0.0002812401472503065
+      },
+      {
+        "name": "ARANDELA_M2_PCB_J5_-9_5.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181854e-09,
+        "mesh_volume_m3": 4.833172625530804e-09,
+        "relative_volume_error": 0.0016569575993976033
+      },
+      {
+        "name": "M2x8_PCB_J5_-9_5.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.942592393938965e-08,
+        "mesh_volume_m3": 2.9377166431099118e-08,
+        "relative_volume_error": 0.00165695759939304
+      },
+      {
+        "name": "TUERCA_M2_PCB_J5_-9_5.5",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.895325945960567e-08,
+        "mesh_volume_m3": 1.895858987708697e-08,
+        "relative_volume_error": 0.0002812401472506556
+      },
+      {
+        "name": "ARANDELA_M2_PCB_J5_9_-5.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181854e-09,
+        "mesh_volume_m3": 4.833172625530806e-09,
+        "relative_volume_error": 0.0016569575993970907
+      },
+      {
+        "name": "M2x8_PCB_J5_9_-5.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.942592393938965e-08,
+        "mesh_volume_m3": 2.9377166431099095e-08,
+        "relative_volume_error": 0.001656957599393827
+      },
+      {
+        "name": "TUERCA_M2_PCB_J5_9_-5.5",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459605666e-08,
+        "mesh_volume_m3": 1.8958589877086972e-08,
+        "relative_volume_error": 0.0002812401472510048
+      },
+      {
+        "name": "ARANDELA_M2_PCB_J5_9_5.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181854e-09,
+        "mesh_volume_m3": 4.833172625530805e-09,
+        "relative_volume_error": 0.0016569575993972616
+      },
+      {
+        "name": "M2x8_PCB_J5_9_5.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.942592393938965e-08,
+        "mesh_volume_m3": 2.9377166431099105e-08,
+        "relative_volume_error": 0.0016569575993934896
+      },
+      {
+        "name": "TUERCA_M2_PCB_J5_9_5.5",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.895325945960567e-08,
+        "mesh_volume_m3": 1.8958589877086972e-08,
+        "relative_volume_error": 0.00028124014725083017
+      },
+      {
+        "name": "CARCASA_ENCODER_J5",
+        "triangles": 1348,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.1783834118382657e-06,
+        "mesh_volume_m3": 3.178252561947254e-06,
+        "relative_volume_error": 4.116869302934475e-05
+      },
+      {
+        "name": "ARANDELA_M2_CARCASA_J5_-12",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181854e-09,
+        "mesh_volume_m3": 4.833172625530806e-09,
+        "relative_volume_error": 0.0016569575993970907
+      },
+      {
+        "name": "M2x10_CARCASA_J5_-12",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.296021567467817e-08,
+        "mesh_volume_m3": 3.290560199483837e-08,
+        "relative_volume_error": 0.0016569575993933662
+      },
+      {
+        "name": "TUERCA_M2_CARCASA_J5_-12",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.895325945960591e-08,
+        "mesh_volume_m3": 1.8958589877087297e-08,
+        "relative_volume_error": 0.00028124014725519094
+      },
+      {
+        "name": "ARANDELA_M2_CARCASA_J5_24",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181853e-09,
+        "mesh_volume_m3": 4.833172625530807e-09,
+        "relative_volume_error": 0.0016569575993967494
+      },
+      {
+        "name": "M2x10_CARCASA_J5_24",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.296021567467816e-08,
+        "mesh_volume_m3": 3.290560199483842e-08,
+        "relative_volume_error": 0.0016569575993913592
+      },
+      {
+        "name": "TUERCA_M2_CARCASA_J5_24",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459605915e-08,
+        "mesh_volume_m3": 1.8958589877087287e-08,
+        "relative_volume_error": 0.00028124014725449255
+      },
+      {
+        "name": "CORONA_LECTURA_J4_60T",
+        "triangles": 6076,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.571291636173757e-06,
+        "mesh_volume_m3": 4.574181451357874e-06,
+        "relative_volume_error": 0.0006321660077971791
+      },
+      {
+        "name": "M2x8_CORONA_LECTURA_J4_0",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.9425923939389655e-08,
+        "mesh_volume_m3": 2.9377166431099155e-08,
+        "relative_volume_error": 0.0016569575993919154
+      },
+      {
+        "name": "M2x8_CORONA_LECTURA_J4_1",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.9425923939389655e-08,
+        "mesh_volume_m3": 2.9377166431099145e-08,
+        "relative_volume_error": 0.0016569575993922525
+      },
+      {
+        "name": "M2x8_CORONA_LECTURA_J4_2",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.9425923939389655e-08,
+        "mesh_volume_m3": 2.9377166431099155e-08,
+        "relative_volume_error": 0.0016569575993919154
+      },
+      {
+        "name": "M2x8_CORONA_LECTURA_J4_3",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.9425923939389655e-08,
+        "mesh_volume_m3": 2.9377166431099118e-08,
+        "relative_volume_error": 0.0016569575993931522
+      },
+      {
+        "name": "ALIVIO_J5",
+        "triangles": 740,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.905067037203356e-07,
+        "mesh_volume_m3": 5.908787591411112e-07,
+        "relative_volume_error": 0.000630061298934504
+      },
+      {
+        "name": "HOME_TARGET_J4",
+        "triangles": 248,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 8.482300164692441e-08,
+        "mesh_volume_m3": 8.468245352974213e-08,
+        "relative_volume_error": 0.0016569575993940562
+      },
+      {
+        "name": "HOME_SENSOR_J5",
+        "triangles": 1028,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.780163769446733e-07,
+        "mesh_volume_m3": 5.781190811799337e-07,
+        "relative_volume_error": 0.0001776839538756471
+      },
+      {
+        "name": "TOPE_J5_HOME",
+        "triangles": 524,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.07366377849004e-07,
+        "mesh_volume_m3": 4.0748672868119924e-07,
+        "relative_volume_error": 0.0002954363411892706
+      },
+      {
+        "name": "M2_5_CLIP_ALIVIO_J5_-6.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.5877037191380655e-08,
+        "mesh_volume_m3": 3.581759046196249e-08,
+        "relative_volume_error": 0.0016569575993986125
+      },
+      {
+        "name": "M2_5_CLIP_ALIVIO_J5_6.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.5877037191380655e-08,
+        "mesh_volume_m3": 3.5817590461962636e-08,
+        "relative_volume_error": 0.0016569575993945545
+      },
+      {
+        "name": "HOME_J5_M2_0",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.7547840581165503e-08,
+        "mesh_volume_m3": 2.7502194977367617e-08,
+        "relative_volume_error": 0.0016569575993950682
+      },
+      {
+        "name": "HOME_J5_M2_1",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.7547840581165503e-08,
+        "mesh_volume_m3": 2.7502194977367637e-08,
+        "relative_volume_error": 0.0016569575993943474
+      },
+      {
+        "name": "TOPE_J5_M3_0",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 9.864443852639271e-08,
+        "mesh_volume_m3": 9.848098887433829e-08,
+        "relative_volume_error": 0.0016569575993956181
+      },
+      {
+        "name": "TOPE_J5_M3_1",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 9.864443852639268e-08,
+        "mesh_volume_m3": 9.848098887433827e-08,
+        "relative_volume_error": 0.0016569575993954843
+      },
+      {
+        "name": "PRISIONERO_M2_MOTOR_J5",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.746254634062063e-09,
+        "mesh_volume_m3": 2.7417042065762722e-09,
+        "relative_volume_error": 0.0016569575993978637
+      }
+    ]
+  },
+  {
+    "cad_link": "L5_MUNECA_J5_SUBASSEMBLY",
+    "ros_link": "link_5",
+    "step_pose_mm": [
+      [
+        1.0,
+        -2.5691089273247236e-15,
+        9.43689570931377e-16,
+        254.400463212124
+      ],
+      [
+        2.56910892732472e-15,
+        1.0,
+        3.67986182120012e-15,
+        9.45854380454772e-13
+      ],
+      [
+        -9.436895709313864e-16,
+        -3.679861821200117e-15,
+        1.0,
+        308.067110899037
+      ],
+      [
+        0,
+        0,
+        0,
+        1
+      ]
+    ],
+    "physical_occurrences": 77,
+    "excluded_references": 1,
+    "triangles": 83568,
+    "bounds_m": [
+      [
+        -0.03819096060422072,
+        -0.055300000000000016,
+        -0.06600000000000002
+      ],
+      [
+        0.11100000000000003,
+        0.038172285420177164,
+        0.049500000000000016
+      ]
+    ],
+    "parts": [
+      {
+        "name": "REFERENCIAS",
+        "excluded": "reference_BOM"
+      },
+      {
+        "name": "EJE_J5",
+        "triangles": 636,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 6.4143638613270056e-06,
+        "mesh_volume_m3": 6.40435608533474e-06,
+        "relative_volume_error": 0.0015602133288078687
+      },
+      {
+        "name": "POLEA_J5",
+        "triangles": 2166,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.8717594373944956e-05,
+        "mesh_volume_m3": 2.8702188998251254e-05,
+        "relative_volume_error": 0.000536443808388033
+      },
+      {
+        "name": "MEJILLA_MUNECA_-29",
+        "triangles": 400,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.218093236943697e-06,
+        "mesh_volume_m3": 7.216740462483701e-06,
+        "relative_volume_error": 0.00018741437878252813
+      },
+      {
+        "name": "MEJILLA_MUNECA_26",
+        "triangles": 1412,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.933123821151332e-06,
+        "mesh_volume_m3": 7.93191538773771e-06,
+        "relative_volume_error": 0.00015232756236589377
+      },
+      {
+        "name": "MOTOR_J6",
+        "triangles": 20192,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.814333999040363e-05,
+        "mesh_volume_m3": 2.810583135449865e-05,
+        "relative_volume_error": 0.001332771302829376
+      },
+      {
+        "name": "SOPORTE_MOTOR_J6",
+        "triangles": 1292,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 6.750018168933582e-06,
+        "mesh_volume_m3": 6.750551679175444e-06,
+        "relative_volume_error": 7.903834160288213e-05
+      },
+      {
+        "name": "PORTARODAMIENTO_J6",
+        "triangles": 1804,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.1941063199614184e-05,
+        "mesh_volume_m3": 1.194823937825808e-05,
+        "relative_volume_error": 0.0006009664737499115
+      },
+      {
+        "name": "ROD_J6",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.6191147369354415e-06,
+        "mesh_volume_m3": 3.6131180172690018e-06,
+        "relative_volume_error": 0.001656957599392808
+      },
+      {
+        "name": "PORTARODAMIENTO_J6_POSTERIOR",
+        "triangles": 772,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 8.871361102512282e-06,
+        "mesh_volume_m3": 8.880786935963676e-06,
+        "relative_volume_error": 0.001062501384226712
+      },
+      {
+        "name": "ROD_J6_POSTERIOR",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.4306191777200545e-06,
+        "mesh_volume_m3": 3.424934787202902e-06,
+        "relative_volume_error": 0.0016569575993946545
+      },
+      {
+        "name": "CARCASA_MUNECA_J6_V06",
+        "triangles": 1676,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.901725595378674e-06,
+        "mesh_volume_m3": 7.895977022170893e-06,
+        "relative_volume_error": 0.0007275085851047937
+      },
+      {
+        "name": "PORTAIMAN_ENCODER_J5",
+        "triangles": 1546,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.2476453746591142e-06,
+        "mesh_volume_m3": 1.2456047827833881e-06,
+        "relative_volume_error": 0.0016355543948404648
+      },
+      {
+        "name": "PRISIONERO_M2x4_ENCODER_J5_X",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 6.686879963165873e-09,
+        "mesh_volume_m3": 6.675800086594669e-09,
+        "relative_volume_error": 0.0016569575993940356
+      },
+      {
+        "name": "PRISIONERO_M2x4_ENCODER_J5_Z",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 6.6868799631658785e-09,
+        "mesh_volume_m3": 6.675800086594671e-09,
+        "relative_volume_error": 0.0016569575993946528
+      },
+      {
+        "name": "IMAN_DIAMETRAL_ENCODER_J5",
+        "triangles": 248,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.068583470577035e-08,
+        "mesh_volume_m3": 7.056871127478535e-08,
+        "relative_volume_error": 0.0016569575993906549
+      },
+      {
+        "name": "SOPORTE_ENCODER_J6",
+        "triangles": 5846,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 9.786566786059539e-06,
+        "mesh_volume_m3": 9.788341517707799e-06,
+        "relative_volume_error": 0.0001813436404264078
+      },
+      {
+        "name": "M3x8_BASE_ENCODER_J6_-16",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.344328911764241e-08,
+        "mesh_volume_m3": 7.332159670161449e-08,
+        "relative_volume_error": 0.0016569575993933697
+      },
+      {
+        "name": "M3x8_BASE_ENCODER_J6_16",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.344328911764241e-08,
+        "mesh_volume_m3": 7.332159670161447e-08,
+        "relative_volume_error": 0.00165695759939373
+      },
+      {
+        "name": "RODAMIENTO_ENCODER_J6_MR63ZZ_80",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.301437602932776e-08,
+        "mesh_volume_m3": 5.292653345608894e-08,
+        "relative_volume_error": 0.0016569575993920277
+      },
+      {
+        "name": "RODAMIENTO_ENCODER_J6_MR63ZZ_86",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.301437602932776e-08,
+        "mesh_volume_m3": 5.292653345608808e-08,
+        "relative_volume_error": 0.001656957599408255
+      },
+      {
+        "name": "TAPA_RODAMIENTO_ENCODER_J6_POSTERIOR",
+        "triangles": 1016,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.613648008154029e-07,
+        "mesh_volume_m3": 2.609317304224751e-07,
+        "relative_volume_error": 0.0016569575994038748
+      },
+      {
+        "name": "M2x4_TAPA_POSTERIOR_ENCODER_J6_-7",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.235734046881262e-08,
+        "mesh_volume_m3": 2.23202953036206e-08,
+        "relative_volume_error": 0.0016569575993932609
+      },
+      {
+        "name": "M2x4_TAPA_POSTERIOR_ENCODER_J6_7",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.2357340468812625e-08,
+        "mesh_volume_m3": 2.2320295303620458e-08,
+        "relative_volume_error": 0.0016569575993997724
+      },
+      {
+        "name": "TAPA_RODAMIENTO_ENCODER_J6_FRONTAL",
+        "triangles": 780,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.578360638289241e-07,
+        "mesh_volume_m3": 4.57872788531393e-07,
+        "relative_volume_error": 8.021365150173929e-05
+      },
+      {
+        "name": "M2x6_TAPA_FRONTAL_ENCODER_J6_-21",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.5891632204101135e-08,
+        "mesh_volume_m3": 2.5848730867359814e-08,
+        "relative_volume_error": 0.0016569575993947967
+      },
+      {
+        "name": "M2x6_TAPA_FRONTAL_ENCODER_J6_21",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.5891632204101135e-08,
+        "mesh_volume_m3": 2.5848730867359957e-08,
+        "relative_volume_error": 0.0016569575993893018
+      },
+      {
+        "name": "ROTOR_LECTURA_J6_EJE",
+        "triangles": 248,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.6823228659973342e-07,
+        "mesh_volume_m3": 1.6795353283398874e-07,
+        "relative_volume_error": 0.0016569575993929458
+      },
+      {
+        "name": "ROTOR_LECTURA_J6_ENGRANAJE",
+        "triangles": 5866,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.754343384767194e-06,
+        "mesh_volume_m3": 2.753997858403604e-06,
+        "relative_volume_error": 0.00012544781652900716
+      },
+      {
+        "name": "ROTOR_LECTURA_J6_ESPACIADOR_INTERIOR",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8410714697740432e-08,
+        "mesh_volume_m3": 1.8380208924111688e-08,
+        "relative_volume_error": 0.0016569575993966314
+      },
+      {
+        "name": "ROTOR_LECTURA_J6_ESPACIADOR_FRONTAL",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 8.94234713890251e-09,
+        "mesh_volume_m3": 8.927530048854326e-09,
+        "relative_volume_error": 0.0016569575993896884
+      },
+      {
+        "name": "ROTOR_LECTURA_J6_PORTAIMAN",
+        "triangles": 1818,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.755272208786675e-07,
+        "mesh_volume_m3": 3.749178418277962e-07,
+        "relative_volume_error": 0.001622729370844146
+      },
+      {
+        "name": "ROTOR_LECTURA_J6_PRISIONERO_M2x3_ENCODER_J6_77.5_Y",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.919734095521621e-09,
+        "mesh_volume_m3": 4.911582304725074e-09,
+        "relative_volume_error": 0.0016569575993889258
+      },
+      {
+        "name": "ROTOR_LECTURA_J6_PRISIONERO_M2x3_ENCODER_J6_77.5_Z",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.919734095521609e-09,
+        "mesh_volume_m3": 4.911582304725039e-09,
+        "relative_volume_error": 0.0016569575993934697
+      },
+      {
+        "name": "ROTOR_LECTURA_J6_PRISIONERO_M2x2.5_ENCODER_J6_96_Y",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.036161161699491e-09,
+        "mesh_volume_m3": 4.029473413790306e-09,
+        "relative_volume_error": 0.001656957599376292
+      },
+      {
+        "name": "ROTOR_LECTURA_J6_PRISIONERO_M2x2.5_ENCODER_J6_96_Z",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.03616116169948e-09,
+        "mesh_volume_m3": 4.02947341379025e-09,
+        "relative_volume_error": 0.0016569575993873632
+      },
+      {
+        "name": "ENCODER_J6_AS5048A_PLACA_ENV",
+        "triangles": 1068,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.4803885338587718e-06,
+        "mesh_volume_m3": 1.480444836393429e-06,
+        "relative_volume_error": 3.803226880614328e-05
+      },
+      {
+        "name": "ARANDELA_M2_PCB_J6_-9_89.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181885e-09,
+        "mesh_volume_m3": 4.833172625530788e-09,
+        "relative_volume_error": 0.0016569575994071612
+      },
+      {
+        "name": "M2x8_PCB_J6_-9_89.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.942592393938967e-08,
+        "mesh_volume_m3": 2.93771664310991e-08,
+        "relative_volume_error": 0.0016569575993942757
+      },
+      {
+        "name": "TUERCA_M2_PCB_J6_-9_89.5",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459605438e-08,
+        "mesh_volume_m3": 1.8958589877086718e-08,
+        "relative_volume_error": 0.0002812401472496116
+      },
+      {
+        "name": "ARANDELA_M2_PCB_J6_-9_100.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181885e-09,
+        "mesh_volume_m3": 4.833172625530788e-09,
+        "relative_volume_error": 0.0016569575994071612
+      },
+      {
+        "name": "M2x8_PCB_J6_-9_100.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.9425923939389668e-08,
+        "mesh_volume_m3": 2.937716643109903e-08,
+        "relative_volume_error": 0.001656957599396637
+      },
+      {
+        "name": "TUERCA_M2_PCB_J6_-9_100.5",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459602986e-08,
+        "mesh_volume_m3": 1.895858987708432e-08,
+        "relative_volume_error": 0.00028124014725244113
+      },
+      {
+        "name": "ARANDELA_M2_PCB_J6_9_89.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181885e-09,
+        "mesh_volume_m3": 4.833172625530828e-09,
+        "relative_volume_error": 0.0016569575993989599
+      },
+      {
+        "name": "M2x8_PCB_J6_9_89.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.942592393938967e-08,
+        "mesh_volume_m3": 2.937716643109903e-08,
+        "relative_volume_error": 0.0016569575993967494
+      },
+      {
+        "name": "TUERCA_M2_PCB_J6_9_89.5",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459605438e-08,
+        "mesh_volume_m3": 1.895858987708676e-08,
+        "relative_volume_error": 0.00028124014725188103
+      },
+      {
+        "name": "ARANDELA_M2_PCB_J6_9_100.5",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181885e-09,
+        "mesh_volume_m3": 4.8331726255308285e-09,
+        "relative_volume_error": 0.001656957599398789
+      },
+      {
+        "name": "M2x8_PCB_J6_9_100.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.9425923939389668e-08,
+        "mesh_volume_m3": 2.937716643109896e-08,
+        "relative_volume_error": 0.0016569575993989985
+      },
+      {
+        "name": "TUERCA_M2_PCB_J6_9_100.5",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459602983e-08,
+        "mesh_volume_m3": 1.895858987708443e-08,
+        "relative_volume_error": 0.00028124014725855126
+      },
+      {
+        "name": "ROTOR_LECTURA_J6_IMAN",
+        "triangles": 248,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.068583470577035e-08,
+        "mesh_volume_m3": 7.056871127478485e-08,
+        "relative_volume_error": 0.0016569575993977698
+      },
+      {
+        "name": "CARCASA_ENCODER_J6",
+        "triangles": 1352,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.9499882451419654e-06,
+        "mesh_volume_m3": 2.949851402812403e-06,
+        "relative_volume_error": 4.638741520001111e-05
+      },
+      {
+        "name": "ARANDELA_M2_CARCASA_ENCODER_J6_-14",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181854e-09,
+        "mesh_volume_m3": 4.833172625531011e-09,
+        "relative_volume_error": 0.0016569575993547168
+      },
+      {
+        "name": "M2x10_CARCASA_ENCODER_J6_-14",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.296021567467816e-08,
+        "mesh_volume_m3": 3.2905601994838316e-08,
+        "relative_volume_error": 0.0016569575993945717
+      },
+      {
+        "name": "TUERCA_M2_CARCASA_ENCODER_J6_-14",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459605997e-08,
+        "mesh_volume_m3": 1.895858987708714e-08,
+        "relative_volume_error": 0.0002812401472424458
+      },
+      {
+        "name": "ARANDELA_M2_CARCASA_ENCODER_J6_14",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181854e-09,
+        "mesh_volume_m3": 4.833172625530976e-09,
+        "relative_volume_error": 0.0016569575993620638
+      },
+      {
+        "name": "M2x10_CARCASA_ENCODER_J6_14",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.296021567467816e-08,
+        "mesh_volume_m3": 3.290560199483839e-08,
+        "relative_volume_error": 0.0016569575993923631
+      },
+      {
+        "name": "TUERCA_M2_CARCASA_ENCODER_J6_14",
+        "triangles": 276,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.8953259459606e-08,
+        "mesh_volume_m3": 1.895858987708721e-08,
+        "relative_volume_error": 0.0002812401472459372
+      },
+      {
+        "name": "CARCASA_TRANSMISION_ENCODER_J6",
+        "triangles": 2346,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.6457312160197573e-06,
+        "mesh_volume_m3": 3.6434846013598597e-06,
+        "relative_volume_error": 0.000616231566942104
+      },
+      {
+        "name": "ARANDELA_M2_GUARDA_LECTURA_J6_-21",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181768e-09,
+        "mesh_volume_m3": 4.833172625530555e-09,
+        "relative_volume_error": 0.0016569575994312927
+      },
+      {
+        "name": "M2x8_GUARDA_LECTURA_J6_-21",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.9425923939389645e-08,
+        "mesh_volume_m3": 2.937716643109917e-08,
+        "relative_volume_error": 0.0016569575993910163
+      },
+      {
+        "name": "ARANDELA_M2_GUARDA_LECTURA_J6_21",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.841194279181768e-09,
+        "mesh_volume_m3": 4.833172625530697e-09,
+        "relative_volume_error": 0.0016569575994019043
+      },
+      {
+        "name": "M2x8_GUARDA_LECTURA_J6_21",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.9425923939389645e-08,
+        "mesh_volume_m3": 2.937716643109903e-08,
+        "relative_volume_error": 0.0016569575993958514
+      },
+      {
+        "name": "ALIVIO_J6",
+        "triangles": 740,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.905067037203355e-07,
+        "mesh_volume_m3": 5.908787591411103e-07,
+        "relative_volume_error": 0.0006300612989332489
+      },
+      {
+        "name": "HOME_TARGET_J5",
+        "triangles": 248,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 8.482300164692441e-08,
+        "mesh_volume_m3": 8.468245352974209e-08,
+        "relative_volume_error": 0.0016569575993945244
+      },
+      {
+        "name": "HOME_SENSOR_J6",
+        "triangles": 1028,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.263258895134184e-07,
+        "mesh_volume_m3": 4.264148252386775e-07,
+        "relative_volume_error": 0.0002086097219210704
+      },
+      {
+        "name": "TOPE_J6_HOME",
+        "triangles": 524,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.67366377849004e-07,
+        "mesh_volume_m3": 5.67486728681198e-07,
+        "relative_volume_error": 0.00021212189670154837
+      },
+      {
+        "name": "CHAVETA_POLEA_J5",
+        "triangles": 12,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 7.99236e-08,
+        "mesh_volume_m3": 7.992360000000007e-08,
+        "relative_volume_error": 8.279713251685637e-16
+      },
+      {
+        "name": "M2_5_CLIP_ALIVIO_J6_-6.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.587703719138066e-08,
+        "mesh_volume_m3": 3.581759046196253e-08,
+        "relative_volume_error": 0.0016569575993976898
+      },
+      {
+        "name": "M2_5_CLIP_ALIVIO_J6_6.5",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.587703719138066e-08,
+        "mesh_volume_m3": 3.581759046196267e-08,
+        "relative_volume_error": 0.0016569575993938164
+      },
+      {
+        "name": "HOME_J6_M2_0",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.5780694713521248e-08,
+        "mesh_volume_m3": 2.5737977195497925e-08,
+        "relative_volume_error": 0.0016569575993977575
+      },
+      {
+        "name": "HOME_J6_M2_1",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.5780694713521248e-08,
+        "mesh_volume_m3": 2.5737977195498064e-08,
+        "relative_volume_error": 0.0016569575993923673
+      },
+      {
+        "name": "TOPE_J6_M3_0",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 9.864443852639267e-08,
+        "mesh_volume_m3": 9.848098887433853e-08,
+        "relative_volume_error": 0.0016569575993928012
+      },
+      {
+        "name": "TOPE_J6_M3_1",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 9.864443852639268e-08,
+        "mesh_volume_m3": 9.84809888743388e-08,
+        "relative_volume_error": 0.0016569575993901178
+      },
+      {
+        "name": "CHAVETA_ESTRUCTURAL_J5_NEG",
+        "triangles": 12,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.6641200000000004e-08,
+        "mesh_volume_m3": 2.6641200000000008e-08,
+        "relative_volume_error": 1.2419569877528453e-16
+      },
+      {
+        "name": "CHAVETA_ESTRUCTURAL_J5_POS",
+        "triangles": 12,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.6641200000000004e-08,
+        "mesh_volume_m3": 2.6641200000000008e-08,
+        "relative_volume_error": 1.2419569877528453e-16
+      },
+      {
+        "name": "PRISIONERO_M3_POLEA_J5",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.734743481015133e-08,
+        "mesh_volume_m3": 1.7318690846212664e-08,
+        "relative_volume_error": 0.001656957599393585
+      },
+      {
+        "name": "ESPACIADOR_RETENCION_J5_NEG_MONTADO",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.055575131606171e-06,
+        "mesh_volume_m3": 1.053826088370125e-06,
+        "relative_volume_error": 0.001656957599393944
+      },
+      {
+        "name": "ESPACIADOR_RETENCION_J5_POS_MONTADO",
+        "triangles": 504,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.1309733552923257e-07,
+        "mesh_volume_m3": 1.1290993803965625e-07,
+        "relative_volume_error": 0.0016569575993935098
+      }
+    ]
+  },
+  {
+    "cad_link": "L6_BRIDA_J6_SUBASSEMBLY",
+    "ros_link": "link_6",
+    "step_pose_mm": [
+      [
+        1.0,
+        -2.569108927324733e-15,
+        9.43689570931379e-16,
+        358.400463212124
+      ],
+      [
+        2.56910892732473e-15,
+        1.0,
+        3.25939291726722e-15,
+        1.21304170889654e-12
+      ],
+      [
+        -9.436895709313872e-16,
+        -3.2593929172672176e-15,
+        1.0,
+        308.067110899037
+      ],
+      [
+        0,
+        0,
+        0,
+        1
+      ]
+    ],
+    "physical_occurrences": 10,
+    "excluded_references": 1,
+    "triangles": 17060,
+    "bounds_m": [
+      [
+        -0.03400000000000001,
+        -0.019992204746328675,
+        -0.02500000000000001
+      ],
+      [
+        0.019975234409184695,
+        0.019992204746328672,
+        0.010000000000000002
+      ]
+    ],
+    "parts": [
+      {
+        "name": "REFERENCIAS",
+        "excluded": "reference_BOM"
+      },
+      {
+        "name": "EJE_J6",
+        "triangles": 2092,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 2.7249961642358134e-06,
+        "mesh_volume_m3": 2.720669727346552e-06,
+        "relative_volume_error": 0.001587685496971886
+      },
+      {
+        "name": "ACOPLE_J6",
+        "triangles": 6940,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.832793342090376e-06,
+        "mesh_volume_m3": 5.82742805392915e-06,
+        "relative_volume_error": 0.0009198488351214905
+      },
+      {
+        "name": "PASADOR_ELASTICO_J6_D2x20",
+        "triangles": 468,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 4.358695241656462e-08,
+        "mesh_volume_m3": 4.3513316637997295e-08,
+        "relative_volume_error": 0.0016893995676408003
+      },
+      {
+        "name": "BRIDA_EFECTOR",
+        "triangles": 3548,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 6.005483698650357e-06,
+        "mesh_volume_m3": 5.998000963764984e-06,
+        "relative_volume_error": 0.0012459837143601424
+      },
+      {
+        "name": "TORNILLO_BRIDA_J6_M2_5x6_0",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.2826616780890564e-08,
+        "mesh_volume_m3": 5.273908531676519e-08,
+        "relative_volume_error": 0.0016569575993939855
+      },
+      {
+        "name": "TORNILLO_BRIDA_J6_M2_5x6_1",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.282661678089056e-08,
+        "mesh_volume_m3": 5.273908531676517e-08,
+        "relative_volume_error": 0.0016569575993942364
+      },
+      {
+        "name": "TORNILLO_BRIDA_J6_M2_5x6_2",
+        "triangles": 752,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 5.282661678089056e-08,
+        "mesh_volume_m3": 5.27390853167652e-08,
+        "relative_volume_error": 0.0016569575993937353
+      },
+      {
+        "name": "HOME_TARGET_J6",
+        "triangles": 248,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 8.482300164692441e-08,
+        "mesh_volume_m3": 8.468245352974213e-08,
+        "relative_volume_error": 0.0016569575993940562
+      },
+      {
+        "name": "PASACABLE_BRIDA",
+        "triangles": 1008,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 1.832176835573568e-07,
+        "mesh_volume_m3": 1.8291409962424301e-07,
+        "relative_volume_error": 0.001656957599394281
+      },
+      {
+        "name": "PRISIONERO_M3_ENTRADA_J6",
+        "triangles": 500,
+        "nurbs_faces": 0,
+        "cad_volume_m3": 3.544300849482853e-08,
+        "mesh_volume_m3": 3.538428093255765e-08,
+        "relative_volume_error": 0.00165695759939373
+      }
+    ]
+  }
+]

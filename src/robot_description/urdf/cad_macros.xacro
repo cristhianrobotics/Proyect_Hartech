@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro">
+  <xacro:macro name="cad_link" params="name data">
+    <link name="${name}">
+      <inertial>
+        <origin xyz="${data['com']}" rpy="0 0 0"/>
+        <mass value="${data['mass']}"/>
+        <inertia ixx="${data['inertia']['ixx']}" ixy="${data['inertia']['ixy']}"
+                 ixz="${data['inertia']['ixz']}" iyy="${data['inertia']['iyy']}"
+                 iyz="${data['inertia']['iyz']}" izz="${data['inertia']['izz']}"/>
+      </inertial>
+      <visual>
+        <origin xyz="0 0 0" rpy="0 0 0"/>
+        <!-- Embedded DAE materials preserve the colors exported by the CAD. -->
+        <geometry><mesh filename="$(arg mesh_prefix)/${name}.dae" scale="1 1 1"/></geometry>
+      </visual>
+      <!-- Full CAD surface mesh, not a convex hull or a dynamics-optimized mesh. -->
+      <collision>
+        <origin xyz="0 0 0" rpy="0 0 0"/>
+        <geometry><mesh filename="$(arg mesh_prefix)/${name}.stl" scale="1 1 1"/></geometry>
+      </collision>
+    </link>
+  </xacro:macro>
+  <xacro:macro name="cad_joint" params="name data">
+    <joint name="${name}" type="revolute">
+      <parent link="${data['parent']}"/><child link="${data['child']}"/>
+      <origin xyz="${data['xyz']}" rpy="${data['rpy']}"/>
+      <axis xyz="0 0 1"/>
+      <limit lower="${data['lower']}" upper="${data['upper']}"
+             effort="${data['effort']}" velocity="${data['velocity']}"/>
+    </joint>
+  </xacro:macro>
+</robot>

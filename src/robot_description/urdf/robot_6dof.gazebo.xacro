@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="robot_6dof">
+  <!-- Gazebo Classic entry point. Original CAD parameters are reused without edits.
+       Only simulation actuator limits, damping and collision proxies are added. -->
+  <xacro:arg name="parameters_file" default="../config/robot_parameters.yaml"/>
+  <xacro:arg name="simulation_file" default="../config/gazebo_simulation.yaml"/>
+  <xacro:arg name="controllers_file" default="$(find robot_description)/config/gazebo_controllers.yaml"/>
+  <xacro:arg name="pose" default="home"/>
+  <xacro:arg name="mesh_prefix" default="package://robot_description/meshes"/>
+  <xacro:property name="cfg" value="${xacro.load_yaml('$(arg parameters_file)')}"/>
+  <xacro:property name="sim" value="${xacro.load_yaml('$(arg simulation_file)')}"/>
+  <xacro:include filename="gazebo_macros.xacro"/>
+  <!-- Anchor the base without making the whole model static. -->
+  <link name="world"/>
+  <joint name="world_to_base" type="fixed">
+    <parent link="world"/><child link="base_link"/><origin xyz="0 0 0" rpy="0 0 0"/>
+  </joint>
+  <link name="base_link"/>
+  <joint name="base_mount" type="fixed">
+    <parent link="base_link"/><child link="base_body"/><origin xyz="0 0 0" rpy="0 0 0"/>
+  </joint>
+  <xacro:sim_link name="base_body" data="${cfg['links']['base_body']}" simulation="${sim['links']['base_body']}"/>
+  <xacro:sim_link name="link_1" data="${cfg['links']['link_1']}" simulation="${sim['links']['link_1']}"/>
+  <xacro:sim_link name="link_2" data="${cfg['links']['link_2']}" simulation="${sim['links']['link_2']}"/>
+  <xacro:sim_link name="link_3" data="${cfg['links']['link_3']}" simulation="${sim['links']['link_3']}"/>
+  <xacro:sim_link name="link_4" data="${cfg['links']['link_4']}" simulation="${sim['links']['link_4']}"/>
+  <xacro:sim_link name="link_5" data="${cfg['links']['link_5']}" simulation="${sim['links']['link_5']}"/>
+  <xacro:sim_link name="link_6" data="${cfg['links']['link_6']}" simulation="${sim['links']['link_6']}"/>
+  <xacro:sim_joint name="joint_1" data="${cfg['joints']['joint_1']}" simulation="${sim['joints']['joint_1']}"/>
+  <xacro:sim_joint name="joint_2" data="${cfg['joints']['joint_2']}" simulation="${sim['joints']['joint_2']}"/>
+  <xacro:sim_joint name="joint_3" data="${cfg['joints']['joint_3']}" simulation="${sim['joints']['joint_3']}"/>
+  <xacro:sim_joint name="joint_4" data="${cfg['joints']['joint_4']}" simulation="${sim['joints']['joint_4']}"/>
+  <xacro:sim_joint name="joint_5" data="${cfg['joints']['joint_5']}" simulation="${sim['joints']['joint_5']}"/>
+  <xacro:sim_joint name="joint_6" data="${cfg['joints']['joint_6']}" simulation="${sim['joints']['joint_6']}"/>
+  <!-- Flange mounting face: CAD nominal X=+9 mm relative to J6.
+       This is a flange frame, not a calibrated tool TCP. -->
+  <link name="tool0"/>
+  <joint name="flange_to_tool0" type="fixed">
+    <parent link="link_6"/><child link="tool0"/>
+    <origin xyz="0 0 0.009" rpy="0 0 0"/>
+  </joint>
+
+  <ros2_control name="GazeboSystem" type="system">
+    <hardware><plugin>gazebo_ros2_control/GazeboSystem</plugin></hardware>
+    <xacro:control_joint name="joint_1" data="${cfg['joints']['joint_1']}"/>
+    <xacro:control_joint name="joint_2" data="${cfg['joints']['joint_2']}"/>
+    <xacro:control_joint name="joint_3" data="${cfg['joints']['joint_3']}"/>
+    <xacro:control_joint name="joint_4" data="${cfg['joints']['joint_4']}"/>
+    <xacro:control_joint name="joint_5" data="${cfg['joints']['joint_5']}"/>
+    <xacro:control_joint name="joint_6" data="${cfg['joints']['joint_6']}"/>
+  </ros2_control>
+  <gazebo>
+    <plugin name="gazebo_ros2_control" filename="libgazebo_ros2_control.so">
+      <robot_param>robot_description</robot_param>
+      <robot_param_node>robot_state_publisher</robot_param_node>
+      <parameters>$(arg controllers_file)</parameters>
+      <hold_joints>true</hold_joints>
+    </plugin>
+  </gazebo>
+</robot>

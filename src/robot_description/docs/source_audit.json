@@ -1,0 +1,2754 @@
+{
+  "checked": 458,
+  "matching": 458,
+  "files": [
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_BLOQUEO_J4_-30.ipt",
+      "expected_sha256": "3fd73e0efa0b9f86292f2183eb4e523c94e3cfd4dae990fe676983bf94bc0e73",
+      "actual_sha256": "3fd73e0efa0b9f86292f2183eb4e523c94e3cfd4dae990fe676983bf94bc0e73",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_BLOQUEO_J4_30.ipt",
+      "expected_sha256": "220cf22b8691be158a824c7b478b7b8c7c1325ecdeb39f18f5ce4ac0e40aca06",
+      "actual_sha256": "220cf22b8691be158a824c7b478b7b8c7c1325ecdeb39f18f5ce4ac0e40aca06",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_ESTRECHA_D6_PUENTE_J4_54_V1.ipt",
+      "expected_sha256": "e328e813020899b0073ba62e880aa2d60301b04b36323dbd0255f0faa0ddf35d",
+      "actual_sha256": "e328e813020899b0073ba62e880aa2d60301b04b36323dbd0255f0faa0ddf35d",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_FUNDA_J4_-18.ipt",
+      "expected_sha256": "e9af436d045d805493e09f98abb8919589e5cb4eac581b7e7de2ada49394a629",
+      "actual_sha256": "e9af436d045d805493e09f98abb8919589e5cb4eac581b7e7de2ada49394a629",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_FUNDA_J4_18.ipt",
+      "expected_sha256": "772be794311836a30a7e3e2d6fb8a0e73a8cc2b62b7071370d025b9e5c647a60",
+      "actual_sha256": "772be794311836a30a7e3e2d6fb8a0e73a8cc2b62b7071370d025b9e5c647a60",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_M2_CARCASA_ENCODER_J2_119.ipt",
+      "expected_sha256": "74e09fb6f104d40e4b31aaf72b01aba0253da2db5e9ab7d5889ff1acfa351e4c",
+      "actual_sha256": "74e09fb6f104d40e4b31aaf72b01aba0253da2db5e9ab7d5889ff1acfa351e4c",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_M2_CARCASA_ENCODER_J2_83.ipt",
+      "expected_sha256": "b4df63a89693c4b40d4cb1dbe1383b9645ed9b6aa03e15b00377d223ff9bba91",
+      "actual_sha256": "b4df63a89693c4b40d4cb1dbe1383b9645ed9b6aa03e15b00377d223ff9bba91",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_M2_CARCASA_ENCODER_J6_-14.ipt",
+      "expected_sha256": "fcc23aa3bda1f6b36c04d837f2e43c9c59bc221d09b25dca1669b3eabba382b4",
+      "actual_sha256": "fcc23aa3bda1f6b36c04d837f2e43c9c59bc221d09b25dca1669b3eabba382b4",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_M2_CARCASA_ENCODER_J6_14.ipt",
+      "expected_sha256": "0ab9e2d781be275a150eab7552f87c004775600c3d00c78270f2765eb408401a",
+      "actual_sha256": "0ab9e2d781be275a150eab7552f87c004775600c3d00c78270f2765eb408401a",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_M2_CARCASA_J3_-12.ipt",
+      "expected_sha256": "56451db0ace757c259b197a8bd37d87621bdad4c885af9f764d8591650bcf5db",
+      "actual_sha256": "56451db0ace757c259b197a8bd37d87621bdad4c885af9f764d8591650bcf5db",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_M2_CARCASA_J3_24.ipt",
+      "expected_sha256": "461cfe02d5f3747899b2762456d345fa90393ebf942b92dc118557997fb4e74a",
+      "actual_sha256": "461cfe02d5f3747899b2762456d345fa90393ebf942b92dc118557997fb4e74a",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_M2_CARCASA_J5_-12.ipt",
+      "expected_sha256": "a4f756f258eed4f93be53c5a23ef33609f15df1d15bacb729e9b72ffca746848",
+      "actual_sha256": "a4f756f258eed4f93be53c5a23ef33609f15df1d15bacb729e9b72ffca746848",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_M2_CARCASA_J5_24.ipt",
+      "expected_sha256": "cd3277afd037495193ac242d7dddd5affa08f85a1a8efb104efd859f9eec84fd",
+      "actual_sha256": "cd3277afd037495193ac242d7dddd5affa08f85a1a8efb104efd859f9eec84fd",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_M2_GUARDA_LECTURA_J6_-21.ipt",
+      "expected_sha256": "d121ff9adf836553cac680b9df5070a010c21ffe8826ff87547f54889abc1c25",
+      "actual_sha256": "d121ff9adf836553cac680b9df5070a010c21ffe8826ff87547f54889abc1c25",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_M2_GUARDA_LECTURA_J6_21.ipt",
+      "expected_sha256": "52d26159a44a0a4d5c3ca458ebf5bf1c542935daad088a6e10b2a5b574e7f64b",
+      "actual_sha256": "52d26159a44a0a4d5c3ca458ebf5bf1c542935daad088a6e10b2a5b574e7f64b",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_M2_PCB_J2_-9_100.5.ipt",
+      "expected_sha256": "483fd794e0a8aa71e42ef49330f7c9e5ef65e4b76eb5ab506018ed2282dc9b8a",
+      "actual_sha256": "483fd794e0a8aa71e42ef49330f7c9e5ef65e4b76eb5ab506018ed2282dc9b8a",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_M2_PCB_J2_-9_89.5.ipt",
+      "expected_sha256": "a3e12bc3eb0b1cd6d24da59f49315ad9bed72e138c023ca680f7898b04102371",
+      "actual_sha256": "a3e12bc3eb0b1cd6d24da59f49315ad9bed72e138c023ca680f7898b04102371",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_M2_PCB_J2_9_100.5.ipt",
+      "expected_sha256": "7e202be6cdf8e6743375e33cf38a3a34bc5dab3f267330a9b1470cdccb0add90",
+      "actual_sha256": "7e202be6cdf8e6743375e33cf38a3a34bc5dab3f267330a9b1470cdccb0add90",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_M2_PCB_J2_9_89.5.ipt",
+      "expected_sha256": "b9f7863cefaea07f50544d3e845db08589427b8ab53ab8f1addf4acd3ec3dcd3",
+      "actual_sha256": "b9f7863cefaea07f50544d3e845db08589427b8ab53ab8f1addf4acd3ec3dcd3",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_M2_PCB_J3_-9_-5.5.ipt",
+      "expected_sha256": "925cf8ea868cbb6861adb3590a1373519b3f478396fce28df2b1de7cef8f95b8",
+      "actual_sha256": "925cf8ea868cbb6861adb3590a1373519b3f478396fce28df2b1de7cef8f95b8",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_M2_PCB_J3_-9_5.5.ipt",
+      "expected_sha256": "b72cdee832aaebd650de7379775ec5eb194891946526e23c0e42ed12f988f2c6",
+      "actual_sha256": "b72cdee832aaebd650de7379775ec5eb194891946526e23c0e42ed12f988f2c6",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_M2_PCB_J3_9_-5.5.ipt",
+      "expected_sha256": "54b97b976db9bc3e0091c782122781eaedbdacacfcfbce81ac36548423917bea",
+      "actual_sha256": "54b97b976db9bc3e0091c782122781eaedbdacacfcfbce81ac36548423917bea",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_M2_PCB_J3_9_5.5.ipt",
+      "expected_sha256": "3581821f46a9f711cf0df8858c1948b4b105cd132315d9d709c4ba627d3d4904",
+      "actual_sha256": "3581821f46a9f711cf0df8858c1948b4b105cd132315d9d709c4ba627d3d4904",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_M2_PCB_J5_-9_-5.5.ipt",
+      "expected_sha256": "23fdc4faa3d365c8128b53113fe67077f9500ed7876352c0a7d529e895f28191",
+      "actual_sha256": "23fdc4faa3d365c8128b53113fe67077f9500ed7876352c0a7d529e895f28191",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_M2_PCB_J5_-9_5.5.ipt",
+      "expected_sha256": "984fa84a522e1ba516a213537e5fe0d9d0d7e485029e799f679b95f90272cb43",
+      "actual_sha256": "984fa84a522e1ba516a213537e5fe0d9d0d7e485029e799f679b95f90272cb43",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_M2_PCB_J5_9_-5.5.ipt",
+      "expected_sha256": "d220d1175ba688f676401a42e2f61e5fe360a7012aed5b8aa81f78ba1f49d210",
+      "actual_sha256": "d220d1175ba688f676401a42e2f61e5fe360a7012aed5b8aa81f78ba1f49d210",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_M2_PCB_J5_9_5.5.ipt",
+      "expected_sha256": "63292caed784df41ee517cf1ccdd29a36e4ec46b45ff48b49859751bfd6a9882",
+      "actual_sha256": "63292caed784df41ee517cf1ccdd29a36e4ec46b45ff48b49859751bfd6a9882",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_MOTOR_J4_-8.5.ipt",
+      "expected_sha256": "c0c12782f4149f5572ed319c131234c3af5b063fffb875260531df28a7289856",
+      "actual_sha256": "c0c12782f4149f5572ed319c131234c3af5b063fffb875260531df28a7289856",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_MOTOR_J4_8.5.ipt",
+      "expected_sha256": "80c31fc54364ed8a85c21b668ab759593f59d7b5d2d43b7271184360489f92be",
+      "actual_sha256": "80c31fc54364ed8a85c21b668ab759593f59d7b5d2d43b7271184360489f92be",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_PUENTE_J4_67.ipt",
+      "expected_sha256": "0748e4c232c68fdc8c66cd6e290266ab81fc35c758ba5354c04376c2dcf5b42c",
+      "actual_sha256": "0748e4c232c68fdc8c66cd6e290266ab81fc35c758ba5354c04376c2dcf5b42c",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ARANDELA_TRACCION_J4.ipt",
+      "expected_sha256": "67e443b28eda8ffee933f2a0480d9957e73483d1d2a6d4e1b87095e809cafd0a",
+      "actual_sha256": "67e443b28eda8ffee933f2a0480d9957e73483d1d2a6d4e1b87095e809cafd0a",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/AS5048A_J2_PCB_ENV_V1.ipt",
+      "expected_sha256": "c67bac839e59ef2763384370b83fc013b15a67adbe5166de683b3be0dd6692e5",
+      "actual_sha256": "c67bac839e59ef2763384370b83fc013b15a67adbe5166de683b3be0dd6692e5",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/AS5048A_J3_PCB_ENV_V1.ipt",
+      "expected_sha256": "6b40d988d70254cea4d0544be7fb530a9606641123f2f1aecddde0315fa723f7",
+      "actual_sha256": "6b40d988d70254cea4d0544be7fb530a9606641123f2f1aecddde0315fa723f7",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/AS5048A_J5_PCB_ENV_V1.ipt",
+      "expected_sha256": "30f4b1544ff2ed93f82a62fa3c5c906b50d30f4eae8e032208808dc83ff3661a",
+      "actual_sha256": "30f4b1544ff2ed93f82a62fa3c5c906b50d30f4eae8e032208808dc83ff3661a",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/CHAVETA_ENTRADA_J2_MONTADO_20260917.ipt",
+      "expected_sha256": "9004be81c11afa7b260a10c3e28f345fdc26ad7841f858a4569217a5719f3e59",
+      "actual_sha256": "9004be81c11afa7b260a10c3e28f345fdc26ad7841f858a4569217a5719f3e59",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/CHAVETA_ENTRADA_J3_MONTADO_20260917.ipt",
+      "expected_sha256": "8d5e9446e59112023840de0e218cfa66bba1c5e63c16f3b7f13e616943fd884d",
+      "actual_sha256": "8d5e9446e59112023840de0e218cfa66bba1c5e63c16f3b7f13e616943fd884d",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/CHAVETA_ESTRUCTURAL_J2_NEG_MONTADO_20260917.ipt",
+      "expected_sha256": "0a51b43816d132ce2ac4d0b2711db04bfb9f05d288f34a7fc1faeb4a67b0385a",
+      "actual_sha256": "0a51b43816d132ce2ac4d0b2711db04bfb9f05d288f34a7fc1faeb4a67b0385a",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/CHAVETA_ESTRUCTURAL_J2_POS_MONTADO_20260917.ipt",
+      "expected_sha256": "2eda1b0721bd7284763ae1e97183287d758b623ed0adc398ac67c5f8a7c6390f",
+      "actual_sha256": "2eda1b0721bd7284763ae1e97183287d758b623ed0adc398ac67c5f8a7c6390f",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/CHAVETA_ESTRUCTURAL_J3_NEG_MONTADO_20260917.ipt",
+      "expected_sha256": "d1eec214344b75a719683426554690cb4063f0c9d697e6ede16f81a1b88bd11f",
+      "actual_sha256": "d1eec214344b75a719683426554690cb4063f0c9d697e6ede16f81a1b88bd11f",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/CHAVETA_ESTRUCTURAL_J3_POS_MONTADO_20260917.ipt",
+      "expected_sha256": "ec303fd62ab833b4fa37ea3d3e4be027f4aa27ca25d3ca2af6173f53ab4c498d",
+      "actual_sha256": "ec303fd62ab833b4fa37ea3d3e4be027f4aa27ca25d3ca2af6173f53ab4c498d",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/CHAVETA_ESTRUCTURAL_J5_NEG_MONTADO_20260917.ipt",
+      "expected_sha256": "6367801ce908decbd22ed720911dadc17178f135827a85d0c38799dc3658fb18",
+      "actual_sha256": "6367801ce908decbd22ed720911dadc17178f135827a85d0c38799dc3658fb18",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/CHAVETA_ESTRUCTURAL_J5_POS_MONTADO_20260917.ipt",
+      "expected_sha256": "c5b957362273732402791ac4f36f05bbf9e3509794596def45ed57b0d8e261fc",
+      "actual_sha256": "c5b957362273732402791ac4f36f05bbf9e3509794596def45ed57b0d8e261fc",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/CHAVETA_POLEA_J1_MONTADO_20260917.ipt",
+      "expected_sha256": "0230aa0f5911241a6cda29b30f5fb030eed95d6343ca180ce0b13eb97745cffe",
+      "actual_sha256": "0230aa0f5911241a6cda29b30f5fb030eed95d6343ca180ce0b13eb97745cffe",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/CHAVETA_POLEA_J2_MONTADO_20260917.ipt",
+      "expected_sha256": "2493135d52e6b23cce9f6c944688a7088ef5c0da2a92d541e909043a0860a5c8",
+      "actual_sha256": "2493135d52e6b23cce9f6c944688a7088ef5c0da2a92d541e909043a0860a5c8",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/CHAVETA_POLEA_J3_MONTADO_20260917.ipt",
+      "expected_sha256": "ba1bb7f830ba0ac695690939d40a2020086e429570ef7284c815af89991e8900",
+      "actual_sha256": "ba1bb7f830ba0ac695690939d40a2020086e429570ef7284c815af89991e8900",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/CHAVETA_POLEA_J5_MONTADO_20260917.ipt",
+      "expected_sha256": "5d2592f1d564efd969dccf12a606f3f5aafac408d3916eb6248942b8f6873b97",
+      "actual_sha256": "5d2592f1d564efd969dccf12a606f3f5aafac408d3916eb6248942b8f6873b97",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/CIRCLIP_DIN471_20x1_2_DSH20_ENV_V1.ipt",
+      "expected_sha256": "3123083b3b7a2328c6f4a63d8ff874a755f1dbba33389aa0a2d9160deadda380",
+      "actual_sha256": "3123083b3b7a2328c6f4a63d8ff874a755f1dbba33389aa0a2d9160deadda380",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/HOME_J1_M2_0_V2.ipt",
+      "expected_sha256": "b71f95b9abb73203015d342e8cc364e6e575aa69d6af6b41357f91cb8ee86d56",
+      "actual_sha256": "b71f95b9abb73203015d342e8cc364e6e575aa69d6af6b41357f91cb8ee86d56",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/HOME_J1_M2_1_V2.ipt",
+      "expected_sha256": "6eef2aaa0658b6b11690564ad7bd57987aff417ecd094c25574f108471c11b78",
+      "actual_sha256": "6eef2aaa0658b6b11690564ad7bd57987aff417ecd094c25574f108471c11b78",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/HOME_J2_M2_0_V2.ipt",
+      "expected_sha256": "c0d99bac142d5ecf46a7843ada40026d072e4e310a70fa3f49f48e5ab46f9c87",
+      "actual_sha256": "c0d99bac142d5ecf46a7843ada40026d072e4e310a70fa3f49f48e5ab46f9c87",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/HOME_J2_M2_1_V2.ipt",
+      "expected_sha256": "ae51a12ac06cd9204012b1e549e2033f7ebd8e8aad30af8c0667a51d42fc9f69",
+      "actual_sha256": "ae51a12ac06cd9204012b1e549e2033f7ebd8e8aad30af8c0667a51d42fc9f69",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/HOME_J3_M2_0_V2.ipt",
+      "expected_sha256": "2c83df15314caa7a8df4da7cf106f6715e6c4af0a75121c4cf9de9f29cd6dd87",
+      "actual_sha256": "2c83df15314caa7a8df4da7cf106f6715e6c4af0a75121c4cf9de9f29cd6dd87",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/HOME_J3_M2_1_V2.ipt",
+      "expected_sha256": "3deb699c52eb2e3110361a3382ded177c6f2d048439a3cd12c296733862b4ef4",
+      "actual_sha256": "3deb699c52eb2e3110361a3382ded177c6f2d048439a3cd12c296733862b4ef4",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/HOME_J4_M2_0_V2.ipt",
+      "expected_sha256": "7c656971fef3e797f64b42c2d0860bbbbd01c50bb1988ac1abc72f2bfa8914f7",
+      "actual_sha256": "7c656971fef3e797f64b42c2d0860bbbbd01c50bb1988ac1abc72f2bfa8914f7",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/HOME_J4_M2_1_V2.ipt",
+      "expected_sha256": "ed5083dfe844d1f894b868af1ef28a400a1f288e7a6f10ffc881d2294fdbfa4a",
+      "actual_sha256": "ed5083dfe844d1f894b868af1ef28a400a1f288e7a6f10ffc881d2294fdbfa4a",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/HOME_J5_M2_0_V2.ipt",
+      "expected_sha256": "6c8327dae85d2c468a5739e20c024ea6cd0010978631e6bc482147c838fdf59a",
+      "actual_sha256": "6c8327dae85d2c468a5739e20c024ea6cd0010978631e6bc482147c838fdf59a",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/HOME_J5_M2_1_V2.ipt",
+      "expected_sha256": "d6610364954e39e12adaabed9ede07390eb76ebbe76b8a457f21e84c5584cfab",
+      "actual_sha256": "d6610364954e39e12adaabed9ede07390eb76ebbe76b8a457f21e84c5584cfab",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/HOME_J6_M2_0_V2.ipt",
+      "expected_sha256": "1d290c1463079186e6a3303d9b5eee0bfcbcba61064b4ecf56247aa2a75e6024",
+      "actual_sha256": "1d290c1463079186e6a3303d9b5eee0bfcbcba61064b4ecf56247aa2a75e6024",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/HOME_J6_M2_1_V2.ipt",
+      "expected_sha256": "41b5b62cd129951406316848a011ac87a494aae778b5aaf08c72d70234536dd0",
+      "actual_sha256": "41b5b62cd129951406316848a011ac87a494aae778b5aaf08c72d70234536dd0",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/HOME_TARGET_J1_ALOJADO_V2.ipt",
+      "expected_sha256": "6cd2b30e87c5c48f813582c9bc8662bfb4a24f912abd06529a5850aa1182a2d8",
+      "actual_sha256": "6cd2b30e87c5c48f813582c9bc8662bfb4a24f912abd06529a5850aa1182a2d8",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/HOME_TARGET_J2_ALOJADO_V2.ipt",
+      "expected_sha256": "e32c6f37b11b521c8f2713948035a32404ee5c5b4db65d2a7cb2486293bd9a67",
+      "actual_sha256": "e32c6f37b11b521c8f2713948035a32404ee5c5b4db65d2a7cb2486293bd9a67",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/HOME_TARGET_J3_ALOJADO_V2.ipt",
+      "expected_sha256": "88012595714705a60a71af1556645fe1871edde373399f3dad2b6d676820332c",
+      "actual_sha256": "88012595714705a60a71af1556645fe1871edde373399f3dad2b6d676820332c",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/HOME_TARGET_J4_ALOJADO_V2.ipt",
+      "expected_sha256": "ad2636c548483d206ab968ea177f78eb2735d55e29fe136ba7f9e8c2f9461472",
+      "actual_sha256": "ad2636c548483d206ab968ea177f78eb2735d55e29fe136ba7f9e8c2f9461472",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/HOME_TARGET_J5_ALOJADO_V2.ipt",
+      "expected_sha256": "d37b4601b0486c89ec6b4dcdd581617573d37efe853e1e39e5e09780c9786de0",
+      "actual_sha256": "d37b4601b0486c89ec6b4dcdd581617573d37efe853e1e39e5e09780c9786de0",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/HOME_TARGET_J6_ALOJADO_V2.ipt",
+      "expected_sha256": "c17ef29b02cb543a48870a4ab85bdb587b21c426e7f88a19433db6ae5dd1d790",
+      "actual_sha256": "c17ef29b02cb543a48870a4ab85bdb587b21c426e7f88a19433db6ae5dd1d790",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/IMAN_J2_D6x2_5_DIAMETRAL_ENV_V1.ipt",
+      "expected_sha256": "6b6be5464b53e097db9853186d47888c581d54c0560515a59ed23ca5a635c423",
+      "actual_sha256": "6b6be5464b53e097db9853186d47888c581d54c0560515a59ed23ca5a635c423",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/IMAN_J3_D6x2_5_DIAMETRAL_ENV_V1.ipt",
+      "expected_sha256": "88194e868b0bba8e42f18e3e95487b9f0573c4c5cbd53f731449c20a0e703c31",
+      "actual_sha256": "88194e868b0bba8e42f18e3e95487b9f0573c4c5cbd53f731449c20a0e703c31",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/IMAN_J5_D6x2_5_DIAMETRAL_ENV_V1.ipt",
+      "expected_sha256": "e6be7966b6ef40e9ce6d19f3da27c87978beec27e09c66d94c0d4d4a28d212f5",
+      "actual_sha256": "e6be7966b6ef40e9ce6d19f3da27c87978beec27e09c66d94c0d4d4a28d212f5",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x10_CARCASA_ENCODER_J2_119.ipt",
+      "expected_sha256": "1892698500e4e556189d368924c346345a82313a0b005f52e625d5160f8e2989",
+      "actual_sha256": "1892698500e4e556189d368924c346345a82313a0b005f52e625d5160f8e2989",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x10_CARCASA_ENCODER_J2_83.ipt",
+      "expected_sha256": "677ea67b11523c0e256e270c290ca597613f33dea341a18890d1f03e9e3158c2",
+      "actual_sha256": "677ea67b11523c0e256e270c290ca597613f33dea341a18890d1f03e9e3158c2",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x10_CARCASA_ENCODER_J6_-14.ipt",
+      "expected_sha256": "c4fbbf11eaf002e2545a615adb508c590a76110ac5a755347759704e868d7970",
+      "actual_sha256": "c4fbbf11eaf002e2545a615adb508c590a76110ac5a755347759704e868d7970",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x10_CARCASA_ENCODER_J6_14.ipt",
+      "expected_sha256": "7aabcd264a3849545d6e9f1598013487428af1851dc76909637c9a2ecd6b2502",
+      "actual_sha256": "7aabcd264a3849545d6e9f1598013487428af1851dc76909637c9a2ecd6b2502",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x10_CARCASA_J3_-12.ipt",
+      "expected_sha256": "f13a566699a8f421cf470596f7b8dd9bf352287f3e84cfca7621d8ab4500f0ad",
+      "actual_sha256": "f13a566699a8f421cf470596f7b8dd9bf352287f3e84cfca7621d8ab4500f0ad",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x10_CARCASA_J3_24.ipt",
+      "expected_sha256": "4f721483db586b812e15aa1663b5d28cd0eee0ecc1ff784d9e1a0331f04d7f15",
+      "actual_sha256": "4f721483db586b812e15aa1663b5d28cd0eee0ecc1ff784d9e1a0331f04d7f15",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x10_CARCASA_J5_-12.ipt",
+      "expected_sha256": "70c17de005352ca2863ca8c0d497458b696791500ad358865b76e197711200f9",
+      "actual_sha256": "70c17de005352ca2863ca8c0d497458b696791500ad358865b76e197711200f9",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x10_CARCASA_J5_24.ipt",
+      "expected_sha256": "586f5272a9cda2e5a35d1d85e3ab9aacd51f05ba086ef9a854c1e86ca5f5d7a0",
+      "actual_sha256": "586f5272a9cda2e5a35d1d85e3ab9aacd51f05ba086ef9a854c1e86ca5f5d7a0",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x4_CARCASA_ENGRANAJE_J1_-24.ipt",
+      "expected_sha256": "a9ea996ac1ac0330a1b3a2228e9496ad10ed569f8b30ada1ed5b6c9b5b623594",
+      "actual_sha256": "a9ea996ac1ac0330a1b3a2228e9496ad10ed569f8b30ada1ed5b6c9b5b623594",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x4_CARCASA_ENGRANAJE_J1_24.ipt",
+      "expected_sha256": "70c39531105414841f5337947b25aa5a84f7702d60221d956ffc8974d021eb9a",
+      "actual_sha256": "70c39531105414841f5337947b25aa5a84f7702d60221d956ffc8974d021eb9a",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x4_TAPA_ENCODER_J1_158_-6.5.ipt",
+      "expected_sha256": "8102f5917b8da1854975edd77278928f3e749f458851d0d28115bb74547bb2a1",
+      "actual_sha256": "8102f5917b8da1854975edd77278928f3e749f458851d0d28115bb74547bb2a1",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x4_TAPA_ENCODER_J1_158_6.5.ipt",
+      "expected_sha256": "c01a5ce4acfa37ace5e9a50d6dcb2884e38069ba202704916d5aea68befe7758",
+      "actual_sha256": "c01a5ce4acfa37ace5e9a50d6dcb2884e38069ba202704916d5aea68befe7758",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x4_TAPA_ENCODER_J1_164_-4.5.ipt",
+      "expected_sha256": "464cb427f14e865107db09554595d1e454a8f21b0aa87d225723c8c03270e9da",
+      "actual_sha256": "464cb427f14e865107db09554595d1e454a8f21b0aa87d225723c8c03270e9da",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x4_TAPA_ENCODER_J1_164_4.5.ipt",
+      "expected_sha256": "6036b8753795c55411ab032898a3975ee40e3ef3c3b02dd26b7a440c94f9a55d",
+      "actual_sha256": "6036b8753795c55411ab032898a3975ee40e3ef3c3b02dd26b7a440c94f9a55d",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x4_TAPA_ENCODER_J4_84_-6.5.ipt",
+      "expected_sha256": "6a000fd04ed9da181d10de15c34e3912c83f9dc268835df1961713868c1141a9",
+      "actual_sha256": "6a000fd04ed9da181d10de15c34e3912c83f9dc268835df1961713868c1141a9",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x4_TAPA_ENCODER_J4_84_6.5.ipt",
+      "expected_sha256": "f36d0eb4dbaa14d8185264d9e8d5487e9e0732cbdbd69e77557c109df956ef78",
+      "actual_sha256": "f36d0eb4dbaa14d8185264d9e8d5487e9e0732cbdbd69e77557c109df956ef78",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x4_TAPA_ENCODER_J4_90_-5.ipt",
+      "expected_sha256": "c7b3408889c084338c82be0888fe5ddecd73f5046015756d3e81cd81a6e6314e",
+      "actual_sha256": "c7b3408889c084338c82be0888fe5ddecd73f5046015756d3e81cd81a6e6314e",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x4_TAPA_ENCODER_J4_90_5.ipt",
+      "expected_sha256": "0cebad2c5f00be2167f3bd56feba9d52becc0879b87a40c6e4f209374077a922",
+      "actual_sha256": "0cebad2c5f00be2167f3bd56feba9d52becc0879b87a40c6e4f209374077a922",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x4_TAPA_POSTERIOR_ENCODER_J6_-7.ipt",
+      "expected_sha256": "0d741b7ba20d272997c723f65834e50117483c1acccf4a0aa676edb02aac6f1a",
+      "actual_sha256": "0d741b7ba20d272997c723f65834e50117483c1acccf4a0aa676edb02aac6f1a",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x4_TAPA_POSTERIOR_ENCODER_J6_7.ipt",
+      "expected_sha256": "eac3e16520e2fbcc04791db9a2d171eeeccfa8d094471c67562980df8a00e5ef",
+      "actual_sha256": "eac3e16520e2fbcc04791db9a2d171eeeccfa8d094471c67562980df8a00e5ef",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x5_EXTENSION_ENCODER_J4_-28.ipt",
+      "expected_sha256": "d8ea23aef78bb7ca99895f473910b31e00938816beb65fd29255504c79eb0d70",
+      "actual_sha256": "d8ea23aef78bb7ca99895f473910b31e00938816beb65fd29255504c79eb0d70",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x5_EXTENSION_ENCODER_J4_28.ipt",
+      "expected_sha256": "b35f7f9098fbeddabacdfc6a9819e86e8d4da525bfd0ad5f7e14d96711533a5b",
+      "actual_sha256": "b35f7f9098fbeddabacdfc6a9819e86e8d4da525bfd0ad5f7e14d96711533a5b",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x6_BASE_ENCODER_J5_X-16.5.ipt",
+      "expected_sha256": "8ae0a5f21c630049a0c04400031d1a7a2e67a1bc0df48f8240e1d7127f0f60c8",
+      "actual_sha256": "8ae0a5f21c630049a0c04400031d1a7a2e67a1bc0df48f8240e1d7127f0f60c8",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x6_BASE_ENCODER_J5_X16.5.ipt",
+      "expected_sha256": "5f3622d9b43d456ff1417fd7dc82aa1482eaec2ccffb0c9db46e1f8dd7ea7762",
+      "actual_sha256": "5f3622d9b43d456ff1417fd7dc82aa1482eaec2ccffb0c9db46e1f8dd7ea7762",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x6_BASE_ENCODER_J5_Z-16.5.ipt",
+      "expected_sha256": "8268efbd2e1672e2f9f5d7d7b84b1c4f33df27a024de88587aba484b13165053",
+      "actual_sha256": "8268efbd2e1672e2f9f5d7d7b84b1c4f33df27a024de88587aba484b13165053",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x6_BASE_ENCODER_J5_Z16.5.ipt",
+      "expected_sha256": "2c73c822bb29585e4f169917c0d253dc4cf3270066a18ba5d03109f896cb3d99",
+      "actual_sha256": "2c73c822bb29585e4f169917c0d253dc4cf3270066a18ba5d03109f896cb3d99",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x6_TAPA_FRONTAL_ENCODER_J6_-21.ipt",
+      "expected_sha256": "7ee124510d534644c53159aeb7a93fc96a7b9cccebee254ab7d1a919d0d76076",
+      "actual_sha256": "7ee124510d534644c53159aeb7a93fc96a7b9cccebee254ab7d1a919d0d76076",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x6_TAPA_FRONTAL_ENCODER_J6_21.ipt",
+      "expected_sha256": "694d8640973cca67369b10120c8adc20a2001eaab08d16ebeff5a123e011f1c0",
+      "actual_sha256": "694d8640973cca67369b10120c8adc20a2001eaab08d16ebeff5a123e011f1c0",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x8_CORONA_LECTURA_J4_0.ipt",
+      "expected_sha256": "a47feb321340718a99f06530d494a67e18a01584b969caef9d814950d595590a",
+      "actual_sha256": "a47feb321340718a99f06530d494a67e18a01584b969caef9d814950d595590a",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x8_CORONA_LECTURA_J4_1.ipt",
+      "expected_sha256": "c01085899b9d249f23ae4f756e7be407ac9f211704683d0403fba309f5384a79",
+      "actual_sha256": "c01085899b9d249f23ae4f756e7be407ac9f211704683d0403fba309f5384a79",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x8_CORONA_LECTURA_J4_2.ipt",
+      "expected_sha256": "f91835cda7de1e1158eabb4713f50d9e35b049d34a26bc9dad3ef362af1347a3",
+      "actual_sha256": "f91835cda7de1e1158eabb4713f50d9e35b049d34a26bc9dad3ef362af1347a3",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x8_CORONA_LECTURA_J4_3.ipt",
+      "expected_sha256": "1a35424311983579ccc0c88f4b3c825db51ee8f7656e73ff463bec6d0ca66d37",
+      "actual_sha256": "1a35424311983579ccc0c88f4b3c825db51ee8f7656e73ff463bec6d0ca66d37",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x8_GUARDA_LECTURA_J6_-21.ipt",
+      "expected_sha256": "81e3cabe7471f510275c3f5f764f8ada462237b53a46bb4ec24da472008bf266",
+      "actual_sha256": "81e3cabe7471f510275c3f5f764f8ada462237b53a46bb4ec24da472008bf266",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x8_GUARDA_LECTURA_J6_21.ipt",
+      "expected_sha256": "b6d83c22ede9bf88ee5bfff9d25d7dd5cc094e33598ee520f8013e8f92900897",
+      "actual_sha256": "b6d83c22ede9bf88ee5bfff9d25d7dd5cc094e33598ee520f8013e8f92900897",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x8_PCB_J2_-9_100.5.ipt",
+      "expected_sha256": "569f38cc13755537786f1d25cd64f72bb140d68ea8db19e0a1990ef90662b546",
+      "actual_sha256": "569f38cc13755537786f1d25cd64f72bb140d68ea8db19e0a1990ef90662b546",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x8_PCB_J2_-9_89.5.ipt",
+      "expected_sha256": "e0400b16170875f5d0b0dd4cf876c2d06f75d6ed4860be5709baaa910a265484",
+      "actual_sha256": "e0400b16170875f5d0b0dd4cf876c2d06f75d6ed4860be5709baaa910a265484",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x8_PCB_J2_9_100.5.ipt",
+      "expected_sha256": "6023e812cc75e4c7830efcaf3d0c81f8ce1a2a68ababdf4c3cb1abdec066e837",
+      "actual_sha256": "6023e812cc75e4c7830efcaf3d0c81f8ce1a2a68ababdf4c3cb1abdec066e837",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x8_PCB_J2_9_89.5.ipt",
+      "expected_sha256": "13657f6c0b756184179373eb318219b252b93b8e4726f0a6c0507c15d46c4d5b",
+      "actual_sha256": "13657f6c0b756184179373eb318219b252b93b8e4726f0a6c0507c15d46c4d5b",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x8_PCB_J3_-9_-5.5.ipt",
+      "expected_sha256": "fb42e900a51150db694e48d51f89073be5095b7b64734366fb39eb09d0758d5f",
+      "actual_sha256": "fb42e900a51150db694e48d51f89073be5095b7b64734366fb39eb09d0758d5f",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x8_PCB_J3_-9_5.5.ipt",
+      "expected_sha256": "a8e822e0c87d745faeee524492d54d4e694744bedf08402e7696ef7e41842cf0",
+      "actual_sha256": "a8e822e0c87d745faeee524492d54d4e694744bedf08402e7696ef7e41842cf0",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x8_PCB_J3_9_-5.5.ipt",
+      "expected_sha256": "365221beff69f6401b1a0eb0f2285f0d84c167af85a99a5ae649a68da31aefe3",
+      "actual_sha256": "365221beff69f6401b1a0eb0f2285f0d84c167af85a99a5ae649a68da31aefe3",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x8_PCB_J3_9_5.5.ipt",
+      "expected_sha256": "b803e0d8f7e34ce926a7547767ec3a5aab3663bba77656eff2bd741116dbbd15",
+      "actual_sha256": "b803e0d8f7e34ce926a7547767ec3a5aab3663bba77656eff2bd741116dbbd15",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x8_PCB_J5_-9_-5.5.ipt",
+      "expected_sha256": "564c6349198c3ffd6f209cc2f738a35fa3bdf5aa45db33217e90acc4dfed0d39",
+      "actual_sha256": "564c6349198c3ffd6f209cc2f738a35fa3bdf5aa45db33217e90acc4dfed0d39",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x8_PCB_J5_-9_5.5.ipt",
+      "expected_sha256": "823e383ef286aa6a3e596099c7dfc1ff1070ef088fb2646eb4702900e5f06061",
+      "actual_sha256": "823e383ef286aa6a3e596099c7dfc1ff1070ef088fb2646eb4702900e5f06061",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x8_PCB_J5_9_-5.5.ipt",
+      "expected_sha256": "5887dbb5c92a84d04fe0c2ad15f5c61ff6e318d7eb692698836e04da131e6e7e",
+      "actual_sha256": "5887dbb5c92a84d04fe0c2ad15f5c61ff6e318d7eb692698836e04da131e6e7e",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2x8_PCB_J5_9_5.5.ipt",
+      "expected_sha256": "3869b5523bedc7b1bc308e88f3e0a17592187a0f4701f3694caf529dda36bf4d",
+      "actual_sha256": "3869b5523bedc7b1bc308e88f3e0a17592187a0f4701f3694caf529dda36bf4d",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2_5x5_CLIP_V2_-6.5.ipt",
+      "expected_sha256": "0a537277f8ae7baeb11813ada3d99c8d1d022f9d0e8d4e92d84fe4ff0f776b01",
+      "actual_sha256": "0a537277f8ae7baeb11813ada3d99c8d1d022f9d0e8d4e92d84fe4ff0f776b01",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2_5x5_CLIP_V2_6.5.ipt",
+      "expected_sha256": "de3a012767b05e21fa92ee9eb098d030b1e11d715940958c2c4489499d1b55e6",
+      "actual_sha256": "de3a012767b05e21fa92ee9eb098d030b1e11d715940958c2c4489499d1b55e6",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2_5x8_GUIA_J4_-1_10.ipt",
+      "expected_sha256": "bb8e145b2f67fc3c8a08da0e6eec4d6e8b30abaae8bdf2cbe9eb7f43e4a5a333",
+      "actual_sha256": "bb8e145b2f67fc3c8a08da0e6eec4d6e8b30abaae8bdf2cbe9eb7f43e4a5a333",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2_5x8_GUIA_J4_-1_19.ipt",
+      "expected_sha256": "b7e16affaafbfd95126b99b44cc23ce1886bfed579163abd9a0a4960f190c2fe",
+      "actual_sha256": "b7e16affaafbfd95126b99b44cc23ce1886bfed579163abd9a0a4960f190c2fe",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2_5x8_GUIA_J4_1_10.ipt",
+      "expected_sha256": "50fddeb320b6be8bf84641bdad42757f80e2f7fdc0c773b663e1fe3efb342636",
+      "actual_sha256": "50fddeb320b6be8bf84641bdad42757f80e2f7fdc0c773b663e1fe3efb342636",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M2_5x8_GUIA_J4_1_19.ipt",
+      "expected_sha256": "7a72277556270930e37df8da3d5dcc94828bbb4e1ff548ba560308742695a438",
+      "actual_sha256": "7a72277556270930e37df8da3d5dcc94828bbb4e1ff548ba560308742695a438",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x10_BOTON_EMBUTIDO_J4_0.ipt",
+      "expected_sha256": "24eddbd4ed114accf48b1539738bd402ae714149cc566f1b12d07340a4addfd4",
+      "actual_sha256": "24eddbd4ed114accf48b1539738bd402ae714149cc566f1b12d07340a4addfd4",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x10_BOTON_EMBUTIDO_J4_1.ipt",
+      "expected_sha256": "114abc0e8016b7df30876a0c6eba99f007cec9a4a78ab90dd41ffa3c62ce8245",
+      "actual_sha256": "114abc0e8016b7df30876a0c6eba99f007cec9a4a78ab90dd41ffa3c62ce8245",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x10_BOTON_EMBUTIDO_J4_2.ipt",
+      "expected_sha256": "84c68354488a4bc747dc188299fc371a69520dfd489d68ac6f8d1f9f9ca713c8",
+      "actual_sha256": "84c68354488a4bc747dc188299fc371a69520dfd489d68ac6f8d1f9f9ca713c8",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x10_BOTON_EMBUTIDO_J4_3.ipt",
+      "expected_sha256": "77850b0e87eac488b18fa616f96f827a3d67171c912b155974e5e815ccf09c79",
+      "actual_sha256": "77850b0e87eac488b18fa616f96f827a3d67171c912b155974e5e815ccf09c79",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x10_BOTON_TOPE_J2_45.ipt",
+      "expected_sha256": "edb092ba47189174810724371eb5a2887fdeafff3a4010766dd7bdfa3584c3b3",
+      "actual_sha256": "edb092ba47189174810724371eb5a2887fdeafff3a4010766dd7bdfa3584c3b3",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x10_BOTON_TOPE_J2_53.ipt",
+      "expected_sha256": "b78bdd17ffacd05ccccdab0d3d8599688151a3da45025a53305da8725297d7c8",
+      "actual_sha256": "b78bdd17ffacd05ccccdab0d3d8599688151a3da45025a53305da8725297d7c8",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x10_BRIDA_PLATAFORMA_J1_0_20260917.ipt",
+      "expected_sha256": "b22fdd7925582ddcbdb1e76e46fd0b333bac0b819d0c4eea9673f96a809dbb10",
+      "actual_sha256": "b22fdd7925582ddcbdb1e76e46fd0b333bac0b819d0c4eea9673f96a809dbb10",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x10_BRIDA_PLATAFORMA_J1_1_20260917.ipt",
+      "expected_sha256": "abae1e04dbff62494067567f9f0166f66d638d91574e7377f8e3d9fae6ab7ff4",
+      "actual_sha256": "abae1e04dbff62494067567f9f0166f66d638d91574e7377f8e3d9fae6ab7ff4",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x10_BRIDA_PLATAFORMA_J1_2_20260917.ipt",
+      "expected_sha256": "f6e9fa976609fe0a4f6c29fb250ae36e7868ea826943c81723e5a444760608eb",
+      "actual_sha256": "f6e9fa976609fe0a4f6c29fb250ae36e7868ea826943c81723e5a444760608eb",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x10_BRIDA_PLATAFORMA_J1_3_20260917.ipt",
+      "expected_sha256": "4506720ba573fe8dcfbb5d9a6b3b60cf02e8ab39d320d9d006ec941d6d385bf1",
+      "actual_sha256": "4506720ba573fe8dcfbb5d9a6b3b60cf02e8ab39d320d9d006ec941d6d385bf1",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x10_ISO7380_L3_UNION_TRAVESANO_V1_18_-1_-8.ipt",
+      "expected_sha256": "0faa34a7ddfb6bf603a46f25c4720906a2b2da334e9ec3d5531a1d2f54ce2549",
+      "actual_sha256": "0faa34a7ddfb6bf603a46f25c4720906a2b2da334e9ec3d5531a1d2f54ce2549",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x10_ISO7380_L3_UNION_TRAVESANO_V1_18_-1_8.ipt",
+      "expected_sha256": "8fe7fa8dcc7366269521aafef743acb0aa9c107659f7cdf57dc2fabd94b2ae86",
+      "actual_sha256": "8fe7fa8dcc7366269521aafef743acb0aa9c107659f7cdf57dc2fabd94b2ae86",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x10_ISO7380_L3_UNION_TRAVESANO_V1_18_1_-8.ipt",
+      "expected_sha256": "28b9a0b4298e01495c650d61db4f7bb9c7df4c53e9ead4ee23589bc12c4d433a",
+      "actual_sha256": "28b9a0b4298e01495c650d61db4f7bb9c7df4c53e9ead4ee23589bc12c4d433a",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x10_ISO7380_L3_UNION_TRAVESANO_V1_18_1_8.ipt",
+      "expected_sha256": "08d1c0f50c3e32d81136b1b5da0d936bd80c62c2371c077272e928c77780f716",
+      "actual_sha256": "08d1c0f50c3e32d81136b1b5da0d936bd80c62c2371c077272e928c77780f716",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x10_L2_UNION_TRAVESANO_V1_130_-1_-10.ipt",
+      "expected_sha256": "85667059cbfd12bcc510969337ec7a89a2e7f9a14c9456d959333144ae1c8eaf",
+      "actual_sha256": "85667059cbfd12bcc510969337ec7a89a2e7f9a14c9456d959333144ae1c8eaf",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x10_L2_UNION_TRAVESANO_V1_130_-1_10.ipt",
+      "expected_sha256": "5467e3788ed139997c8fa89c2512dc3081d45862b8f075eaf0de773f87814537",
+      "actual_sha256": "5467e3788ed139997c8fa89c2512dc3081d45862b8f075eaf0de773f87814537",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x10_L2_UNION_TRAVESANO_V1_130_1_-10.ipt",
+      "expected_sha256": "16a9452cebfccc31bf8b22899b46ea584d774436897a590fbdfb6678005e312c",
+      "actual_sha256": "16a9452cebfccc31bf8b22899b46ea584d774436897a590fbdfb6678005e312c",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x10_L2_UNION_TRAVESANO_V1_130_1_10.ipt",
+      "expected_sha256": "26a86a00d393285f87f1eef9d11f37280c385f2b1c03a1f7121015fa987d802b",
+      "actual_sha256": "26a86a00d393285f87f1eef9d11f37280c385f2b1c03a1f7121015fa987d802b",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x10_L2_UNION_TRAVESANO_V1_22_-1_-10.ipt",
+      "expected_sha256": "a8a5e3c6e61d69af82694c6c68a15ab7b00730e787c52907437f2f0df6c3193d",
+      "actual_sha256": "a8a5e3c6e61d69af82694c6c68a15ab7b00730e787c52907437f2f0df6c3193d",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x10_L2_UNION_TRAVESANO_V1_22_-1_10.ipt",
+      "expected_sha256": "5b888e1276c7421e35070e60fd7e9ce6c3d7855afbd488ef8669cb264d321bb5",
+      "actual_sha256": "5b888e1276c7421e35070e60fd7e9ce6c3d7855afbd488ef8669cb264d321bb5",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x10_L2_UNION_TRAVESANO_V1_22_1_-10.ipt",
+      "expected_sha256": "472df7ce5b8687ba35b815299139de23c4ac678f2b784277b40a46d427e04e60",
+      "actual_sha256": "472df7ce5b8687ba35b815299139de23c4ac678f2b784277b40a46d427e04e60",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x10_L2_UNION_TRAVESANO_V1_22_1_10.ipt",
+      "expected_sha256": "115870f6fcdb96031585dad44d9d59070dd5787f9c05e887b297e95873880cf2",
+      "actual_sha256": "115870f6fcdb96031585dad44d9d59070dd5787f9c05e887b297e95873880cf2",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x12_BLOQUEO_J4_-30.ipt",
+      "expected_sha256": "a8ec0e44231eb91324fef1c4cf875698828f6a8ac270048b1e874f9903faba1e",
+      "actual_sha256": "a8ec0e44231eb91324fef1c4cf875698828f6a8ac270048b1e874f9903faba1e",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x12_BLOQUEO_J4_30.ipt",
+      "expected_sha256": "3f54f7b97af7ffbba3b27da8acb2a434ed3b227609e76ce40ee7b4ce59c14ba9",
+      "actual_sha256": "3f54f7b97af7ffbba3b27da8acb2a434ed3b227609e76ce40ee7b4ce59c14ba9",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x12_PUENTE_J4_54.ipt",
+      "expected_sha256": "4e288c64bd4458609a98d4b635fc8d6d9df81b41e8530ae92fa275f7e24bcd40",
+      "actual_sha256": "4e288c64bd4458609a98d4b635fc8d6d9df81b41e8530ae92fa275f7e24bcd40",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x12_PUENTE_J4_67.ipt",
+      "expected_sha256": "3c4df0c4a4ec31fb6f5f24d9b3e73cb4b87ddd043354af27293400648498a614",
+      "actual_sha256": "3c4df0c4a4ec31fb6f5f24d9b3e73cb4b87ddd043354af27293400648498a614",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x14_APRIETE_ACOPLE_J2_-75_V2.ipt",
+      "expected_sha256": "46329e062a48f94445b538e7ebbe5432c3adf6f948a0f58f656eb17123412a7f",
+      "actual_sha256": "46329e062a48f94445b538e7ebbe5432c3adf6f948a0f58f656eb17123412a7f",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x14_APRIETE_ACOPLE_J2_-93_V2.ipt",
+      "expected_sha256": "fe016ca5d8082c25cb39f12cd3f80bfe19d6e037d8acf1328d96add93f5e3893",
+      "actual_sha256": "fe016ca5d8082c25cb39f12cd3f80bfe19d6e037d8acf1328d96add93f5e3893",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x14_APRIETE_ACOPLE_J3_74.5_V2.ipt",
+      "expected_sha256": "9b5fd0893e4d0b6559cf38e41affb088b07b254501418ce4c3361ab45792344d",
+      "actual_sha256": "9b5fd0893e4d0b6559cf38e41affb088b07b254501418ce4c3361ab45792344d",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x14_APRIETE_ACOPLE_J3_90_V2.ipt",
+      "expected_sha256": "dc1fa5ee7d3b49c04c52de6b1aeaba868f5a7df7e87e14d0de9c3f0b500024e5",
+      "actual_sha256": "dc1fa5ee7d3b49c04c52de6b1aeaba868f5a7df7e87e14d0de9c3f0b500024e5",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x18_FUNDA_J4_-18.ipt",
+      "expected_sha256": "c727f4e20729aa9a23a9158f4b9e7087a29bbc36205d21b37776d95e3ec6c87c",
+      "actual_sha256": "c727f4e20729aa9a23a9158f4b9e7087a29bbc36205d21b37776d95e3ec6c87c",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x18_FUNDA_J4_18.ipt",
+      "expected_sha256": "fa4ff264eed3b0c1bc11d0f449e7861ac98b8dd07d25f712d6dca58fde270857",
+      "actual_sha256": "fa4ff264eed3b0c1bc11d0f449e7861ac98b8dd07d25f712d6dca58fde270857",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x20_AJUSTADOR_J4.ipt",
+      "expected_sha256": "7fc5bc69a1ae71ec6d0b9121d27f8064efb7950e9374f452754246b03a192e5f",
+      "actual_sha256": "7fc5bc69a1ae71ec6d0b9121d27f8064efb7950e9374f452754246b03a192e5f",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x6_MOTOR_J4_-8.5.ipt",
+      "expected_sha256": "e7da283000baacfcc8560bdf0fe3e0b6087a0cdd4e09a40ac255398405bd5932",
+      "actual_sha256": "e7da283000baacfcc8560bdf0fe3e0b6087a0cdd4e09a40ac255398405bd5932",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x6_MOTOR_J4_8.5.ipt",
+      "expected_sha256": "0f2412190625708bbd28cd83ca1971525c4820694243618eab295a4e71a5d8d3",
+      "actual_sha256": "0f2412190625708bbd28cd83ca1971525c4820694243618eab295a4e71a5d8d3",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x6_PIE_ENCODER_J1_-20.ipt",
+      "expected_sha256": "e1478d35c687fff5b362a177bb383a2e3ac3a7410b1b1e19207e423274d5d91d",
+      "actual_sha256": "e1478d35c687fff5b362a177bb383a2e3ac3a7410b1b1e19207e423274d5d91d",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x6_PIE_ENCODER_J1_20.ipt",
+      "expected_sha256": "38a7944a6f9bc2daaa5db09a57c696eebecb67dbb136f04aa5df6edbe0bc32b1",
+      "actual_sha256": "38a7944a6f9bc2daaa5db09a57c696eebecb67dbb136f04aa5df6edbe0bc32b1",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x8_BASE_ENCODER_J3_X-16.5.ipt",
+      "expected_sha256": "22b717e6dce9c4e6f196907b7543dfa5ea72154bf12698ae368d582de9683a9c",
+      "actual_sha256": "22b717e6dce9c4e6f196907b7543dfa5ea72154bf12698ae368d582de9683a9c",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x8_BASE_ENCODER_J3_X16.5.ipt",
+      "expected_sha256": "3be40f4011ab1c7f6eca5c57f280102a4d022538fef974414c7d5c5ead483ea0",
+      "actual_sha256": "3be40f4011ab1c7f6eca5c57f280102a4d022538fef974414c7d5c5ead483ea0",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x8_BASE_ENCODER_J3_Z-16.5.ipt",
+      "expected_sha256": "b1dd32795af58d9a226cb8d084d80f9ba38e1825dc9536e7136e613ed655021f",
+      "actual_sha256": "b1dd32795af58d9a226cb8d084d80f9ba38e1825dc9536e7136e613ed655021f",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x8_BASE_ENCODER_J3_Z16.5.ipt",
+      "expected_sha256": "ed2dbac5d560e9d6a31e244a2c353bf08affd0d7173e0f7df01cf7e2b2c7d7e6",
+      "actual_sha256": "ed2dbac5d560e9d6a31e244a2c353bf08affd0d7173e0f7df01cf7e2b2c7d7e6",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x8_BASE_ENCODER_J6_-16.ipt",
+      "expected_sha256": "2f2eb7aca088397442e3be4478befc3aa2b7b6677f542814e76ed33f52b86ddd",
+      "actual_sha256": "2f2eb7aca088397442e3be4478befc3aa2b7b6677f542814e76ed33f52b86ddd",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x8_BASE_ENCODER_J6_16.ipt",
+      "expected_sha256": "ab974355696a1176bd477326633842d04122edc7177f4c36acb1c7153c3bb7b6",
+      "actual_sha256": "ab974355696a1176bd477326633842d04122edc7177f4c36acb1c7153c3bb7b6",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x8_BOTON_TAPA_J4_0.ipt",
+      "expected_sha256": "c0ecf7473f2c6d06ab0991fde0102d57eeb2b1256eed7037b316324827c48433",
+      "actual_sha256": "c0ecf7473f2c6d06ab0991fde0102d57eeb2b1256eed7037b316324827c48433",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x8_BOTON_TAPA_J4_1.ipt",
+      "expected_sha256": "16b7ffaf6a8f78f95ed1073007982dd24f1a4c348454234e3a0aec9fbeeb257c",
+      "actual_sha256": "16b7ffaf6a8f78f95ed1073007982dd24f1a4c348454234e3a0aec9fbeeb257c",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x8_BOTON_TAPA_J4_2.ipt",
+      "expected_sha256": "d04b13b39d2c2666056c9a4c10bd9ba8938ee0cd4f9115747b8f3a085f50454c",
+      "actual_sha256": "d04b13b39d2c2666056c9a4c10bd9ba8938ee0cd4f9115747b8f3a085f50454c",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x8_BOTON_TAPA_J4_3.ipt",
+      "expected_sha256": "45974c6b3c1d8ae3220a359f70fcce3745cff17f8ce0deb8c67757e1c165987a",
+      "actual_sha256": "45974c6b3c1d8ae3220a359f70fcce3745cff17f8ce0deb8c67757e1c165987a",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x8_ENCODER_J2_X-19.ipt",
+      "expected_sha256": "8d331bb72a5ab3dc1b2db8ee7198880500f38f58d37cb77f6b90c030c78c9aac",
+      "actual_sha256": "8d331bb72a5ab3dc1b2db8ee7198880500f38f58d37cb77f6b90c030c78c9aac",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x8_ENCODER_J2_X19.ipt",
+      "expected_sha256": "ac362eba3fe2ecceb2883519ede136e008de4f3ee89d13ac5808f508427a7e52",
+      "actual_sha256": "ac362eba3fe2ecceb2883519ede136e008de4f3ee89d13ac5808f508427a7e52",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x8_ENCODER_J2_Z114.ipt",
+      "expected_sha256": "f70ee10439cf1a2269dc2e539999b3fd9c68e1b0b39fe3f982ebf70ab694eca4",
+      "actual_sha256": "f70ee10439cf1a2269dc2e539999b3fd9c68e1b0b39fe3f982ebf70ab694eca4",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x8_ENCODER_J2_Z76.ipt",
+      "expected_sha256": "9a43e28960232b4661b612e28f4e4b74cf21141b56ae4c9b567db7d725925406",
+      "actual_sha256": "9a43e28960232b4661b612e28f4e4b74cf21141b56ae4c9b567db7d725925406",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x8_PUENTE_ENCODER_J4_-34.ipt",
+      "expected_sha256": "9513f5afd851bb13f0eb3de3c67a72372e3b65f57cea9483336f6e527e943811",
+      "actual_sha256": "9513f5afd851bb13f0eb3de3c67a72372e3b65f57cea9483336f6e527e943811",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M3x8_PUENTE_ENCODER_J4_34.ipt",
+      "expected_sha256": "8069bcc3c839708b18b67296bbad3de83ded50a931d6190c4df3a5bb672b8c23",
+      "actual_sha256": "8069bcc3c839708b18b67296bbad3de83ded50a931d6190c4df3a5bb672b8c23",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M5x16_MEJILLA_-1_-25.ipt",
+      "expected_sha256": "b1e86a23ef950fae74cee5038d3837f2eba016b3c744c88ee4cf9ecf0051a40e",
+      "actual_sha256": "b1e86a23ef950fae74cee5038d3837f2eba016b3c744c88ee4cf9ecf0051a40e",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M5x16_MEJILLA_-1_25.ipt",
+      "expected_sha256": "d5a83554fb89a83bcb1da09fa28808bc520cd4f0e23be7654ead2ada4e4c5c70",
+      "actual_sha256": "d5a83554fb89a83bcb1da09fa28808bc520cd4f0e23be7654ead2ada4e4c5c70",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M5x16_MEJILLA_1_-25.ipt",
+      "expected_sha256": "721c4db2877fe2771f7ad3c79b53473d82c06d6b3b6ac7d9a4706c6e3e3f08f7",
+      "actual_sha256": "721c4db2877fe2771f7ad3c79b53473d82c06d6b3b6ac7d9a4706c6e3e3f08f7",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M5x16_MEJILLA_1_25.ipt",
+      "expected_sha256": "1a5d44f9e0f49d41883bdca95448cc4b179eeadbc4d29438abf355a7d9b10ff7",
+      "actual_sha256": "1a5d44f9e0f49d41883bdca95448cc4b179eeadbc4d29438abf355a7d9b10ff7",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M5x16_PIE_-1_-25.ipt",
+      "expected_sha256": "441b92fe880d7c937e1b5f2f42f41c921fcf56a7f4eb5d66a42403d823d99e9b",
+      "actual_sha256": "441b92fe880d7c937e1b5f2f42f41c921fcf56a7f4eb5d66a42403d823d99e9b",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M5x16_PIE_-1_25.ipt",
+      "expected_sha256": "2bd78926c5d336ad2c44eeb0322d904f5969223a4f04731325835d8b3b2ecbfc",
+      "actual_sha256": "2bd78926c5d336ad2c44eeb0322d904f5969223a4f04731325835d8b3b2ecbfc",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M5x16_PIE_1_-25.ipt",
+      "expected_sha256": "fc0ea1471572afcafdfa09fff5d67cfa14160c3cf17c8de157b29120e68a2471",
+      "actual_sha256": "fc0ea1471572afcafdfa09fff5d67cfa14160c3cf17c8de157b29120e68a2471",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/M5x16_PIE_1_25.ipt",
+      "expected_sha256": "c9329ed19bd88554b21ab2af752ac089de317622e89edc4858f7f3c69c0b5b7f",
+      "actual_sha256": "c9329ed19bd88554b21ab2af752ac089de317622e89edc4858f7f3c69c0b5b7f",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/MOTOR_GOBILDA_5203_71.ipt",
+      "expected_sha256": "368ae3733578cb4db9a171c7d7929fb2a5af8d7503e9fa58f64c157cd1297bcf",
+      "actual_sha256": "368ae3733578cb4db9a171c7d7929fb2a5af8d7503e9fa58f64c157cd1297bcf",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/MOTOR_POLOLU_4845.ipt",
+      "expected_sha256": "5887a6d112cdd1717422c45105a3a033667671c45cc1cba0af3acc3b42ab3961",
+      "actual_sha256": "5887a6d112cdd1717422c45105a3a033667671c45cc1cba0af3acc3b42ab3961",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/MR63ZZ_ENCODER_J1_158.ipt",
+      "expected_sha256": "ac59ec77f61d990fcaf5b12595d4e12b11a72cbedbde9a9aec7c93a2dd792498",
+      "actual_sha256": "ac59ec77f61d990fcaf5b12595d4e12b11a72cbedbde9a9aec7c93a2dd792498",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/MR63ZZ_ENCODER_J1_164.ipt",
+      "expected_sha256": "3bb93ad255f05d72fbbaa8b6bd81a565aed37ece6f5a9708cccaab541112e566",
+      "actual_sha256": "3bb93ad255f05d72fbbaa8b6bd81a565aed37ece6f5a9708cccaab541112e566",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PASADOR_ELASTICO_J6_D2x20_V1.ipt",
+      "expected_sha256": "6230e84fec58318b7d8b496d27c67bc252e09c1d6d66d6f80ce16671e5f394ce",
+      "actual_sha256": "6230e84fec58318b7d8b496d27c67bc252e09c1d6d66d6f80ce16671e5f394ce",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M2x2.5_ENCODER_J6_96_Y.ipt",
+      "expected_sha256": "2611527bf00dbf0745bc05f0470d9f759e5e2a8ef20c19977660cd317d37d223",
+      "actual_sha256": "2611527bf00dbf0745bc05f0470d9f759e5e2a8ef20c19977660cd317d37d223",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M2x2.5_ENCODER_J6_96_Z.ipt",
+      "expected_sha256": "08a57f2145113623b0831880467d1e9699ac5101590af20e7c9ff1715c705ffa",
+      "actual_sha256": "08a57f2145113623b0831880467d1e9699ac5101590af20e7c9ff1715c705ffa",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M2x2_COLLAR_ENCODER_J4.ipt",
+      "expected_sha256": "e0db44b3ee88856f4aab7dc03d27ef4c475a5b7261271e4ed20caef6fb425548",
+      "actual_sha256": "e0db44b3ee88856f4aab7dc03d27ef4c475a5b7261271e4ed20caef6fb425548",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M2x3_ENCODER_J2_X.ipt",
+      "expected_sha256": "42daf552d55917b6827d61fd1a46f8328abe6b3e0b9a6b129e565ae178166242",
+      "actual_sha256": "42daf552d55917b6827d61fd1a46f8328abe6b3e0b9a6b129e565ae178166242",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M2x3_ENCODER_J2_Z.ipt",
+      "expected_sha256": "d708d11798b3ae19d95e1bd26986f9644b9bc8b44a0706005c1f7d1cbd72b29f",
+      "actual_sha256": "d708d11798b3ae19d95e1bd26986f9644b9bc8b44a0706005c1f7d1cbd72b29f",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M2x3_ENCODER_J3_X.ipt",
+      "expected_sha256": "9f0e56f5d09b1d8be3dcce5ccc72599440b4fd3a0cf5880aa42c1771aa368da9",
+      "actual_sha256": "9f0e56f5d09b1d8be3dcce5ccc72599440b4fd3a0cf5880aa42c1771aa368da9",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M2x3_ENCODER_J3_Z.ipt",
+      "expected_sha256": "5549aae51edae3ff9afe15d856820cf0c9c2588618a9c8456dd9802aac3316fd",
+      "actual_sha256": "5549aae51edae3ff9afe15d856820cf0c9c2588618a9c8456dd9802aac3316fd",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M2x3_ENCODER_J4_108.5_Y.ipt",
+      "expected_sha256": "d49fb99024a0849256b6dab9a81f0b30d06237f293fa9dd89de3dbab036db9a4",
+      "actual_sha256": "d49fb99024a0849256b6dab9a81f0b30d06237f293fa9dd89de3dbab036db9a4",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M2x3_ENCODER_J4_108.5_Z.ipt",
+      "expected_sha256": "aba58092c6538e2e4301af227316999858bb46c0301b97ccba1c8ead46ebb524",
+      "actual_sha256": "aba58092c6538e2e4301af227316999858bb46c0301b97ccba1c8ead46ebb524",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M2x3_ENCODER_J4_81.5_Y.ipt",
+      "expected_sha256": "3f5f229eba22366c1c63c116a6181988d2ea88d58555ab1c9ad0db221335cd1f",
+      "actual_sha256": "3f5f229eba22366c1c63c116a6181988d2ea88d58555ab1c9ad0db221335cd1f",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M2x3_ENCODER_J4_81.5_Z.ipt",
+      "expected_sha256": "2892dc7b95091e64627976761acb9ddb0e9d66ae50d612a86e76bce0c51d2f47",
+      "actual_sha256": "2892dc7b95091e64627976761acb9ddb0e9d66ae50d612a86e76bce0c51d2f47",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M2x3_ENCODER_J6_77.5_Y.ipt",
+      "expected_sha256": "e5087aef12daaf9b5da22b69a069e633b6f80e596c07a4d2d2a1e1df60f4e1ba",
+      "actual_sha256": "e5087aef12daaf9b5da22b69a069e633b6f80e596c07a4d2d2a1e1df60f4e1ba",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M2x3_ENCODER_J6_77.5_Z.ipt",
+      "expected_sha256": "b6bcfe4f751bed51437881e3585b0b800b8d73ed87b545a1fb3e8de86b030a78",
+      "actual_sha256": "b6bcfe4f751bed51437881e3585b0b800b8d73ed87b545a1fb3e8de86b030a78",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M2x3_J1_155.5_X.ipt",
+      "expected_sha256": "3903bdb4548fc672f9dfb74af8a5e781adfe5b8dd50aa10c5849a42f38e1bde0",
+      "actual_sha256": "3903bdb4548fc672f9dfb74af8a5e781adfe5b8dd50aa10c5849a42f38e1bde0",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M2x3_J1_155.5_Y.ipt",
+      "expected_sha256": "34342b45c271161bb9abeeaa94e5ebe560fdad2547d5bcc904da1fe5e75b408b",
+      "actual_sha256": "34342b45c271161bb9abeeaa94e5ebe560fdad2547d5bcc904da1fe5e75b408b",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M2x3_J1_169_X.ipt",
+      "expected_sha256": "e48b32a2ab80637ab2ce1a9f89d39182a3049615a9afd598960a2c3c20965105",
+      "actual_sha256": "e48b32a2ab80637ab2ce1a9f89d39182a3049615a9afd598960a2c3c20965105",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M2x3_J1_169_Y.ipt",
+      "expected_sha256": "0a88034d5f61b121e1801ea0af129129763e1284245405170d6b02225b081715",
+      "actual_sha256": "0a88034d5f61b121e1801ea0af129129763e1284245405170d6b02225b081715",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M2x4_ENCODER_J5_X.ipt",
+      "expected_sha256": "30319b1530624b72f3cf658ea2750d94bf009bf6718e159c49b84d0859953a29",
+      "actual_sha256": "30319b1530624b72f3cf658ea2750d94bf009bf6718e159c49b84d0859953a29",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M2x4_ENCODER_J5_Z.ipt",
+      "expected_sha256": "6e1576e50ef3d81625b73febe2f212e5dc04a1a8ac6968ecba8c45dfcb40b281",
+      "actual_sha256": "6e1576e50ef3d81625b73febe2f212e5dc04a1a8ac6968ecba8c45dfcb40b281",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M2_MOTOR_J5_20260917.ipt",
+      "expected_sha256": "5dbad52f9c3dc44cd5dd29b7947c99ad9b3c6c0e84d481badd4685fc5b6e804d",
+      "actual_sha256": "5dbad52f9c3dc44cd5dd29b7947c99ad9b3c6c0e84d481badd4685fc5b6e804d",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M3x4_CORONA_J1_X.ipt",
+      "expected_sha256": "90f8cdee470c1aaff5d0c6a3e6967b40e7fea334a79945e8ee9a4870d75fbb95",
+      "actual_sha256": "90f8cdee470c1aaff5d0c6a3e6967b40e7fea334a79945e8ee9a4870d75fbb95",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M3x4_CORONA_J1_Y.ipt",
+      "expected_sha256": "6ecb51b595fd7ebffff17f35cd2075a3d5f0dc6674d8a3c66daa9ee688c72851",
+      "actual_sha256": "6ecb51b595fd7ebffff17f35cd2075a3d5f0dc6674d8a3c66daa9ee688c72851",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M3_COLLAR_J1_20260917.ipt",
+      "expected_sha256": "d3b36d32b66fe1ad332c340b24cb9893417e016f30ee5d34df49c57cdf36b61b",
+      "actual_sha256": "d3b36d32b66fe1ad332c340b24cb9893417e016f30ee5d34df49c57cdf36b61b",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M3_ENTRADA_J6_20260917.ipt",
+      "expected_sha256": "755c56ffff2528c4dda1851b5f455d37423d8caf42a9ac427f313fc35fdc2e92",
+      "actual_sha256": "755c56ffff2528c4dda1851b5f455d37423d8caf42a9ac427f313fc35fdc2e92",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M3_MOTOR_J1_20260917.ipt",
+      "expected_sha256": "9e8b5d239a0957105bb09e9e6c1b5a978dc563049b343bad67fa31c32066a2a2",
+      "actual_sha256": "9e8b5d239a0957105bb09e9e6c1b5a978dc563049b343bad67fa31c32066a2a2",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M3_POLEA_J1_20260917.ipt",
+      "expected_sha256": "05ff448049fecb68e1513194ba29394874ed2786c627628a62a50878f3b24470",
+      "actual_sha256": "05ff448049fecb68e1513194ba29394874ed2786c627628a62a50878f3b24470",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M3_POLEA_J2_20260917.ipt",
+      "expected_sha256": "201b41a68766f2f725b2cb9f6eaf36576e3200d034b5ad5810f0107286e2d974",
+      "actual_sha256": "201b41a68766f2f725b2cb9f6eaf36576e3200d034b5ad5810f0107286e2d974",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M3_POLEA_J3_20260917.ipt",
+      "expected_sha256": "432cb7da6fb862976581975a280247faf9ea9362f88062ce1e65c784f72068d2",
+      "actual_sha256": "432cb7da6fb862976581975a280247faf9ea9362f88062ce1e65c784f72068d2",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/PRISIONERO_M3_POLEA_J5_20260917.ipt",
+      "expected_sha256": "ecea56f000f5d1eb53e4270cda0a05f9da228a69a3fca7373e931eca5210c849",
+      "actual_sha256": "ecea56f000f5d1eb53e4270cda0a05f9da228a69a3fca7373e931eca5210c849",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/RODAMIENTO_ENCODER_J4_MR63ZZ_84.ipt",
+      "expected_sha256": "fbd48bdc11f7ee9cb65a8855f1af4eb288dc0d848b054b1c81a049d9782c0d72",
+      "actual_sha256": "fbd48bdc11f7ee9cb65a8855f1af4eb288dc0d848b054b1c81a049d9782c0d72",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/RODAMIENTO_ENCODER_J4_MR63ZZ_90.ipt",
+      "expected_sha256": "dad8dbfbf9067ae82a9a9b253a86126540507bae3bb91dc29d92cafab864b901",
+      "actual_sha256": "dad8dbfbf9067ae82a9a9b253a86126540507bae3bb91dc29d92cafab864b901",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/RODAMIENTO_ENCODER_J6_MR63ZZ_80.ipt",
+      "expected_sha256": "309bd735e80e084cce222388142a0c74d937b3553d46c329c3ead66674355f5d",
+      "actual_sha256": "309bd735e80e084cce222388142a0c74d937b3553d46c329c3ead66674355f5d",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/RODAMIENTO_ENCODER_J6_MR63ZZ_86.ipt",
+      "expected_sha256": "acaa49e3c264aa4df75e9ef45393b63bafaec5d66661db463fbaafffd861caf5",
+      "actual_sha256": "acaa49e3c264aa4df75e9ef45393b63bafaec5d66661db463fbaafffd861caf5",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ROD_6000_J5_-39.ipt",
+      "expected_sha256": "fbcf6d870798250cf94543a0c2d83dc1b219e37bf7a1147909972d6274b7ddf1",
+      "actual_sha256": "fbcf6d870798250cf94543a0c2d83dc1b219e37bf7a1147909972d6274b7ddf1",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ROD_6000_J5_34.ipt",
+      "expected_sha256": "ee841b5b7721cafe144da9a02df141f8b2d9c430aa50848a7f5ea0451c4af12b",
+      "actual_sha256": "ee841b5b7721cafe144da9a02df141f8b2d9c430aa50848a7f5ea0451c4af12b",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ROD_6000_J6.ipt",
+      "expected_sha256": "9882f47ae6b80b118f7e3912e16751f5388733ed58030f20e08d4f75ef4ae48e",
+      "actual_sha256": "9882f47ae6b80b118f7e3912e16751f5388733ed58030f20e08d4f75ef4ae48e",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ROD_6001_J2_-44.ipt",
+      "expected_sha256": "4b4bd2e49715c279ff47fb979e4654116040bdb8d16e15c4082597ce2422d243",
+      "actual_sha256": "4b4bd2e49715c279ff47fb979e4654116040bdb8d16e15c4082597ce2422d243",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ROD_6001_J2_36.ipt",
+      "expected_sha256": "7fcd201ca5b7e9012af960b7d14006fb3efd5ad22a0e62ec160dba4d568eb260",
+      "actual_sha256": "7fcd201ca5b7e9012af960b7d14006fb3efd5ad22a0e62ec160dba4d568eb260",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ROD_6001_J3_-32.ipt",
+      "expected_sha256": "43a14d1c06b9a2e3ab70d16ddca53528b338c9464c1d210ef5413a8a80e17fb9",
+      "actual_sha256": "43a14d1c06b9a2e3ab70d16ddca53528b338c9464c1d210ef5413a8a80e17fb9",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ROD_6001_J3_24.ipt",
+      "expected_sha256": "bab38b587744fe25b285797950a78856a69d308903022c0b2c7ee7646b053464",
+      "actual_sha256": "bab38b587744fe25b285797950a78856a69d308903022c0b2c7ee7646b053464",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ROD_61804_J1_132.ipt",
+      "expected_sha256": "3601d327cc9797ef9239d8a9266b7a19b2cc72f4f6eefd1ebdc487ac5d268bf9",
+      "actual_sha256": "3601d327cc9797ef9239d8a9266b7a19b2cc72f4f6eefd1ebdc487ac5d268bf9",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ROD_61804_J1_160.ipt",
+      "expected_sha256": "26cb8b45b0cc441d05c8fa373a4017d7aecf6ccb00c1b5de352a33d65a859d64",
+      "actual_sha256": "26cb8b45b0cc441d05c8fa373a4017d7aecf6ccb00c1b5de352a33d65a859d64",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ROD_61804_J4_104.ipt",
+      "expected_sha256": "6133b5f95f822f544a4bc88f3cfcb3c7a094295ef471c6a496a03fa757ad4c45",
+      "actual_sha256": "6133b5f95f822f544a4bc88f3cfcb3c7a094295ef471c6a496a03fa757ad4c45",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ROD_61804_J4_133.ipt",
+      "expected_sha256": "018702614ae9f0702578eb6be5cdcddf8a224830e7b14d92b48cc9060723e418",
+      "actual_sha256": "018702614ae9f0702578eb6be5cdcddf8a224830e7b14d92b48cc9060723e418",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ROD_61804_J6_POSTERIOR.ipt",
+      "expected_sha256": "b114b38c545f6bc3939a28b3ff3590db66e97e43afc4b56c525345910b7e68c6",
+      "actual_sha256": "b114b38c545f6bc3939a28b3ff3590db66e97e43afc4b56c525345910b7e68c6",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ROD_ENTRADA_J2_-40.ipt",
+      "expected_sha256": "cd69357020437d117e235628d88b4a672c6d1e1a079d00bfe833cfa57cbd413b",
+      "actual_sha256": "cd69357020437d117e235628d88b4a672c6d1e1a079d00bfe833cfa57cbd413b",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ROD_ENTRADA_J2_-70.ipt",
+      "expected_sha256": "71a87d1dba91c3c14c9b91decf4b9184e79a287e9c7af51c2c808fbd7825604b",
+      "actual_sha256": "71a87d1dba91c3c14c9b91decf4b9184e79a287e9c7af51c2c808fbd7825604b",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ROD_ENTRADA_J3_32.ipt",
+      "expected_sha256": "76ba7fe1bf19d4b141d1c27f410dbc1770249e5478515dcecce65543441585cb",
+      "actual_sha256": "76ba7fe1bf19d4b141d1c27f410dbc1770249e5478515dcecce65543441585cb",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/ROD_ENTRADA_J3_62.ipt",
+      "expected_sha256": "5eccc525d37b60df69cf8e862b1c7571397d0f3f7a9d6f0da254af2b50c41d03",
+      "actual_sha256": "5eccc525d37b60df69cf8e862b1c7571397d0f3f7a9d6f0da254af2b50c41d03",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TOPE_J1_M3_0_V2.ipt",
+      "expected_sha256": "196801a7772c0611205a6db9f71913f9f8b3ad81c4e8f4466a56917cfa632440",
+      "actual_sha256": "196801a7772c0611205a6db9f71913f9f8b3ad81c4e8f4466a56917cfa632440",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TOPE_J1_M3_1_V2.ipt",
+      "expected_sha256": "ae821fdf55e5d0f79f0a6fc9a3434979bd102822a6665d40e5ae11490f27f9a4",
+      "actual_sha256": "ae821fdf55e5d0f79f0a6fc9a3434979bd102822a6665d40e5ae11490f27f9a4",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TOPE_J3_M3_0_V2.ipt",
+      "expected_sha256": "23f7b194c87b541b2e2611e3fb39dbffe112d683cec41c7625849f109bab0b94",
+      "actual_sha256": "23f7b194c87b541b2e2611e3fb39dbffe112d683cec41c7625849f109bab0b94",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TOPE_J3_M3_1_V2.ipt",
+      "expected_sha256": "a52b4e008213c3b8f4aacc30dbb261bec95d09bc5b6c78b3f82e1cc771e71093",
+      "actual_sha256": "a52b4e008213c3b8f4aacc30dbb261bec95d09bc5b6c78b3f82e1cc771e71093",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TOPE_J4_M3_0_V2.ipt",
+      "expected_sha256": "a9a3f816465e258c82b552b3c86eecd83acf47d7f31fa94385315ba584d968ba",
+      "actual_sha256": "a9a3f816465e258c82b552b3c86eecd83acf47d7f31fa94385315ba584d968ba",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TOPE_J4_M3_1_V2.ipt",
+      "expected_sha256": "27cae7aa9cd7599c432a28df2abd019dce8a9fbec6a2bdc2db135b781f6f976e",
+      "actual_sha256": "27cae7aa9cd7599c432a28df2abd019dce8a9fbec6a2bdc2db135b781f6f976e",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TOPE_J5_M3_0_V2.ipt",
+      "expected_sha256": "8e89f20b96945bf6fc36939ea2c485773c413bf94188460abb67c5f616d290b1",
+      "actual_sha256": "8e89f20b96945bf6fc36939ea2c485773c413bf94188460abb67c5f616d290b1",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TOPE_J5_M3_1_V2.ipt",
+      "expected_sha256": "1eb8cdd830316377fcec4cc913d1852cd7e8a0a053a38ace88a9a7febe4c4d05",
+      "actual_sha256": "1eb8cdd830316377fcec4cc913d1852cd7e8a0a053a38ace88a9a7febe4c4d05",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TOPE_J6_M3_0_V2.ipt",
+      "expected_sha256": "62853f4feb9615da5a37cdcfee1f7924953d2cc76c982154f116f739145cf469",
+      "actual_sha256": "62853f4feb9615da5a37cdcfee1f7924953d2cc76c982154f116f739145cf469",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TOPE_J6_M3_1_V2.ipt",
+      "expected_sha256": "7dce296d2d0e440292992bf5279451686c78eaac9e6038c8e74841f84c3a5f26",
+      "actual_sha256": "7dce296d2d0e440292992bf5279451686c78eaac9e6038c8e74841f84c3a5f26",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TORNILLO_BRIDA_J6_M2_5x6_0.ipt",
+      "expected_sha256": "a161968e9f98c025d437149fa1f69b4699468f65cddc9573275a7a76f4fd1089",
+      "actual_sha256": "a161968e9f98c025d437149fa1f69b4699468f65cddc9573275a7a76f4fd1089",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TORNILLO_BRIDA_J6_M2_5x6_1.ipt",
+      "expected_sha256": "99f432fd05553e0094f7393df10abe9cdaaf7186599d7ecf091b72b68ccc13b4",
+      "actual_sha256": "99f432fd05553e0094f7393df10abe9cdaaf7186599d7ecf091b72b68ccc13b4",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TORNILLO_BRIDA_J6_M2_5x6_2.ipt",
+      "expected_sha256": "343728b17792c973e0c9870fd5ad1fba27b0d46c99085fcb32de0b46d0115a94",
+      "actual_sha256": "343728b17792c973e0c9870fd5ad1fba27b0d46c99085fcb32de0b46d0115a94",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_BLOQUEO_J4_-30_HEX_V1.ipt",
+      "expected_sha256": "23d64a2cd232b786018d675585c25a099deadfe686927265bd4e5c9fabf41753",
+      "actual_sha256": "23d64a2cd232b786018d675585c25a099deadfe686927265bd4e5c9fabf41753",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_BLOQUEO_J4_30_HEX_V1.ipt",
+      "expected_sha256": "f79bd45f8f821a0a942a6a416ae298703e1673aa623deea6d1b59d3b98f3de45",
+      "actual_sha256": "f79bd45f8f821a0a942a6a416ae298703e1673aa623deea6d1b59d3b98f3de45",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_FUNDA_J4_-18_HEX_V1.ipt",
+      "expected_sha256": "5340ac9b18865c5021a80bf724e8d679110d538021f8e35244ed064ebda5e1e9",
+      "actual_sha256": "5340ac9b18865c5021a80bf724e8d679110d538021f8e35244ed064ebda5e1e9",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_FUNDA_J4_18_HEX_V1.ipt",
+      "expected_sha256": "87344a5d5a5fa56e12fabd4e9c68907bdb750f4ce375a103accdef4eed0e7490",
+      "actual_sha256": "87344a5d5a5fa56e12fabd4e9c68907bdb750f4ce375a103accdef4eed0e7490",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M2_CARCASA_ENCODER_J2_119.ipt",
+      "expected_sha256": "356d90fa1afe9f04a294b7a1abbde16b9d1d0716b145c7690fcfaaf333f15691",
+      "actual_sha256": "356d90fa1afe9f04a294b7a1abbde16b9d1d0716b145c7690fcfaaf333f15691",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M2_CARCASA_ENCODER_J2_83.ipt",
+      "expected_sha256": "4445ead228bc8257cf368d88060c5a9a42b08c8bc0dbf219a752e1886fa5ed36",
+      "actual_sha256": "4445ead228bc8257cf368d88060c5a9a42b08c8bc0dbf219a752e1886fa5ed36",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M2_CARCASA_ENCODER_J6_-14.ipt",
+      "expected_sha256": "d29833fb1051105297158fdcd7e9111719a6e003642c6acfa5d408a3b62b8cac",
+      "actual_sha256": "d29833fb1051105297158fdcd7e9111719a6e003642c6acfa5d408a3b62b8cac",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M2_CARCASA_ENCODER_J6_14.ipt",
+      "expected_sha256": "241755ea676ce0a676ddb5de54efd2f48835230521e857eb3d6306cece718676",
+      "actual_sha256": "241755ea676ce0a676ddb5de54efd2f48835230521e857eb3d6306cece718676",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M2_CARCASA_J3_-12.ipt",
+      "expected_sha256": "65aba18e5e8134e3caa1c5e3a5dac60601e9029bd3fa15d9d3fafbfe55fad324",
+      "actual_sha256": "65aba18e5e8134e3caa1c5e3a5dac60601e9029bd3fa15d9d3fafbfe55fad324",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M2_CARCASA_J3_24.ipt",
+      "expected_sha256": "0efcfc6e163e2900cd46c9fa392cc1c39c9d4005392ead9e350e97e9e4def80f",
+      "actual_sha256": "0efcfc6e163e2900cd46c9fa392cc1c39c9d4005392ead9e350e97e9e4def80f",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M2_CARCASA_J5_-12.ipt",
+      "expected_sha256": "efbea4bb0a0ce74e0482ed0f6a22f2ed3549347e7e6b95f63431f275fce2595f",
+      "actual_sha256": "efbea4bb0a0ce74e0482ed0f6a22f2ed3549347e7e6b95f63431f275fce2595f",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M2_CARCASA_J5_24.ipt",
+      "expected_sha256": "4125576c4d21929dce82d586c18c6feb0e4bfafdb77e65b30e964699a925d174",
+      "actual_sha256": "4125576c4d21929dce82d586c18c6feb0e4bfafdb77e65b30e964699a925d174",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M2_EXTENSION_ENCODER_J4_-28.ipt",
+      "expected_sha256": "2ae2370b6a0cb1a432b3b4e52613447740d1f2b6c385b38601758a08f23d219d",
+      "actual_sha256": "2ae2370b6a0cb1a432b3b4e52613447740d1f2b6c385b38601758a08f23d219d",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M2_EXTENSION_ENCODER_J4_28.ipt",
+      "expected_sha256": "0217bee1e60fadfd501dfac033b1b96204eb67fc92665089d7aba2b734d6f6aa",
+      "actual_sha256": "0217bee1e60fadfd501dfac033b1b96204eb67fc92665089d7aba2b734d6f6aa",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M2_PCB_J2_-9_100.5.ipt",
+      "expected_sha256": "e1fbf8465f5204de1541cc557ecca1db55f13d05edd19476af06e34e6ccece03",
+      "actual_sha256": "e1fbf8465f5204de1541cc557ecca1db55f13d05edd19476af06e34e6ccece03",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M2_PCB_J2_-9_89.5.ipt",
+      "expected_sha256": "bf42825e58225bd9a9295fb86ced29128948ac8494e3793c411b215a4f154a37",
+      "actual_sha256": "bf42825e58225bd9a9295fb86ced29128948ac8494e3793c411b215a4f154a37",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M2_PCB_J2_9_100.5.ipt",
+      "expected_sha256": "d4fd892b9f8983f45172bb83ec6a2bd9d2dd9ec090f9338b45c8ce85ce4d7a5e",
+      "actual_sha256": "d4fd892b9f8983f45172bb83ec6a2bd9d2dd9ec090f9338b45c8ce85ce4d7a5e",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M2_PCB_J2_9_89.5.ipt",
+      "expected_sha256": "a7c043a5b3f8a62322aed06cd01ab53f46b4de7827d78cf49adf991ce274ac10",
+      "actual_sha256": "a7c043a5b3f8a62322aed06cd01ab53f46b4de7827d78cf49adf991ce274ac10",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M2_PCB_J3_-9_-5.5.ipt",
+      "expected_sha256": "50846659f288dfde9a47391e2c134dc7c0327d093494845c29bb6e3acb1f7114",
+      "actual_sha256": "50846659f288dfde9a47391e2c134dc7c0327d093494845c29bb6e3acb1f7114",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M2_PCB_J3_-9_5.5.ipt",
+      "expected_sha256": "6a629abb107782a17c304cbf921428be05baf3e4431a66690cded2b7108487e5",
+      "actual_sha256": "6a629abb107782a17c304cbf921428be05baf3e4431a66690cded2b7108487e5",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M2_PCB_J3_9_-5.5.ipt",
+      "expected_sha256": "ebc60916d03c58f4e6d621416b354ec1464524b624fea4f1bffbc68215ed7168",
+      "actual_sha256": "ebc60916d03c58f4e6d621416b354ec1464524b624fea4f1bffbc68215ed7168",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M2_PCB_J3_9_5.5.ipt",
+      "expected_sha256": "3bfedffed064efd589bc8bf6dfcb51378c0dc9e5c05ecbc4f69f77754d8681d5",
+      "actual_sha256": "3bfedffed064efd589bc8bf6dfcb51378c0dc9e5c05ecbc4f69f77754d8681d5",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M2_PCB_J5_-9_-5.5.ipt",
+      "expected_sha256": "42f3068961ef8536f3a3a59fc852bc448430a749ca63e03845b42cec96297687",
+      "actual_sha256": "42f3068961ef8536f3a3a59fc852bc448430a749ca63e03845b42cec96297687",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M2_PCB_J5_-9_5.5.ipt",
+      "expected_sha256": "7165377dc8ebab86587377df0a6fb5656f117b049e5c2504a419cca0bacf142c",
+      "actual_sha256": "7165377dc8ebab86587377df0a6fb5656f117b049e5c2504a419cca0bacf142c",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M2_PCB_J5_9_-5.5.ipt",
+      "expected_sha256": "1f381eb85376da6279546dbe3dbefaaf031b13732b4f3f9b9d53468f1aaa0710",
+      "actual_sha256": "1f381eb85376da6279546dbe3dbefaaf031b13732b4f3f9b9d53468f1aaa0710",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M2_PCB_J5_9_5.5.ipt",
+      "expected_sha256": "af23293ca1c548eb5790040a10f700502eacd72694f8c295b46cdd0df6403da6",
+      "actual_sha256": "af23293ca1c548eb5790040a10f700502eacd72694f8c295b46cdd0df6403da6",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M5_PIE_-1_-25.ipt",
+      "expected_sha256": "dac66d4322a27481e400af1c06e733f9c8ebdf2adc64e4fb255da9a03ccc28b2",
+      "actual_sha256": "dac66d4322a27481e400af1c06e733f9c8ebdf2adc64e4fb255da9a03ccc28b2",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M5_PIE_-1_25.ipt",
+      "expected_sha256": "40fa97be1515f063a4ce6a2afa4474da4242e7d0d70187f9af5a089d81261f76",
+      "actual_sha256": "40fa97be1515f063a4ce6a2afa4474da4242e7d0d70187f9af5a089d81261f76",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M5_PIE_1_-25.ipt",
+      "expected_sha256": "50bb22534f1c7b901ea7865d8f544d4416dc02209e3e7b390d50b541d3fa0614",
+      "actual_sha256": "50bb22534f1c7b901ea7865d8f544d4416dc02209e3e7b390d50b541d3fa0614",
+      "matches": true
+    },
+    {
+      "path": "02_Componentes_Comerciales/TUERCA_M5_PIE_1_25.ipt",
+      "expected_sha256": "7ec40b1bae027cbf40a9cf402b34b9cefa434657bb2e6ccb8334ab437a03b1f3",
+      "actual_sha256": "7ec40b1bae027cbf40a9cf402b34b9cefa434657bb2e6ccb8334ab437a03b1f3",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ABRAZADERA_GUIA_J4_-1_V1.ipt",
+      "expected_sha256": "43f18d6256d7c55e8ee92c73e365970f21c4524625447382f1f9582ab19a04a2",
+      "actual_sha256": "43f18d6256d7c55e8ee92c73e365970f21c4524625447382f1f9582ab19a04a2",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ABRAZADERA_GUIA_J4_1_V1.ipt",
+      "expected_sha256": "2ea916a3abefc8337b25659c1d8481e29732c22d4d7794508f2149ad65f9b9d0",
+      "actual_sha256": "2ea916a3abefc8337b25659c1d8481e29732c22d4d7794508f2149ad65f9b9d0",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ACOPLE_J2_REX8_D12_CLAMP_V2.ipt",
+      "expected_sha256": "eea45768741510a37beebdd3be22bf0a3df993d3d1ca273912cd6ab9ef5bf683",
+      "actual_sha256": "eea45768741510a37beebdd3be22bf0a3df993d3d1ca273912cd6ab9ef5bf683",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ACOPLE_J3_REX8_D12_CLAMP_V2.ipt",
+      "expected_sha256": "3dee6120e59b774d343df843776e6faa2d5bdfe02776e50419c4919090175fd1",
+      "actual_sha256": "3dee6120e59b774d343df843776e6faa2d5bdfe02776e50419c4919090175fd1",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ACOPLE_J6_4_10_V04.ipt",
+      "expected_sha256": "c09a992f957233872e6ac8bf421a6cc8bff11af2e3c8a811366f72ad034b766c",
+      "actual_sha256": "c09a992f957233872e6ac8bf421a6cc8bff11af2e3c8a811366f72ad034b766c",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ANTEBRAZO_V05_-22.ipt",
+      "expected_sha256": "ba3aac4f1749f3623913205cad274381ca83e117ffc5a145a5b110ea24403c97",
+      "actual_sha256": "ba3aac4f1749f3623913205cad274381ca83e117ffc5a145a5b110ea24403c97",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ANTEBRAZO_V05_18.ipt",
+      "expected_sha256": "b64bd005b52c40fc257f8346b425d452eedfb12b048febe49f2c8c7e78079c28",
+      "actual_sha256": "b64bd005b52c40fc257f8346b425d452eedfb12b048febe49f2c8c7e78079c28",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/APOYO_ENTRADA_J2_-40.ipt",
+      "expected_sha256": "ee7fe16da3801e695a47e35bd4c5711f4df325faeb7521e8ea2ecffa570b0687",
+      "actual_sha256": "ee7fe16da3801e695a47e35bd4c5711f4df325faeb7521e8ea2ecffa570b0687",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/APOYO_ENTRADA_J2_-70.ipt",
+      "expected_sha256": "1dbc0d06283b3edf6541492ed4475eb060c54193ae567db0586042c65bd89610",
+      "actual_sha256": "1dbc0d06283b3edf6541492ed4475eb060c54193ae567db0586042c65bd89610",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/APOYO_ENTRADA_J3_V06_32.ipt",
+      "expected_sha256": "21e7fd6bc52427598a33f98cad016f60624a17f4922a89e127aa4027e8e7ed43",
+      "actual_sha256": "21e7fd6bc52427598a33f98cad016f60624a17f4922a89e127aa4027e8e7ed43",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/APOYO_ENTRADA_J3_V06_62.ipt",
+      "expected_sha256": "db71fdbfe724c1b5c1db2efe46b497a4e5d572e030f9876ee8d9237f5ec1c8e6",
+      "actual_sha256": "db71fdbfe724c1b5c1db2efe46b497a4e5d572e030f9876ee8d9237f5ec1c8e6",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ARANDELA_J4_D23_D20_L1_V1.ipt",
+      "expected_sha256": "68c69f7e1c16fa60b633ee989c9ae15ca90e2b20189da83e94ea3e66a80bfc19",
+      "actual_sha256": "68c69f7e1c16fa60b633ee989c9ae15ca90e2b20189da83e94ea3e66a80bfc19",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ARANDELA_RETENCION_J2_NEG_MONTADA_20260917.ipt",
+      "expected_sha256": "8a8e6b18a50b1790eed75e87ae3c2763b8638fb03b9032f1cb6f471977c43177",
+      "actual_sha256": "8a8e6b18a50b1790eed75e87ae3c2763b8638fb03b9032f1cb6f471977c43177",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ARANDELA_RETENCION_J2_POS_MONTADA_20260917.ipt",
+      "expected_sha256": "f4ab0beeb60af0370d96386db93f99002e5c2e8bfddbca63f06f4a6cfe86603a",
+      "actual_sha256": "f4ab0beeb60af0370d96386db93f99002e5c2e8bfddbca63f06f4a6cfe86603a",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/BASE_001.ipt",
+      "expected_sha256": "cae0117349d31829eae115c3ea2385bc56584070cb0a75574efba45565b485b3",
+      "actual_sha256": "cae0117349d31829eae115c3ea2385bc56584070cb0a75574efba45565b485b3",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/BRAZO_SUPERIOR_V02_-32.ipt",
+      "expected_sha256": "cbe2ef1616f25fe10b8439fb674b9a348ea1d31f0385a11fa0018082d9741a22",
+      "actual_sha256": "cbe2ef1616f25fe10b8439fb674b9a348ea1d31f0385a11fa0018082d9741a22",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/BRAZO_SUPERIOR_V02_28.ipt",
+      "expected_sha256": "6573605ba8d61bb9a7cdad6dd764180f98dc42c11c7183c0a973ef07bf13f8c6",
+      "actual_sha256": "6573605ba8d61bb9a7cdad6dd764180f98dc42c11c7183c0a973ef07bf13f8c6",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/BRIDA_EFECTOR_ATORNILLADA_V1.ipt",
+      "expected_sha256": "3d844b173f798fe063bf78b4c341583c89dce16cdb2bb69adf3cedc068ad1933",
+      "actual_sha256": "3d844b173f798fe063bf78b4c341583c89dce16cdb2bb69adf3cedc068ad1933",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CABLE_GUIDE_MUNECA_V1.ipt",
+      "expected_sha256": "55fa451762940f0fa1fcd1fc8c8ff6f0483f4cb67bac5f031490d068a5baf903",
+      "actual_sha256": "55fa451762940f0fa1fcd1fc8c8ff6f0483f4cb67bac5f031490d068a5baf903",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CARCASA_ANTEBRAZO_V06.ipt",
+      "expected_sha256": "5e7c40ffbf6e22b010840cfdebc487c1578877eb27bddcb0dd069550b221bdcd",
+      "actual_sha256": "5e7c40ffbf6e22b010840cfdebc487c1578877eb27bddcb0dd069550b221bdcd",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CARCASA_BASE_TAPA_V06.ipt",
+      "expected_sha256": "0ce200a37abbc5de8b5f9f310a8a041c9157212b9b7492387363a3d3e1b4a6fa",
+      "actual_sha256": "0ce200a37abbc5de8b5f9f310a8a041c9157212b9b7492387363a3d3e1b4a6fa",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CARCASA_BASE_V06.ipt",
+      "expected_sha256": "02c57096daf40d53609a66107e0258c7fad8e5c6890c62fa4f7cd28a21dbf6fb",
+      "actual_sha256": "02c57096daf40d53609a66107e0258c7fad8e5c6890c62fa4f7cd28a21dbf6fb",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CARCASA_BRAZO_V06.ipt",
+      "expected_sha256": "70ddf73139172b932ad2699f75f264e602ebd5f55189f2b8a274c82fa601b764",
+      "actual_sha256": "70ddf73139172b932ad2699f75f264e602ebd5f55189f2b8a274c82fa601b764",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CARCASA_ENCODER_J1_AS5048A_V1.ipt",
+      "expected_sha256": "e66249d7fee90071c69df713dc980eba754358e85254d591ada2e61ffeb1c1d7",
+      "actual_sha256": "e66249d7fee90071c69df713dc980eba754358e85254d591ada2e61ffeb1c1d7",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CARCASA_ENCODER_J2_AS5048A_V1.ipt",
+      "expected_sha256": "a54817bb2abd94b90cd7f1a5e3585d78a6e9d6f4b18974868b482656aaeeb937",
+      "actual_sha256": "a54817bb2abd94b90cd7f1a5e3585d78a6e9d6f4b18974868b482656aaeeb937",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CARCASA_ENCODER_J3_AS5048A_V1.ipt",
+      "expected_sha256": "3005eb1ae0b4d617ad635576b54e5d66d336d1bf81c771805a105ecb770d107e",
+      "actual_sha256": "3005eb1ae0b4d617ad635576b54e5d66d336d1bf81c771805a105ecb770d107e",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CARCASA_ENCODER_J5_AS5048A_V1.ipt",
+      "expected_sha256": "dd925c222809a5f5bb43cb4e2de497c29f6d84dd4a83cfe1989f7967ea0bdaa1",
+      "actual_sha256": "dd925c222809a5f5bb43cb4e2de497c29f6d84dd4a83cfe1989f7967ea0bdaa1",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CARCASA_ENCODER_J6_AS5048A_V1.ipt",
+      "expected_sha256": "97bd64e811cee0b2f73fa290f81f1db244dcd0bd3490ca57434db3cdae7d1c3d",
+      "actual_sha256": "97bd64e811cee0b2f73fa290f81f1db244dcd0bd3490ca57434db3cdae7d1c3d",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CARCASA_ENGRANAJE_ENCODER_J1_V1.ipt",
+      "expected_sha256": "0da78ea5bca79cef1d510bc4f9bad6b5314084064031c78bd5bf0931dee345de",
+      "actual_sha256": "0da78ea5bca79cef1d510bc4f9bad6b5314084064031c78bd5bf0931dee345de",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CARCASA_J1_CORREA_V06.ipt",
+      "expected_sha256": "421f4bf8216ec3e514516ecd28237cfdce0d6fd7e856f6366551ce9ff26b2902",
+      "actual_sha256": "421f4bf8216ec3e514516ecd28237cfdce0d6fd7e856f6366551ce9ff26b2902",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CARCASA_J2_CORREA_V06.ipt",
+      "expected_sha256": "1051ae81fa81c3ed567081fa1337a8b2c2edb28c6afa91ac694b4a8664874fdc",
+      "actual_sha256": "1051ae81fa81c3ed567081fa1337a8b2c2edb28c6afa91ac694b4a8664874fdc",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CARCASA_J3_CORREA_V06.ipt",
+      "expected_sha256": "912b308d428bdf55f5d1e3b5dab47d5d62872b3d90bf4a78eea060a3b89eb330",
+      "actual_sha256": "912b308d428bdf55f5d1e3b5dab47d5d62872b3d90bf4a78eea060a3b89eb330",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CARCASA_J4_CORREA_V06.ipt",
+      "expected_sha256": "30b50075e8537442931bb6ac0a9c8bfb129e1899ef05c24c91f60e6d2522fd98",
+      "actual_sha256": "30b50075e8537442931bb6ac0a9c8bfb129e1899ef05c24c91f60e6d2522fd98",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CARCASA_J5_CORREA_V06.ipt",
+      "expected_sha256": "b8642e271791167006d47b3cedad94bf4479c7905ef30dde6679bbe94e6367c5",
+      "actual_sha256": "b8642e271791167006d47b3cedad94bf4479c7905ef30dde6679bbe94e6367c5",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CARCASA_MOTOR_J2_V06.ipt",
+      "expected_sha256": "4a8d12bff1a6904b7e7b30f482996bc1c5a7303923a8b9db41f81d5ac21908eb",
+      "actual_sha256": "4a8d12bff1a6904b7e7b30f482996bc1c5a7303923a8b9db41f81d5ac21908eb",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CARCASA_MOTOR_J3_V06.ipt",
+      "expected_sha256": "38cf6a3f16657e1a3d54f2a796822f65017f2780ab520a57728a337c61ff1367",
+      "actual_sha256": "38cf6a3f16657e1a3d54f2a796822f65017f2780ab520a57728a337c61ff1367",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CARCASA_MOTOR_J4_V06.ipt",
+      "expected_sha256": "e4321f2e93ebee8835eee266de22dc103564d2668895d98030d3221f59ae07f8",
+      "actual_sha256": "e4321f2e93ebee8835eee266de22dc103564d2668895d98030d3221f59ae07f8",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CARCASA_MOTOR_J5_V06.ipt",
+      "expected_sha256": "d2211615f559b47c7a8a3f947e10732f2b8ff113adfdd1c088ffd8d8eb0dfe2f",
+      "actual_sha256": "d2211615f559b47c7a8a3f947e10732f2b8ff113adfdd1c088ffd8d8eb0dfe2f",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CARCASA_MUNECA_J6_V06.ipt",
+      "expected_sha256": "6d4c6b62c2815d4c876598d075ab2616b24d0005e37f8fa770723ad14dfa043d",
+      "actual_sha256": "6d4c6b62c2815d4c876598d075ab2616b24d0005e37f8fa770723ad14dfa043d",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CARCASA_TRANSMISION_ENCODER_J4_V1.ipt",
+      "expected_sha256": "ebc9b88f14f5d87132e9bd18b7b681edc41f2e818a650bee905139c1a2aa3531",
+      "actual_sha256": "ebc9b88f14f5d87132e9bd18b7b681edc41f2e818a650bee905139c1a2aa3531",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CARCASA_TRANSMISION_ENCODER_J6_V1.ipt",
+      "expected_sha256": "2322a68a476d03a0c77abc06fab094af9d5460349b3d75345a1109745d08227a",
+      "actual_sha256": "2322a68a476d03a0c77abc06fab094af9d5460349b3d75345a1109745d08227a",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CARRO_MOTOR_J4_TENSOR_V1.ipt",
+      "expected_sha256": "dd48d5a909896dccaa21a81847ffe079392d7270a25921f773a8ff6f60f67708",
+      "actual_sha256": "dd48d5a909896dccaa21a81847ffe079392d7270a25921f773a8ff6f60f67708",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CHAVETA_J4_4x4x9_V1.ipt",
+      "expected_sha256": "26ddc8e1a3d961e66a25d8467278bdd61c420d97301acb65d2cd5dd553c45d61",
+      "actual_sha256": "26ddc8e1a3d961e66a25d8467278bdd61c420d97301acb65d2cd5dd553c45d61",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CLIP_ARNES_D6_ATORNILLADO_V2.ipt",
+      "expected_sha256": "6aab1ae5c05395e902a378caa470250c2c84f90d391a166e4705b99241873af8",
+      "actual_sha256": "6aab1ae5c05395e902a378caa470250c2c84f90d391a166e4705b99241873af8",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/COLLAR_EJE_ENCODER_J4_V1.ipt",
+      "expected_sha256": "886d092bd17c8427a0d11c9c9d7d680cb5a86a55f63081c2e14dba8b8f99de92",
+      "actual_sha256": "886d092bd17c8427a0d11c9c9d7d680cb5a86a55f63081c2e14dba8b8f99de92",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/COLLAR_RETENCION_J1_INFERIOR_MONTADO_20260917.ipt",
+      "expected_sha256": "64251b6e52dff97db50a8b4a22180e5a1bc509d60590ce2447c409172c59e1ac",
+      "actual_sha256": "64251b6e52dff97db50a8b4a22180e5a1bc509d60590ce2447c409172c59e1ac",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CORONA_ENCODER_J1_60T_M075_V1.ipt",
+      "expected_sha256": "d73de2499e1160768239135fcc005a2b88aca2980881aec16484c2877604d33e",
+      "actual_sha256": "d73de2499e1160768239135fcc005a2b88aca2980881aec16484c2877604d33e",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CORONA_ENCODER_J4_60T_M075_V1.ipt",
+      "expected_sha256": "344e583aaa7967e95cc14b03fcf3d59153597681f14a3c00fda4fbcd28af86cb",
+      "actual_sha256": "344e583aaa7967e95cc14b03fcf3d59153597681f14a3c00fda4fbcd28af86cb",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CORREA_J1_ENV.ipt",
+      "expected_sha256": "e765bc371624c2e60a91343b3786d9fcf2edce47bf9a690ad8b63185b5ccee29",
+      "actual_sha256": "e765bc371624c2e60a91343b3786d9fcf2edce47bf9a690ad8b63185b5ccee29",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CORREA_J2_V04_ENV.ipt",
+      "expected_sha256": "2cbde43489e269a2db5a7ee462b1779c448cdbe762d8cd1e42d4742f8a9696bb",
+      "actual_sha256": "2cbde43489e269a2db5a7ee462b1779c448cdbe762d8cd1e42d4742f8a9696bb",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CORREA_J3_V06_ENV.ipt",
+      "expected_sha256": "aa09b35639092516a8428b55351082dabc4e3121a6d3a671ce9cfdae2f027cfe",
+      "actual_sha256": "aa09b35639092516a8428b55351082dabc4e3121a6d3a671ce9cfdae2f027cfe",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CORREA_J4_285_3M9_TENSOR_V1_ENV.ipt",
+      "expected_sha256": "326122af56369705cc1f9d56f92ae593a8051367324f9057e76388fa483b73e4",
+      "actual_sha256": "326122af56369705cc1f9d56f92ae593a8051367324f9057e76388fa483b73e4",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CORREA_J5_V03_ENV.ipt",
+      "expected_sha256": "0ba006566d6c248af9431e1029a492acd2e2f0235d5bedb0d20f76c0550e363b",
+      "actual_sha256": "0ba006566d6c248af9431e1029a492acd2e2f0235d5bedb0d20f76c0550e363b",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CUBO_J2_V02_-32.ipt",
+      "expected_sha256": "2d67e26cdd1a8e10dbe6970293397a29488594088b63a215e95f8e578b677bd5",
+      "actual_sha256": "2d67e26cdd1a8e10dbe6970293397a29488594088b63a215e95f8e578b677bd5",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/CUBO_J2_V02_28.ipt",
+      "expected_sha256": "ff248a90bc1573ba39daa8a33d047ca5fd53a25e7950e1dd7b5d1a7187d3927f",
+      "actual_sha256": "ff248a90bc1573ba39daa8a33d047ca5fd53a25e7950e1dd7b5d1a7187d3927f",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/EJE_ENCODER_J1_D3_V1.ipt",
+      "expected_sha256": "f379707906132464edcbd95ae26c7e623b1aa58791065d043423d526d64da9d0",
+      "actual_sha256": "f379707906132464edcbd95ae26c7e623b1aa58791065d043423d526d64da9d0",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/EJE_ENCODER_J4_D3_V1.ipt",
+      "expected_sha256": "054ed9e26acd8830d4959e239afd07222a50135a06796a40f82312f29b4c37a3",
+      "actual_sha256": "054ed9e26acd8830d4959e239afd07222a50135a06796a40f82312f29b4c37a3",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/EJE_ENCODER_J6_D3_V1.ipt",
+      "expected_sha256": "0dd95965a1db770e5d5c88d36e25fc9800ece3983d4b0812b761118fa0f6ed2e",
+      "actual_sha256": "0dd95965a1db770e5d5c88d36e25fc9800ece3983d4b0812b761118fa0f6ed2e",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/EJE_ENTRADA_J2.ipt",
+      "expected_sha256": "22b15d64c1f067683d94f24165453ce3f9eba17f128babe2f03cd7e43761c73b",
+      "actual_sha256": "22b15d64c1f067683d94f24165453ce3f9eba17f128babe2f03cd7e43761c73b",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/EJE_ENTRADA_J3.ipt",
+      "expected_sha256": "cf8d62b3c827090f9aced12be329a37065d312c87619f77704f25ebdb72de84d",
+      "actual_sha256": "cf8d62b3c827090f9aced12be329a37065d312c87619f77704f25ebdb72de84d",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/EJE_HUECO_J4_AL_V03.ipt",
+      "expected_sha256": "ae297a5ae98d4bae93c8b552e365b23208b405600dc7dc40bb21e9b13e62d4ca",
+      "actual_sha256": "ae297a5ae98d4bae93c8b552e365b23208b405600dc7dc40bb21e9b13e62d4ca",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/EJE_J1_001.ipt",
+      "expected_sha256": "b0ccde1e961bbfcbc043f9d268a8ef539b1c440fc04b2ce85ca736b7576c691a",
+      "actual_sha256": "b0ccde1e961bbfcbc043f9d268a8ef539b1c440fc04b2ce85ca736b7576c691a",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/EJE_J2_001.ipt",
+      "expected_sha256": "732f437cc6d100f619caa31ee17573dcfe284464e04bf0cdc8496a4bccc6818f",
+      "actual_sha256": "732f437cc6d100f619caa31ee17573dcfe284464e04bf0cdc8496a4bccc6818f",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/EJE_J3_TUBULAR_V03.ipt",
+      "expected_sha256": "e273ace8ecdd3e86e1387b0c10dfb2d8e802abe96fbe338c64fac13c29f4537b",
+      "actual_sha256": "e273ace8ecdd3e86e1387b0c10dfb2d8e802abe96fbe338c64fac13c29f4537b",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/EJE_J5_TUBULAR_V03.ipt",
+      "expected_sha256": "9779e1efb3c4f88050ac760a4d41522eeef3f9e54651356dd2d3386924bda380",
+      "actual_sha256": "9779e1efb3c4f88050ac760a4d41522eeef3f9e54651356dd2d3386924bda380",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/EJE_J6_BRIDA_ATORNILLADA_V1.ipt",
+      "expected_sha256": "52e83789c38601585be45206b96511afe8eb2c0836e0c4161810ec53396652cb",
+      "actual_sha256": "52e83789c38601585be45206b96511afe8eb2c0836e0c4161810ec53396652cb",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ENGRANAJE_AUX_ENCODER_J1_60T_M075_V1.ipt",
+      "expected_sha256": "69eac71bcd12e72b2be9ab6a49cd67fd1a75baf1a1b5ddf708d983021232845d",
+      "actual_sha256": "69eac71bcd12e72b2be9ab6a49cd67fd1a75baf1a1b5ddf708d983021232845d",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ENGRANAJE_AUX_ENCODER_J4_60T_M075_V1.ipt",
+      "expected_sha256": "d0b612309380e65632e9dbba625611a4dde34c7c3eb641df58e8d7bc45492922",
+      "actual_sha256": "d0b612309380e65632e9dbba625611a4dde34c7c3eb641df58e8d7bc45492922",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ENGRANAJE_AUX_ENCODER_J6_60T_M05_V1.ipt",
+      "expected_sha256": "88128dddec97ab195d45be98dbac677cd1b1576314200fc4f571856b0b757c3a",
+      "actual_sha256": "88128dddec97ab195d45be98dbac677cd1b1576314200fc4f571856b0b757c3a",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESCUADRA_J2_V1_-1.ipt",
+      "expected_sha256": "fc02457eea9dfacb5a0bf38eacc5110ba940ffc12f0c3023bec58ed00c049082",
+      "actual_sha256": "fc02457eea9dfacb5a0bf38eacc5110ba940ffc12f0c3023bec58ed00c049082",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESCUADRA_J2_V1_1.ipt",
+      "expected_sha256": "2daf4e80597fcca209224910115aa2fa82bab75df7ba35cc2ee771cbd20e0824",
+      "actual_sha256": "2daf4e80597fcca209224910115aa2fa82bab75df7ba35cc2ee771cbd20e0824",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_EJE_ENCODER_J4_V1.ipt",
+      "expected_sha256": "657a6aabd338cf5a25ef6cdc2b985ff2ba19c4cd3bb09390c89a783101a36e21",
+      "actual_sha256": "657a6aabd338cf5a25ef6cdc2b985ff2ba19c4cd3bb09390c89a783101a36e21",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_ENCODER_J1_V1.ipt",
+      "expected_sha256": "0d75e21f4d2f592923ac6700eb25f5acfed84ef10bf2a093c77b982cb5cc8cc9",
+      "actual_sha256": "0d75e21f4d2f592923ac6700eb25f5acfed84ef10bf2a093c77b982cb5cc8cc9",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_ENTRADA_J2_NEG_20260917.ipt",
+      "expected_sha256": "193d1ffb524b483ce6928bef9b54864e1238b001914f3b9f232b7f3e1c6c7437",
+      "actual_sha256": "193d1ffb524b483ce6928bef9b54864e1238b001914f3b9f232b7f3e1c6c7437",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_ENTRADA_J2_POS_20260917.ipt",
+      "expected_sha256": "a8e75ab8cfbdd82241cefcb6f22f3f9af4ed5454a46dac4fc8a1318ec1ae4e67",
+      "actual_sha256": "a8e75ab8cfbdd82241cefcb6f22f3f9af4ed5454a46dac4fc8a1318ec1ae4e67",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_ENTRADA_J3_NEG_20260917.ipt",
+      "expected_sha256": "ee49d7956245d28fe127827e3ac57ac1a8d52c15ace4d6975ec9ebb88e438168",
+      "actual_sha256": "ee49d7956245d28fe127827e3ac57ac1a8d52c15ace4d6975ec9ebb88e438168",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_ENTRADA_J3_POS_20260917.ipt",
+      "expected_sha256": "05d5914c72c79c6be196f6a0afeda1668ee5ec969de84efe3077201f4cbd3564",
+      "actual_sha256": "05d5914c72c79c6be196f6a0afeda1668ee5ec969de84efe3077201f4cbd3564",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_FRONTAL_ENCODER_J6_V1.ipt",
+      "expected_sha256": "c95fb5e73dc3d64b93793acff6b199eb5f9bcdd2e12250c52be3b4fae6ec4685",
+      "actual_sha256": "c95fb5e73dc3d64b93793acff6b199eb5f9bcdd2e12250c52be3b4fae6ec4685",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_INTERIOR_ENCODER_J6_V1.ipt",
+      "expected_sha256": "03355fbfea00c7f03ddd960990a58ec3ad0f445e87b935ff94757f3ef591918c",
+      "actual_sha256": "03355fbfea00c7f03ddd960990a58ec3ad0f445e87b935ff94757f3ef591918c",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_J1_-28_-28.ipt",
+      "expected_sha256": "01865cc5c605532356305cd20734acbef2c5fe598b7533704aac1f442d7bd223",
+      "actual_sha256": "01865cc5c605532356305cd20734acbef2c5fe598b7533704aac1f442d7bd223",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_J1_-28_28.ipt",
+      "expected_sha256": "4b9c75551ffaf7dc771d57bcfb21677c6e0501b1e8a95593579a1bd53fdf69a7",
+      "actual_sha256": "4b9c75551ffaf7dc771d57bcfb21677c6e0501b1e8a95593579a1bd53fdf69a7",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_J1_28_-28.ipt",
+      "expected_sha256": "0d0066748b3ed024dbda4fb1576d3d0e4bf94b8fd008b078d89686d823676743",
+      "actual_sha256": "0d0066748b3ed024dbda4fb1576d3d0e4bf94b8fd008b078d89686d823676743",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_J1_28_28.ipt",
+      "expected_sha256": "0f1ec0ab8242b3a7e0a63b40e625c1a72c50e4da53f35f06c0a6be81dec18bdb",
+      "actual_sha256": "0f1ec0ab8242b3a7e0a63b40e625c1a72c50e4da53f35f06c0a6be81dec18bdb",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_J1_CORONA_ENCODER_20260917.ipt",
+      "expected_sha256": "36f8c3f5765b94ed4784d9bfe2eee1cab609af3550aa4df41a8976f37069c978",
+      "actual_sha256": "36f8c3f5765b94ed4784d9bfe2eee1cab609af3550aa4df41a8976f37069c978",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_J1_INF_POLEA_20260917.ipt",
+      "expected_sha256": "5edbf75d9b87c832d873b125e296d95e33b702266ca0b043e914b2b5729f0c03",
+      "actual_sha256": "5edbf75d9b87c832d873b125e296d95e33b702266ca0b043e914b2b5729f0c03",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_J1_SUP_POLEA_20260917.ipt",
+      "expected_sha256": "f4e728f148b78b081b37a6bf2ad6465b04d3a4fa21ed6b2617c954cb762de0bd",
+      "actual_sha256": "f4e728f148b78b081b37a6bf2ad6465b04d3a4fa21ed6b2617c954cb762de0bd",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_J4_-40_-40.ipt",
+      "expected_sha256": "d039392d36dadc9d56fbd470fa190cf269456721b50e26caeb7f5c2a4627273e",
+      "actual_sha256": "d039392d36dadc9d56fbd470fa190cf269456721b50e26caeb7f5c2a4627273e",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_J4_-40_60.ipt",
+      "expected_sha256": "48185bb370c9410e3db6a5e692e13ecee9a82cf0205cc6d33f6aa48f3f40dc19",
+      "actual_sha256": "48185bb370c9410e3db6a5e692e13ecee9a82cf0205cc6d33f6aa48f3f40dc19",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_J4_40_-40.ipt",
+      "expected_sha256": "326585b3acf5baa0ec6fee7840c3df10ea5c94c8053ec338c3ad25a53c83ab49",
+      "actual_sha256": "326585b3acf5baa0ec6fee7840c3df10ea5c94c8053ec338c3ad25a53c83ab49",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_J4_40_60.ipt",
+      "expected_sha256": "daaf9f5ff545d9f00e89bb067846f71914061f5fc5d3fd8eb6140b1e6b484258",
+      "actual_sha256": "daaf9f5ff545d9f00e89bb067846f71914061f5fc5d3fd8eb6140b1e6b484258",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_J4_D23_D20_FRONTAL_3_V1.ipt",
+      "expected_sha256": "5895bfdf7dd01580cc53043af14599c968556620365091ee04445756778e2853",
+      "actual_sha256": "5895bfdf7dd01580cc53043af14599c968556620365091ee04445756778e2853",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_J4_D23_D20_INTERIOR_12_V1.ipt",
+      "expected_sha256": "5cdcea7d1d9815a933f6c5233147cd393443c13fa46b46d8d8a9745fb0c534a5",
+      "actual_sha256": "5cdcea7d1d9815a933f6c5233147cd393443c13fa46b46d8d8a9745fb0c534a5",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_J4_D23_D20_POSTERIOR_1_V1.ipt",
+      "expected_sha256": "8d3dc776fc04b1febcf5354d7acbf43c04b53b7ac6416d7d9af84eaba188243e",
+      "actual_sha256": "8d3dc776fc04b1febcf5354d7acbf43c04b53b7ac6416d7d9af84eaba188243e",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_RETENCION_J3_NEG_MONTADO_20260917.ipt",
+      "expected_sha256": "534350c4d376e93c58131be591e75ab028bda34c84c5ba90a606a202a0a8ced3",
+      "actual_sha256": "534350c4d376e93c58131be591e75ab028bda34c84c5ba90a606a202a0a8ced3",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_RETENCION_J3_POS_MONTADO_20260917.ipt",
+      "expected_sha256": "c6409e32a0b8269c52d938b0d7a4f72ee399833d5f833f9ea1e814c2a1a08d70",
+      "actual_sha256": "c6409e32a0b8269c52d938b0d7a4f72ee399833d5f833f9ea1e814c2a1a08d70",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_RETENCION_J5_NEG_MONTADO_20260917.ipt",
+      "expected_sha256": "a1617488610de648cc0508d5823e98883bc9dc7f3db9b2f7c1ced9ea10bf5666",
+      "actual_sha256": "a1617488610de648cc0508d5823e98883bc9dc7f3db9b2f7c1ced9ea10bf5666",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/ESPACIADOR_RETENCION_J5_POS_MONTADO_20260917.ipt",
+      "expected_sha256": "08ff7383435d1cfc472366510e93900cfe5c64bf4e588154a523a1ebb3d00f0c",
+      "actual_sha256": "08ff7383435d1cfc472366510e93900cfe5c64bf4e588154a523a1ebb3d00f0c",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/HOME_SENSOR_J1_MONTADO_V2.ipt",
+      "expected_sha256": "16ecfbba8823eb323bd689e1fe396e370f79c7624795d766b7f23f9bc45d71be",
+      "actual_sha256": "16ecfbba8823eb323bd689e1fe396e370f79c7624795d766b7f23f9bc45d71be",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/HOME_SENSOR_J2_MONTADO_V2.ipt",
+      "expected_sha256": "5c909b312d570bbd277d79e56be1a4089eda9c4126022d5fcf9f7ae8a7c571e4",
+      "actual_sha256": "5c909b312d570bbd277d79e56be1a4089eda9c4126022d5fcf9f7ae8a7c571e4",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/HOME_SENSOR_J3_MONTADO_V2.ipt",
+      "expected_sha256": "9c01dd932e7e63e84087799841093189ce3d9371a59e39a65b7339aca879b5a3",
+      "actual_sha256": "9c01dd932e7e63e84087799841093189ce3d9371a59e39a65b7339aca879b5a3",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/HOME_SENSOR_J4_MONTADO_V2.ipt",
+      "expected_sha256": "b480c2f574eda15eb1b71c416c7893e38f0f96cbee5cb4ce913618665f4220a8",
+      "actual_sha256": "b480c2f574eda15eb1b71c416c7893e38f0f96cbee5cb4ce913618665f4220a8",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/HOME_SENSOR_J5_MONTADO_V2.ipt",
+      "expected_sha256": "9612007952c7b65aa8b01534abd8d945ee1482badd051a753c7032bc9ee48550",
+      "actual_sha256": "9612007952c7b65aa8b01534abd8d945ee1482badd051a753c7032bc9ee48550",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/HOME_SENSOR_J6_MONTADO_V2.ipt",
+      "expected_sha256": "7be63bef8351033b66c8bb203418d3ed05653c1456f9dbf640526b621327aea3",
+      "actual_sha256": "7be63bef8351033b66c8bb203418d3ed05653c1456f9dbf640526b621327aea3",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/HORQUILLA_J5_LARGA_V03.ipt",
+      "expected_sha256": "099dc50dcdb4e7d8be2db5814e6a7774ae67428a5ee52de45b8888fa1d203735",
+      "actual_sha256": "099dc50dcdb4e7d8be2db5814e6a7774ae67428a5ee52de45b8888fa1d203735",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/HORQUILLA_J5_V02_34.ipt",
+      "expected_sha256": "160fd15f31bcf555d0ea9a0bbd7d247ae2a233b15d685ec2f2f10656355e0ed2",
+      "actual_sha256": "160fd15f31bcf555d0ea9a0bbd7d247ae2a233b15d685ec2f2f10656355e0ed2",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/MUNECA_J4_TRAVESANO_V05.ipt",
+      "expected_sha256": "2597378d8c530cc2724e6fb0f59409b4b6de6044f7420119263aea60a1d74a16",
+      "actual_sha256": "2597378d8c530cc2724e6fb0f59409b4b6de6044f7420119263aea60a1d74a16",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/MUNECA_J5_-29.ipt",
+      "expected_sha256": "3267fce5eaeccf806e3ef467d3f5ed2fced2b3d56b693e5e1c18b15df73ca0de",
+      "actual_sha256": "3267fce5eaeccf806e3ef467d3f5ed2fced2b3d56b693e5e1c18b15df73ca0de",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/MUNECA_J5_26.ipt",
+      "expected_sha256": "ecab1d9220bad91c38055e8b813a433ade9fc08a6bf9d964741e1824858ae858",
+      "actual_sha256": "ecab1d9220bad91c38055e8b813a433ade9fc08a6bf9d964741e1824858ae858",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/PASACABLE_BRIDA_D8_D6_4_V2.ipt",
+      "expected_sha256": "9c26968fad090189d9cbf58891f7d3c05f48c0481159c4bbb3edd012dc01417e",
+      "actual_sha256": "9c26968fad090189d9cbf58891f7d3c05f48c0481159c4bbb3edd012dc01417e",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/PEDESTAL_J1_001.ipt",
+      "expected_sha256": "baa0d2f57abab40bff02d90edc3f4cc507a1f60957b3c78d4b24fc82ed4c202c",
+      "actual_sha256": "baa0d2f57abab40bff02d90edc3f4cc507a1f60957b3c78d4b24fc82ed4c202c",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/PLATAFORMA_J1_001.ipt",
+      "expected_sha256": "70f1ace89c6b73746dd4d0d20cb347af8c62dafc347fb4b735bcb9c8199351ad",
+      "actual_sha256": "70f1ace89c6b73746dd4d0d20cb347af8c62dafc347fb4b735bcb9c8199351ad",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/POLEA_J1_20T.ipt",
+      "expected_sha256": "375b991174af0b333d1bf115db5faf031d1e7595f5ffd34f05b0ba887bdb7f88",
+      "actual_sha256": "375b991174af0b333d1bf115db5faf031d1e7595f5ffd34f05b0ba887bdb7f88",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/POLEA_J1_60T.ipt",
+      "expected_sha256": "e03f1dc3f4ad0cb07640309f60f483b9ba91efa508b7a6dc86707a584a9a8ce4",
+      "actual_sha256": "e03f1dc3f4ad0cb07640309f60f483b9ba91efa508b7a6dc86707a584a9a8ce4",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/POLEA_J2_140T_ENV.ipt",
+      "expected_sha256": "8747e86272caa99f528d609671c3255e775003aa0aee9f3c461a5d42a463912f",
+      "actual_sha256": "8747e86272caa99f528d609671c3255e775003aa0aee9f3c461a5d42a463912f",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/POLEA_J2_20T.ipt",
+      "expected_sha256": "1854d7fc28ef47f82ef3ba69be17043792cfa2dbe12bdfdf0cded0024e3ebb20",
+      "actual_sha256": "1854d7fc28ef47f82ef3ba69be17043792cfa2dbe12bdfdf0cded0024e3ebb20",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/POLEA_J3_20T_V05.ipt",
+      "expected_sha256": "6f22bbf8442d7e15a6f282aa4fa70a3f57fd15e3cc6ef81ff966a569bc3023b8",
+      "actual_sha256": "6f22bbf8442d7e15a6f282aa4fa70a3f57fd15e3cc6ef81ff966a569bc3023b8",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/POLEA_J3_80T_V06.ipt",
+      "expected_sha256": "fc6bd01b8e2d23a31bb6499eab5da9a791a2494f029bae99a759159931c6a9ae",
+      "actual_sha256": "fc6bd01b8e2d23a31bb6499eab5da9a791a2494f029bae99a759159931c6a9ae",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/POLEA_J4_20T_V02.ipt",
+      "expected_sha256": "c783b61e7e97718734701a190d630815b0dd060e3c3a38c5c2a4bb4c156bc34a",
+      "actual_sha256": "c783b61e7e97718734701a190d630815b0dd060e3c3a38c5c2a4bb4c156bc34a",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/POLEA_J4_80T_V03.ipt",
+      "expected_sha256": "90d83b041579fddd5d76e9f466aeabf2f972d418e3f97b7e0494033caa7376c1",
+      "actual_sha256": "90d83b041579fddd5d76e9f466aeabf2f972d418e3f97b7e0494033caa7376c1",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/POLEA_J5_20T_V03.ipt",
+      "expected_sha256": "8cb618fcd9af50c1c8566c494e0d2b64887d9d82cc770a404cd639ee535c89ad",
+      "actual_sha256": "8cb618fcd9af50c1c8566c494e0d2b64887d9d82cc770a404cd639ee535c89ad",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/POLEA_J5_80T_V03.ipt",
+      "expected_sha256": "0a3e0224c22b6b9cf0971a0310dced9451f69d63a463ee4525c1adda338001dc",
+      "actual_sha256": "0a3e0224c22b6b9cf0971a0310dced9451f69d63a463ee4525c1adda338001dc",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/PORTAIMAN_ENCODER_J1_D3_V1.ipt",
+      "expected_sha256": "4d73d4430df05bb72c43e47ff0c8e44d89a49b08f1ed04275601a8163e900741",
+      "actual_sha256": "4d73d4430df05bb72c43e47ff0c8e44d89a49b08f1ed04275601a8163e900741",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/PORTAIMAN_ENCODER_J4_D3_V1.ipt",
+      "expected_sha256": "22291e71a4b323734977fdc7f10a25f7b6bbe336879f70559fd1eb7e8f7a9758",
+      "actual_sha256": "22291e71a4b323734977fdc7f10a25f7b6bbe336879f70559fd1eb7e8f7a9758",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/PORTAIMAN_ENCODER_J6_D3_V1.ipt",
+      "expected_sha256": "664f6a4c0c7c28e957d308626380bb5c37f91f34b82ac38fd5b27f4354a85258",
+      "actual_sha256": "664f6a4c0c7c28e957d308626380bb5c37f91f34b82ac38fd5b27f4354a85258",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/PORTAIMAN_J2_AL_D6_V1.ipt",
+      "expected_sha256": "966e5b559d780f882b3355173d12b1b42dfaeb190dbd3a5a85f62ba3ebf60223",
+      "actual_sha256": "966e5b559d780f882b3355173d12b1b42dfaeb190dbd3a5a85f62ba3ebf60223",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/PORTAIMAN_J3_AL_D6_V1.ipt",
+      "expected_sha256": "4c0b9f72b93d5a89b4117ab50011c252c68e18be0b1b42c6497376a44b941541",
+      "actual_sha256": "4c0b9f72b93d5a89b4117ab50011c252c68e18be0b1b42c6497376a44b941541",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/PORTAIMAN_J5_AL_D6_V1.ipt",
+      "expected_sha256": "30f80b65b98918f66f67768d13ab5a8bb795a5975da2b5f704badd2ff104f154",
+      "actual_sha256": "30f80b65b98918f66f67768d13ab5a8bb795a5975da2b5f704badd2ff104f154",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/PORTARODAMIENTO_J1_V02_132.ipt",
+      "expected_sha256": "9d95007621b9bb8d68963360e158e9cc2623ced00e17e6ab4fa480e6ec5c9cf5",
+      "actual_sha256": "9d95007621b9bb8d68963360e158e9cc2623ced00e17e6ab4fa480e6ec5c9cf5",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/PORTARODAMIENTO_J1_V02_160.ipt",
+      "expected_sha256": "e027f275051bb2f4a93bf9edbe16cb7158b39341fbd34966d283eb69b88f5a30",
+      "actual_sha256": "e027f275051bb2f4a93bf9edbe16cb7158b39341fbd34966d283eb69b88f5a30",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/PORTARODAMIENTO_J3_-32.ipt",
+      "expected_sha256": "ac9e58aadbe71ed0d2721e9c87e464af7739dc5042682ee8b94596cbdb3d8e3c",
+      "actual_sha256": "ac9e58aadbe71ed0d2721e9c87e464af7739dc5042682ee8b94596cbdb3d8e3c",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/PORTARODAMIENTO_J3_24.ipt",
+      "expected_sha256": "dbc03956733024d6621ffbe1348dd52266c55dd3817e7938c76241acc5a40a19",
+      "actual_sha256": "dbc03956733024d6621ffbe1348dd52266c55dd3817e7938c76241acc5a40a19",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/PORTARODAMIENTO_J6.ipt",
+      "expected_sha256": "5d3f410b870a70279f7be3b77cd1a32cbcba1afb8bd5db0329ea60cf5bfef3a4",
+      "actual_sha256": "5d3f410b870a70279f7be3b77cd1a32cbcba1afb8bd5db0329ea60cf5bfef3a4",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/PORTARODAMIENTO_J6_POSTERIOR.ipt",
+      "expected_sha256": "ee3c8b8ce4c1a590797a64db1f9c5f9b2bec02ff5d6468b08cdde920ef3dff02",
+      "actual_sha256": "ee3c8b8ce4c1a590797a64db1f9c5f9b2bec02ff5d6468b08cdde920ef3dff02",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/PUENTE_AJUSTADOR_J4_V1.ipt",
+      "expected_sha256": "7f74ac31b5e76a6f1cd503cfd96366c2f9ac6cf20720714333522bf4b4c5ff5a",
+      "actual_sha256": "7f74ac31b5e76a6f1cd503cfd96366c2f9ac6cf20720714333522bf4b4c5ff5a",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/REFERENCIAS_L0.ipt",
+      "expected_sha256": "fcb4cbc2c7c06d3a38423286559dd6abe031144837480c97e8a82383d300efa5",
+      "actual_sha256": "fcb4cbc2c7c06d3a38423286559dd6abe031144837480c97e8a82383d300efa5",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/REFERENCIAS_L1.ipt",
+      "expected_sha256": "676f82930fad8e0083a915c207fc62e0e93d594a89d6680a1281c84fd84621db",
+      "actual_sha256": "676f82930fad8e0083a915c207fc62e0e93d594a89d6680a1281c84fd84621db",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/REFERENCIAS_L2.ipt",
+      "expected_sha256": "75830d8f16824bd21a952e7b75061b1c856f2675f1ead3894683a355f3215a83",
+      "actual_sha256": "75830d8f16824bd21a952e7b75061b1c856f2675f1ead3894683a355f3215a83",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/REFERENCIAS_L3_V05.ipt",
+      "expected_sha256": "952ac7d7c63e494069cf7e05dcad17aea6f8a51f33286355b799191264a30e84",
+      "actual_sha256": "952ac7d7c63e494069cf7e05dcad17aea6f8a51f33286355b799191264a30e84",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/REFERENCIAS_L4_V05.ipt",
+      "expected_sha256": "f9ff19da2b348350576849203a5ceb8530711b42f21c7772e77c3943d8532b8b",
+      "actual_sha256": "f9ff19da2b348350576849203a5ceb8530711b42f21c7772e77c3943d8532b8b",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/REFERENCIAS_L5.ipt",
+      "expected_sha256": "06f0646ddb9415645a6a7d92c8c9113514b7c4898a8a2940427ef97b62980ee2",
+      "actual_sha256": "06f0646ddb9415645a6a7d92c8c9113514b7c4898a8a2940427ef97b62980ee2",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/REFERENCIAS_L6.ipt",
+      "expected_sha256": "04fd9fc35d8e918a09c79495380297dcc8980a2a7f908ec78548aefb5235b828",
+      "actual_sha256": "04fd9fc35d8e918a09c79495380297dcc8980a2a7f908ec78548aefb5235b828",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/SOPORTE_ENCODER_J1_LATERAL_V1.ipt",
+      "expected_sha256": "23e324e219bc69649c7b0b4a110fc5766d03d854cdfc6cfeaa96da735579a9ff",
+      "actual_sha256": "23e324e219bc69649c7b0b4a110fc5766d03d854cdfc6cfeaa96da735579a9ff",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/SOPORTE_ENCODER_J2_AS5048A_V1.ipt",
+      "expected_sha256": "52c825289e427454fe1157c7669be50976b86a0ee7ccd847b44fd6dfba2c0856",
+      "actual_sha256": "52c825289e427454fe1157c7669be50976b86a0ee7ccd847b44fd6dfba2c0856",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/SOPORTE_ENCODER_J3_AS5048A_V1.ipt",
+      "expected_sha256": "ad569880cb2061912b9e4c79bf3735376f06d16de2a56196bced7a55705209b6",
+      "actual_sha256": "ad569880cb2061912b9e4c79bf3735376f06d16de2a56196bced7a55705209b6",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/SOPORTE_ENCODER_J4_LATERAL_V1.ipt",
+      "expected_sha256": "bdd67664d4c5c5c6b2971f70b5d46871f47e0a4b39d62d2785767970fd469a89",
+      "actual_sha256": "bdd67664d4c5c5c6b2971f70b5d46871f47e0a4b39d62d2785767970fd469a89",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/SOPORTE_ENCODER_J5_AS5048A_V1.ipt",
+      "expected_sha256": "4d10924c11f37ce2e42cd1a24340cd08ec50640c8ac8c7a5ef8144e8e9305cf2",
+      "actual_sha256": "4d10924c11f37ce2e42cd1a24340cd08ec50640c8ac8c7a5ef8144e8e9305cf2",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/SOPORTE_ENCODER_J6_SUPERIOR_V1.ipt",
+      "expected_sha256": "55a0782125de87ed33eb40af2f78cb6fd0e4aff159a1491197b8658d1b1fbc92",
+      "actual_sha256": "55a0782125de87ed33eb40af2f78cb6fd0e4aff159a1491197b8658d1b1fbc92",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/SOPORTE_J2_V02_-44.ipt",
+      "expected_sha256": "0c4b49631a6dc911acf5b13eaddba416458580d0b807fd2acec0de25c3420011",
+      "actual_sha256": "0c4b49631a6dc911acf5b13eaddba416458580d0b807fd2acec0de25c3420011",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/SOPORTE_J2_V02_36.ipt",
+      "expected_sha256": "790ee4c928c18333d3aadf9db714653f60a56a532bd1c1b34e78620ff8ed9b57",
+      "actual_sha256": "790ee4c928c18333d3aadf9db714653f60a56a532bd1c1b34e78620ff8ed9b57",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/SOPORTE_J4_V03_104.ipt",
+      "expected_sha256": "8b153af662722190e553d097eafcda7f975d47f47cc8a8f50143657a923accbd",
+      "actual_sha256": "8b153af662722190e553d097eafcda7f975d47f47cc8a8f50143657a923accbd",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/SOPORTE_J4_V03_133.ipt",
+      "expected_sha256": "7c01f3e9827c8c8eccec8221289fa6abef1253ce56d8e537e5f9708cb935f50d",
+      "actual_sha256": "7c01f3e9827c8c8eccec8221289fa6abef1253ce56d8e537e5f9708cb935f50d",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/SOPORTE_MOTOR_J1.ipt",
+      "expected_sha256": "b3eef90312357fcaefdce7d881be654f41bd2af20e82033e60e2561e824721ea",
+      "actual_sha256": "b3eef90312357fcaefdce7d881be654f41bd2af20e82033e60e2561e824721ea",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/SOPORTE_MOTOR_J2_V04.ipt",
+      "expected_sha256": "442c5aaacada2417352ddbd8f8f5cc167936a3e19f1b57cb39e9d6a21e8d4b0d",
+      "actual_sha256": "442c5aaacada2417352ddbd8f8f5cc167936a3e19f1b57cb39e9d6a21e8d4b0d",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/SOPORTE_MOTOR_J3_V07.ipt",
+      "expected_sha256": "1a967f67ef1b24b96a4d68a09b86ad7dc814588b0146b174701ad8f5d9aa3a15",
+      "actual_sha256": "1a967f67ef1b24b96a4d68a09b86ad7dc814588b0146b174701ad8f5d9aa3a15",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/SOPORTE_MOTOR_J5_V03.ipt",
+      "expected_sha256": "24b041cc0e22354485ef09e3e3444c4d5fffd8bea29a1dbc37cec4328b0de722",
+      "actual_sha256": "24b041cc0e22354485ef09e3e3444c4d5fffd8bea29a1dbc37cec4328b0de722",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/SOPORTE_MOTOR_J6.ipt",
+      "expected_sha256": "2e6d7286b4f164829a13cf4436995013febca4bc5b2c3899501b3589f4a6e5a7",
+      "actual_sha256": "2e6d7286b4f164829a13cf4436995013febca4bc5b2c3899501b3589f4a6e5a7",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/TAPA_RODAMIENTO_ENCODER_J1_158.ipt",
+      "expected_sha256": "e57d226eb0a3eefb6dda124673635df176c6a0834589c5797a8a0ee1b374c69f",
+      "actual_sha256": "e57d226eb0a3eefb6dda124673635df176c6a0834589c5797a8a0ee1b374c69f",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/TAPA_RODAMIENTO_ENCODER_J1_164.ipt",
+      "expected_sha256": "951d239ffbb14c1f06c211a0481d2192ce6583711a19b30c457b92ce4d23e8c1",
+      "actual_sha256": "951d239ffbb14c1f06c211a0481d2192ce6583711a19b30c457b92ce4d23e8c1",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/TAPA_RODAMIENTO_ENCODER_J4_84.ipt",
+      "expected_sha256": "eadfc2666ddeb5649414abf9b9e2ce6b186a6f124fc7ef1c979c9d5c6578985a",
+      "actual_sha256": "eadfc2666ddeb5649414abf9b9e2ce6b186a6f124fc7ef1c979c9d5c6578985a",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/TAPA_RODAMIENTO_ENCODER_J4_90.ipt",
+      "expected_sha256": "5627f4caf7cd1708b5af05c846f430d63ab2da8578bb3b2f9488b96a7c3dcaa9",
+      "actual_sha256": "5627f4caf7cd1708b5af05c846f430d63ab2da8578bb3b2f9488b96a7c3dcaa9",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/TAPA_RODAMIENTO_ENCODER_J6_FRONTAL_V1.ipt",
+      "expected_sha256": "5f8689cbcb9a00b3891b4b09d980ba732f6ac1c9adb5b1281d539c42574946ef",
+      "actual_sha256": "5f8689cbcb9a00b3891b4b09d980ba732f6ac1c9adb5b1281d539c42574946ef",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/TAPA_RODAMIENTO_ENCODER_J6_POSTERIOR_V1.ipt",
+      "expected_sha256": "f2ad002a740555a732d4df542de17d077a55d4eec8af69e266e2ce163157b046",
+      "actual_sha256": "f2ad002a740555a732d4df542de17d077a55d4eec8af69e266e2ce163157b046",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/TAPA_RODAMIENTO_J4_DELANTERO_V1.ipt",
+      "expected_sha256": "37b86a7fd95431ba396ddb50f91e9e3f310094054b9dd7b0d428e9681a96ffd3",
+      "actual_sha256": "37b86a7fd95431ba396ddb50f91e9e3f310094054b9dd7b0d428e9681a96ffd3",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/TOPE_J1_HOME_ATORNILLADO_V2.ipt",
+      "expected_sha256": "754ab285e0c88e93c594c7d2b7c28a5836e89d7dcd35844bddfaf4583dbb8e90",
+      "actual_sha256": "754ab285e0c88e93c594c7d2b7c28a5836e89d7dcd35844bddfaf4583dbb8e90",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/TOPE_J3_HOME_ATORNILLADO_V2.ipt",
+      "expected_sha256": "37660173e78162b44b852f311b4401f520073fb54ca7428b7bd47c5843618d7d",
+      "actual_sha256": "37660173e78162b44b852f311b4401f520073fb54ca7428b7bd47c5843618d7d",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/TOPE_J4_HOME_ATORNILLADO_V2.ipt",
+      "expected_sha256": "a49d055f7c930ea437fb2c4d0c49e5b956ea75229ce7a0cf1ce044688a35bcf2",
+      "actual_sha256": "a49d055f7c930ea437fb2c4d0c49e5b956ea75229ce7a0cf1ce044688a35bcf2",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/TOPE_J5_HOME_ATORNILLADO_V2.ipt",
+      "expected_sha256": "d2bdcdf8354b1ab3f9010cdf7096805abdd0be9fff616a35b980ed5519ff1bed",
+      "actual_sha256": "d2bdcdf8354b1ab3f9010cdf7096805abdd0be9fff616a35b980ed5519ff1bed",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/TOPE_J6_HOME_ATORNILLADO_V2.ipt",
+      "expected_sha256": "ae67deb0091aeadbf42d6eaa68abed0f9a5d824083f79be7a8a81d878f22a649",
+      "actual_sha256": "ae67deb0091aeadbf42d6eaa68abed0f9a5d824083f79be7a8a81d878f22a649",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/TOPE_POSITIVO_J2_5_25DEG_V1.ipt",
+      "expected_sha256": "b4b2f0a2d3f528c2dad04079558e0f0232a1afdc7d6e0d21a218a93223aa65a4",
+      "actual_sha256": "b4b2f0a2d3f528c2dad04079558e0f0232a1afdc7d6e0d21a218a93223aa65a4",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/TRAVESANO_ANTEBRAZO.ipt",
+      "expected_sha256": "a4227781f2df40ceb101017e7cfbef9d7df9462a62bddaf978894fcd2b6b0f9b",
+      "actual_sha256": "a4227781f2df40ceb101017e7cfbef9d7df9462a62bddaf978894fcd2b6b0f9b",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/TRAVESANO_BRAZO_22.ipt",
+      "expected_sha256": "88feaf74af7d47130e7eaee1ea603b0521d7e5724f03910918c706cbefac1ab7",
+      "actual_sha256": "88feaf74af7d47130e7eaee1ea603b0521d7e5724f03910918c706cbefac1ab7",
+      "matches": true
+    },
+    {
+      "path": "03_Piezas/TRAVESANO_BRAZO_V02.ipt",
+      "expected_sha256": "1a02e54c033945bef8d1bcaac42f1b089f76105832c0219ce64b28c547d4944c",
+      "actual_sha256": "1a02e54c033945bef8d1bcaac42f1b089f76105832c0219ce64b28c547d4944c",
+      "matches": true
+    },
+    {
+      "path": "04_Ensamblajes/ANTEBRAZO_SUBASSEMBLY.iam",
+      "expected_sha256": "47a22348e551ae7e54460e2e2beaefdba364b8166743f5c917b431142ea27269",
+      "actual_sha256": "47a22348e551ae7e54460e2e2beaefdba364b8166743f5c917b431142ea27269",
+      "matches": true
+    },
+    {
+      "path": "04_Ensamblajes/BASE_SUBASSEMBLY.iam",
+      "expected_sha256": "526514ce85f26b081e737626166186f1221ac034211ca9dc9e94e6f31b2f3d52",
+      "actual_sha256": "526514ce85f26b081e737626166186f1221ac034211ca9dc9e94e6f31b2f3d52",
+      "matches": true
+    },
+    {
+      "path": "04_Ensamblajes/BRAZO_SUBASSEMBLY.iam",
+      "expected_sha256": "706a33d7d11410158f594490141e40e38ec7b0d9d85b7a252c9ef0c2e19baea2",
+      "actual_sha256": "706a33d7d11410158f594490141e40e38ec7b0d9d85b7a252c9ef0c2e19baea2",
+      "matches": true
+    },
+    {
+      "path": "04_Ensamblajes/BRIDA_J6_SUBASSEMBLY.iam",
+      "expected_sha256": "03acf49d198307658307ab9a36e10ed22a30ac1c46eb2458a324f2ee008a895c",
+      "actual_sha256": "03acf49d198307658307ab9a36e10ed22a30ac1c46eb2458a324f2ee008a895c",
+      "matches": true
+    },
+    {
+      "path": "04_Ensamblajes/HOMBRO_SUBASSEMBLY.iam",
+      "expected_sha256": "2b3c663b66dd5be2ea210f65a38983b6a4ccb9fd01220a725147654f7d07b2fe",
+      "actual_sha256": "2b3c663b66dd5be2ea210f65a38983b6a4ccb9fd01220a725147654f7d07b2fe",
+      "matches": true
+    },
+    {
+      "path": "04_Ensamblajes/MUNECA_J4_SUBASSEMBLY.iam",
+      "expected_sha256": "a9d36b95abf274abff16b5e378d1ac3c2675dd02de3fda435f666cb2ef8fa530",
+      "actual_sha256": "a9d36b95abf274abff16b5e378d1ac3c2675dd02de3fda435f666cb2ef8fa530",
+      "matches": true
+    },
+    {
+      "path": "04_Ensamblajes/MUNECA_J5_SUBASSEMBLY.iam",
+      "expected_sha256": "c002c3e5d15d38fd8d8632d04ad6c005532c26c162c50e4efb4da4ea4f7374b6",
+      "actual_sha256": "c002c3e5d15d38fd8d8632d04ad6c005532c26c162c50e4efb4da4ea4f7374b6",
+      "matches": true
+    },
+    {
+      "path": "04_Ensamblajes/ROBOT_6DOF.iam",
+      "expected_sha256": "f34b42fb64ab4f41a4c42ffe78941a89a194f16ff3b723c42bc08df1d32f08bf",
+      "actual_sha256": "f34b42fb64ab4f41a4c42ffe78941a89a194f16ff3b723c42bc08df1d32f08bf",
+      "matches": true
+    }
+  ]
+}

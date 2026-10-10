@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="robot_6dof">
+  <!-- Source: supplied Inventor export, verified manifest. All joint axes are local +Z.
+       q=0 is the horizontal nominal CAD pose, NOT the saved HOME pose.
+       Effort and velocity are zero by user request; not a hardware control configuration. -->
+  <xacro:arg name="parameters_file" default="../config/robot_parameters.yaml"/>
+  <xacro:arg name="mesh_prefix" default="package://robot_description/meshes"/>
+  <xacro:property name="cfg" value="${xacro.load_yaml('$(arg parameters_file)')}"/>
+  <xacro:include filename="cad_macros.xacro"/>
+  <!-- A massless root avoids the KDL root-inertia limitation. -->
+  <link name="base_link"/>
+  <joint name="base_mount" type="fixed">
+    <parent link="base_link"/><child link="base_body"/><origin xyz="0 0 0" rpy="0 0 0"/>
+  </joint>
+  <xacro:cad_link name="base_body" data="${cfg['links']['base_body']}"/>
+  <xacro:cad_link name="link_1" data="${cfg['links']['link_1']}"/>
+  <xacro:cad_link name="link_2" data="${cfg['links']['link_2']}"/>
+  <xacro:cad_link name="link_3" data="${cfg['links']['link_3']}"/>
+  <xacro:cad_link name="link_4" data="${cfg['links']['link_4']}"/>
+  <xacro:cad_link name="link_5" data="${cfg['links']['link_5']}"/>
+  <xacro:cad_link name="link_6" data="${cfg['links']['link_6']}"/>
+  <xacro:cad_joint name="joint_1" data="${cfg['joints']['joint_1']}"/>
+  <xacro:cad_joint name="joint_2" data="${cfg['joints']['joint_2']}"/>
+  <xacro:cad_joint name="joint_3" data="${cfg['joints']['joint_3']}"/>
+  <xacro:cad_joint name="joint_4" data="${cfg['joints']['joint_4']}"/>
+  <xacro:cad_joint name="joint_5" data="${cfg['joints']['joint_5']}"/>
+  <xacro:cad_joint name="joint_6" data="${cfg['joints']['joint_6']}"/>
+  <!-- Flange mounting face: CAD nominal X=+9 mm relative to J6.
+       This is a flange frame, not a calibrated tool TCP. -->
+  <link name="tool0"/>
+  <joint name="flange_to_tool0" type="fixed">
+    <parent link="link_6"/><child link="tool0"/>
+    <origin xyz="0 0 0.009" rpy="0 0 0"/>
+  </joint>
+</robot>
