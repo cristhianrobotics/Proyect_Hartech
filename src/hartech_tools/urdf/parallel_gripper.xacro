@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro">
+<xacro:macro name="hartech_parallel" params="parent gazebo:=false">
+<joint name="hartech_tool_mount" type="fixed"><parent link="${parent}"/><child link="hartech_gripper_base"/><origin xyz="0 0 0" rpy="0 -1.5707963267948966 0"/></joint>
+<link name="hartech_gripper_base"><inertial><origin xyz="0.0358491384746 -0.00327664395148 0.000195437885328"/><mass value="0.214200183275255"/><inertia ixx="0.000297273068727058" iyy="0.000167206130314295" izz="0.000351263969996133" ixy="-4.78922948759856e-06" ixz="-1.92014013503536e-07" iyz="-1.93419273648448e-08"/></inertial>
+<visual name="part_000"><geometry><mesh filename="package://hartech_tools/meshes/part_000.dae"/></geometry></visual>
+<collision name="collision_part_000"><origin xyz="0.00300000002608 2.43596732616e-05 0"/><geometry><box size="0.00600000005215 0.0399512797594 0.0399756319821"/></geometry></collision>
+<visual name="part_001"><geometry><mesh filename="package://hartech_tools/meshes/part_001.dae"/></geometry></visual>
+<visual name="part_002"><geometry><mesh filename="package://hartech_tools/meshes/part_002.dae"/></geometry></visual>
+<visual name="part_003"><geometry><mesh filename="package://hartech_tools/meshes/part_003.dae"/></geometry></visual>
+<visual name="part_004"><geometry><mesh filename="package://hartech_tools/meshes/part_004.dae"/></geometry></visual>
+<visual name="part_021"><geometry><mesh filename="package://hartech_tools/meshes/part_021.dae"/></geometry></visual>
+<visual name="part_022"><geometry><mesh filename="package://hartech_tools/meshes/part_022.dae"/></geometry></visual>
+<visual name="part_023"><geometry><mesh filename="package://hartech_tools/meshes/part_023.dae"/></geometry></visual>
+<visual name="part_024"><geometry><mesh filename="package://hartech_tools/meshes/part_024.dae"/></geometry></visual>
+<visual name="part_025"><geometry><mesh filename="package://hartech_tools/meshes/part_025.dae"/></geometry></visual>
+<visual name="part_026"><geometry><mesh filename="package://hartech_tools/meshes/part_026.dae"/></geometry></visual>
+<visual name="part_027"><geometry><mesh filename="package://hartech_tools/meshes/part_027.dae"/></geometry></visual>
+<visual name="part_028"><geometry><mesh filename="package://hartech_tools/meshes/part_028.dae"/></geometry></visual>
+<visual name="part_029"><geometry><mesh filename="package://hartech_tools/meshes/part_029.dae"/></geometry></visual>
+<visual name="part_030"><geometry><mesh filename="package://hartech_tools/meshes/part_030.dae"/></geometry></visual>
+<visual name="part_031"><geometry><mesh filename="package://hartech_tools/meshes/part_031.dae"/></geometry></visual>
+<visual name="part_037"><geometry><mesh filename="package://hartech_tools/meshes/part_037.dae"/></geometry></visual>
+<visual name="part_038"><geometry><mesh filename="package://hartech_tools/meshes/part_038.dae"/></geometry></visual>
+<visual name="part_039"><geometry><mesh filename="package://hartech_tools/meshes/part_039.dae"/></geometry></visual>
+<visual name="part_040"><geometry><mesh filename="package://hartech_tools/meshes/part_040.dae"/></geometry></visual>
+<visual name="part_041"><geometry><mesh filename="package://hartech_tools/meshes/part_041.dae"/></geometry></visual>
+<visual name="part_042"><geometry><mesh filename="package://hartech_tools/meshes/part_042.dae"/></geometry></visual>
+<visual name="part_043"><geometry><mesh filename="package://hartech_tools/meshes/part_043.dae"/></geometry></visual>
+<visual name="part_044"><geometry><mesh filename="package://hartech_tools/meshes/part_044.dae"/></geometry></visual>
+<visual name="part_045"><geometry><mesh filename="package://hartech_tools/meshes/part_045.dae"/></geometry></visual>
+<collision name="collision_part_045"><origin xyz="0.0394999987911 0 0"/><geometry><box size="0.0729999975301 0.115999996662 0.0560000017285"/></geometry></collision>
+<visual name="part_046"><geometry><mesh filename="package://hartech_tools/meshes/part_046.dae"/></geometry></visual>
+<visual name="part_047"><geometry><mesh filename="package://hartech_tools/meshes/part_047.dae"/></geometry></visual>
+<visual name="part_048"><geometry><mesh filename="package://hartech_tools/meshes/part_048.dae"/></geometry></visual>
+<visual name="part_049"><geometry><mesh filename="package://hartech_tools/meshes/part_049.dae"/></geometry></visual>
+<visual name="part_050"><geometry><mesh filename="package://hartech_tools/meshes/part_050.dae"/></geometry></visual>
+<visual name="part_051"><geometry><mesh filename="package://hartech_tools/meshes/part_051.dae"/></geometry></visual>
+<visual name="part_052"><geometry><mesh filename="package://hartech_tools/meshes/part_052.dae"/></geometry></visual>
+<visual name="part_053"><geometry><mesh filename="package://hartech_tools/meshes/part_053.dae"/></geometry></visual>
+</link>
+<gazebo reference="hartech_gripper_base"><selfCollide>false</selfCollide><mu1>0.8</mu1><mu2>0.8</mu2></gazebo>
+<link name="hartech_left_finger"><inertial><origin xyz="0.0752172207415 0.00644740197896 0.00152241481453"/><mass value="0.0230238202565106"/><inertia ixx="4.43604672281099e-06" iyy="8.09873416849513e-06" izz="7.06494397259246e-06" ixy="-8.42487348712716e-08" ixz="6.2745567101044e-07" iyz="4.52237268057878e-07"/></inertial>
+<visual name="part_005"><geometry><mesh filename="package://hartech_tools/meshes/part_005.dae"/></geometry></visual>
+<visual name="part_006"><geometry><mesh filename="package://hartech_tools/meshes/part_006.dae"/></geometry></visual>
+<collision name="collision_part_006"><origin xyz="0.0659999977797 0.010000000475 0"/><geometry><box size="0.0119999982417 0.0140000008978 0.0439999997616"/></geometry></collision>
+<visual name="part_007"><geometry><mesh filename="package://hartech_tools/meshes/part_007.dae"/></geometry></visual>
+<collision name="collision_part_007"><origin xyz="0.0920000001788 0.00950000050943 0"/><geometry><box size="0.0400000065565 0.0150000008289 0.0439999997616"/></geometry></collision>
+<visual name="part_008"><geometry><mesh filename="package://hartech_tools/meshes/part_008.dae"/></geometry></visual>
+<collision name="collision_part_008"><origin xyz="0.10000000149 0.0010000000475 0"/><geometry><box size="0.0240000039339 0.00200000009499 0.019999999553"/></geometry></collision>
+<visual name="part_009"><geometry><mesh filename="package://hartech_tools/meshes/part_009.dae"/></geometry></visual>
+<visual name="part_010"><geometry><mesh filename="package://hartech_tools/meshes/part_010.dae"/></geometry></visual>
+<visual name="part_011"><geometry><mesh filename="package://hartech_tools/meshes/part_011.dae"/></geometry></visual>
+<visual name="part_012"><geometry><mesh filename="package://hartech_tools/meshes/part_012.dae"/></geometry></visual>
+</link>
+<gazebo reference="hartech_left_finger"><selfCollide>false</selfCollide><mu1>0.8</mu1><mu2>0.8</mu2></gazebo>
+<link name="hartech_right_finger"><inertial><origin xyz="0.0752172207415 -0.00644740197896 -0.00152241481453"/><mass value="0.0230238202565106"/><inertia ixx="4.43604672281099e-06" iyy="8.09873416849513e-06" izz="7.06494397259246e-06" ixy="8.42487348712716e-08" ixz="-6.2745567101044e-07" iyz="4.52237268057878e-07"/></inertial>
+<visual name="part_013"><geometry><mesh filename="package://hartech_tools/meshes/part_013.dae"/></geometry></visual>
+<visual name="part_014"><geometry><mesh filename="package://hartech_tools/meshes/part_014.dae"/></geometry></visual>
+<collision name="collision_part_014"><origin xyz="0.0659999977797 -0.010000000475 0"/><geometry><box size="0.0119999982417 0.0140000008978 0.0439999997616"/></geometry></collision>
+<visual name="part_015"><geometry><mesh filename="package://hartech_tools/meshes/part_015.dae"/></geometry></visual>
+<collision name="collision_part_015"><origin xyz="0.0920000001788 -0.00950000050943 0"/><geometry><box size="0.0400000065565 0.0150000008289 0.0439999997616"/></geometry></collision>
+<visual name="part_016"><geometry><mesh filename="package://hartech_tools/meshes/part_016.dae"/></geometry></visual>
+<collision name="collision_part_016"><origin xyz="0.10000000149 -0.0010000000475 0"/><geometry><box size="0.0240000039339 0.00200000009499 0.019999999553"/></geometry></collision>
+<visual name="part_017"><geometry><mesh filename="package://hartech_tools/meshes/part_017.dae"/></geometry></visual>
+<visual name="part_018"><geometry><mesh filename="package://hartech_tools/meshes/part_018.dae"/></geometry></visual>
+<visual name="part_019"><geometry><mesh filename="package://hartech_tools/meshes/part_019.dae"/></geometry></visual>
+<visual name="part_020"><geometry><mesh filename="package://hartech_tools/meshes/part_020.dae"/></geometry></visual>
+</link>
+<gazebo reference="hartech_right_finger"><selfCollide>false</selfCollide><mu1>0.8</mu1><mu2>0.8</mu2></gazebo>
+<link name="hartech_rotor"><inertial><origin xyz="0.0561132015639 5.77898057378e-13 -2.4367018498e-18"/><mass value="0.00573563960269977"/><inertia ixx="2.36125564482952e-07" iyy="1.93916981767881e-07" izz="1.6256847409325e-07" ixy="1.27521266278035e-17" ixz="-2.30078647397116e-22" iyz="5.28463305276099e-23"/></inertial>
+<visual name="part_032"><geometry><mesh filename="package://hartech_tools/meshes/part_032.dae"/></geometry></visual>
+<visual name="part_033"><geometry><mesh filename="package://hartech_tools/meshes/part_033.dae"/></geometry></visual>
+<visual name="part_034"><geometry><mesh filename="package://hartech_tools/meshes/part_034.dae"/></geometry></visual>
+<visual name="part_035"><geometry><mesh filename="package://hartech_tools/meshes/part_035.dae"/></geometry></visual>
+<visual name="part_036"><geometry><mesh filename="package://hartech_tools/meshes/part_036.dae"/></geometry></visual>
+</link>
+<gazebo reference="hartech_rotor"><selfCollide>false</selfCollide><mu1>0.8</mu1><mu2>0.8</mu2></gazebo>
+<joint name="hartech_left_finger_joint" type="prismatic"><parent link="hartech_gripper_base"/><child link="hartech_left_finger"/><axis xyz="0 1 0"/><limit lower="0" upper="0.025" effort="20" velocity="0.025"/><dynamics damping="0.1" friction="0"/>
+</joint>
+<joint name="hartech_right_finger_joint" type="prismatic"><parent link="hartech_gripper_base"/><child link="hartech_right_finger"/><axis xyz="0 -1 0"/><limit lower="0" upper="0.025" effort="20" velocity="0.025"/><dynamics damping="0.1" friction="0"/>
+<mimic joint="hartech_left_finger_joint" multiplier="1" offset="0"/>
+</joint>
+<joint name="hartech_rotor_joint" type="revolute"><parent link="hartech_gripper_base"/><child link="hartech_rotor"/><axis xyz="1 0 0"/><limit lower="-2.5" upper="0" effort="0.2" velocity="2.5"/><mimic joint="hartech_left_finger_joint" multiplier="-100" offset="0"/><dynamics damping="0.001"/></joint>
+<link name="hartech_tcp"/><joint name="hartech_tcp_joint" type="fixed"><parent link="hartech_gripper_base"/><child link="hartech_tcp"/><origin xyz="0.1 0 0" rpy="0 1.5707963267948966 0"/></joint>
+<xacro:if value="${gazebo}"><ros2_control name="HartechGripperSystem" type="system"><hardware><plugin>gazebo_ros2_control/GazeboSystem</plugin></hardware>
+<joint name="hartech_left_finger_joint">
+<command_interface name="position"/><state_interface name="position"><param name="initial_value">0.015</param></state_interface><state_interface name="velocity"/><state_interface name="effort"/></joint>
+<joint name="hartech_right_finger_joint">
+<param name="mimic">hartech_left_finger_joint</param><param name="multiplier">1</param>
+<command_interface name="position"/><state_interface name="position"><param name="initial_value">0.015</param></state_interface><state_interface name="velocity"/><state_interface name="effort"/></joint>
+<joint name="hartech_rotor_joint">
+<param name="mimic">hartech_left_finger_joint</param><param name="multiplier">-100</param>
+<command_interface name="position"/><state_interface name="position"><param name="initial_value">-1.5</param></state_interface><state_interface name="velocity"/><state_interface name="effort"/></joint>
+</ros2_control></xacro:if></xacro:macro></robot>

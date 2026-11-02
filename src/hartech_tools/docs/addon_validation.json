@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-14",
+  "runtime_ros_gazebo": "NOT RUN",
+  "package_build_colcon": "NOT RUN",
+  "cases": [
+    {
+      "gazebo": false,
+      "tool": "parallel",
+      "pose": "home",
+      "links": 14,
+      "joints": 13,
+      "arm_unchanged": true,
+      "tree_meshes_inertia": "PASS"
+    },
+    {
+      "gazebo": false,
+      "tool": "parallel",
+      "pose": "zero",
+      "links": 14,
+      "joints": 13,
+      "arm_unchanged": true,
+      "tree_meshes_inertia": "PASS"
+    },
+    {
+      "gazebo": false,
+      "tool": "none",
+      "pose": "home",
+      "links": 9,
+      "joints": 8,
+      "arm_unchanged": true,
+      "tree_meshes_inertia": "PASS"
+    },
+    {
+      "gazebo": false,
+      "tool": "none",
+      "pose": "zero",
+      "links": 9,
+      "joints": 8,
+      "arm_unchanged": true,
+      "tree_meshes_inertia": "PASS"
+    },
+    {
+      "gazebo": true,
+      "tool": "parallel",
+      "pose": "home",
+      "links": 15,
+      "joints": 14,
+      "arm_unchanged": true,
+      "tree_meshes_inertia": "PASS"
+    },
+    {
+      "gazebo": true,
+      "tool": "parallel",
+      "pose": "zero",
+      "links": 15,
+      "joints": 14,
+      "arm_unchanged": true,
+      "tree_meshes_inertia": "PASS"
+    },
+    {
+      "gazebo": true,
+      "tool": "none",
+      "pose": "home",
+      "links": 10,
+      "joints": 9,
+      "arm_unchanged": true,
+      "tree_meshes_inertia": "PASS"
+    },
+    {
+      "gazebo": true,
+      "tool": "none",
+      "pose": "zero",
+      "links": 10,
+      "joints": 9,
+      "arm_unchanged": true,
+      "tree_meshes_inertia": "PASS"
+    }
+  ],
+  "pad_gap_m": {
+    "0": 0.0,
+    "12.5": 0.0125,
+    "25": 0.025,
+    "30": 0.03,
+    "37.5": 0.0375,
+    "50": 0.05
+  },
+  "mass_kg": 0.26598346339097645,
+  "cad_mass_sum_matches_assembly": true,
+  "opening_input_tests": "PASS: 3 valid, 6 invalid",
+  "arm_controller_unchanged": true,
+  "all_original_files_byte_identical": true
+}

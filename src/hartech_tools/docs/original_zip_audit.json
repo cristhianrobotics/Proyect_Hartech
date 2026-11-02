@@ -1,0 +1,577 @@
+{
+  "date": "2026-10-14",
+  "runtime_ros_gazebo": "NOT RUN: unavailable",
+  "files": [
+    {
+      "path": "Proyect_Hartech-main/.gitignore",
+      "bytes": 266,
+      "sha256": "f26182cd31c52958a42419e2187fdabf527a299eaf999814ffc6eaf44535ff12"
+    },
+    {
+      "path": "Proyect_Hartech-main/LICENSE",
+      "bytes": 1073,
+      "sha256": "3bdcfb5c630b2ac67efef49477fcedc65acf9382e352f7223881d32f437f761c"
+    },
+    {
+      "path": "Proyect_Hartech-main/README.md",
+      "bytes": 8411,
+      "sha256": "aea6dbeebb6f96474bd60a9795dbf74f34c99d6baf5d581bed0caad614429376"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_control/LICENSE",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_control/fkine_functions.py",
+      "bytes": 2478,
+      "sha256": "f638a429456fb8a66ce0c713e430ec8bd761d64c0612e04ce5560ee689e845af"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_control/ikine_functions.py",
+      "bytes": 5617,
+      "sha256": "5b42fccc8a7aa2c79da544d171913e4e3e60d78358fe356b4758a571b8cb3449"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_control/markers.py",
+      "bytes": 8470,
+      "sha256": "351031341d63a2c215b7f4a0680cebd7d6eee51263d9b65438a8c46769337143"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_control/package.xml",
+      "bytes": 627,
+      "sha256": "b79fa0904d77092ceed1b059be631f303737fc75f444147866fc5946c55359f7"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_control/resource/robot_control",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_control/robot_control/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_control/robot_control/test_dynamics.py",
+      "bytes": 3955,
+      "sha256": "06ebfa521f3d801d4082eb787eb6240242a1afb9af43e60c8c16f86c976ff624"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_control/robot_control/test_forward_dynamics.py",
+      "bytes": 2761,
+      "sha256": "df09e15b3b264c49b3fcea61414ded70c98039199f2fb501be211306b91e8daa"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_control/robot_control/test_forward_gazebo.py",
+      "bytes": 10598,
+      "sha256": "4371753c7dd399d60d740eb621b66d5fb1bacbeda9f38f5e8a92b5d2ed38792f"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_control/robot_control/test_forward_kinematic.py",
+      "bytes": 2709,
+      "sha256": "2558d91a9ed38960507d3a547d42455f6767efa90c6357deeef4f829f41e64b8"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_control/robot_control/test_inverse_gazebo.py",
+      "bytes": 13370,
+      "sha256": "75cfba465bb99fa8944219ca97022fe1ae9ab1e2c216da38b8903cf8aab4c857"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_control/robot_control/test_inverse_kinematics.py",
+      "bytes": 4014,
+      "sha256": "f781ec64a8ced6c008778a10e53fff9a01504f0d0087b5019b99c09126a1bdbe"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_control/setup.cfg",
+      "bytes": 95,
+      "sha256": "bec498e43a8cc96caaeab48b6d1c589082f61e27c5d16917f31ec4a52016f730"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_control/setup.py",
+      "bytes": 1361,
+      "sha256": "764bb87c76ff5642b6294d1f2b971cb5fc7251869b82222e20e3dfe746db3a05"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_control/test/test_copyright.py",
+      "bytes": 962,
+      "sha256": "ea71bbbc6247b5c14d176ed09f39ee274d563cc9b2ec355828ea451ceff31757"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_control/test/test_flake8.py",
+      "bytes": 884,
+      "sha256": "37a813a0507f0ce51a2d0b57312d2cc078a0307a3ca85580ea801b0d2f9755d2"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_control/test/test_pep257.py",
+      "bytes": 803,
+      "sha256": "e8b88d49ee296987b1b40069f81019b5fa09b1aa1bfee9a1faae45bb5cf53eda"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/CMakeLists.txt",
+      "bytes": 1336,
+      "sha256": "5b730ee17e7fec713547ac26947430abed3718049b8f8e5242ae9fb8107c2163"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/LICENSE",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/README.md",
+      "bytes": 11583,
+      "sha256": "9ccbb52b19b7a80a2645a059c419429a984349c658cf719024800ed3faccb358"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/config/gazebo_controllers.yaml",
+      "bytes": 1118,
+      "sha256": "b0cb9c01acbf1129479cca41583651aa8b6a07bf03207d63b5b9fc48dc4d050d"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/config/gazebo_simulation.yaml",
+      "bytes": 2687,
+      "sha256": "b6b91932e8e3781f1c050c07c8baca6a5ec0a07057c89a787d3523277da859f5"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/config/robot_parameters.yaml",
+      "bytes": 4273,
+      "sha256": "ec40d058fa9bb64a93541191821aa8ba435edcda92a042045b233aef0e5b8663"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/GAZEBO_CLASSIC_11.md",
+      "bytes": 8508,
+      "sha256": "1dc5f9e856ed3b37cef1ea3c388a7db1b4fb92e4ea6a00f3842d7a30e95f233a"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/MIGRACION.md",
+      "bytes": 5198,
+      "sha256": "0fc05994719bbecc83a8e93c64585eb13d6e3290fff76ff6912a0ba306db40ba"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/base_body_colors.npz",
+      "bytes": 3144,
+      "sha256": "57565a3afb9051605222a6b8adf2ec6ad61479becbe140da0e462c2cf0bde460"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/color_audit.json",
+      "bytes": 152086,
+      "sha256": "6b406810f8d61ce92f9f9f6d800de2bba120d81e102c7e15db3c433c590bf923"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/color_only_verification.json",
+      "bytes": 600,
+      "sha256": "8e47b409aed892487d2af55ea46b90feea9f93c15046b34915e24c1789dc5a1f"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/delivery_manifest.json",
+      "bytes": 14497,
+      "sha256": "e79fc0e9e0efe63ded5f034ecc6e033b2d9cc844caf58bc810e22101b753c34b"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/gazebo_validation.json",
+      "bytes": 2485,
+      "sha256": "e854b0021d03fbce18460a1b3fc40ee31be360949b632de2fafb95fb76e62b16"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/link_1_colors.npz",
+      "bytes": 3315,
+      "sha256": "7d93d3a2217dab1c4259db9786d799450db2d7757f4943757595eeca249d28a5"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/link_2_colors.npz",
+      "bytes": 3268,
+      "sha256": "d9c6ea85a1718b01af379b46bacae6425e4113171b329b26039d3618eac8f342"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/link_3_colors.npz",
+      "bytes": 2127,
+      "sha256": "b5e1695404af85558cf1bac31c1e8789248aa23829898c2563191816a8cd1bf6"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/link_4_colors.npz",
+      "bytes": 1881,
+      "sha256": "1c771795e3243b2d7cc6665db7c4d6cd1ea3073087da36706475b7edbe1f1d98"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/link_5_colors.npz",
+      "bytes": 1863,
+      "sha256": "f304bddc4da50e8673ee8beeb703b874e4968d9c425af78939e3cfb0690bd164"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/link_6_colors.npz",
+      "bytes": 1255,
+      "sha256": "3088e3f1ae2785ff00ce4a9b402a396d3e06c8ba91b0c76704f24f72a6d43eff"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/mesh_audit.json",
+      "bytes": 147892,
+      "sha256": "efa86fed3a690f52cf0d8a8a1305602ef0ce799fe195ec741fc0bb4c9bc8757d"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/mesh_topology.json",
+      "bytes": 958,
+      "sha256": "8e6f97c8002ca9c3818934ae2d4b30283f283e4feebc17ec7d08825544fb9098"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/migration_validation.json",
+      "bytes": 7952,
+      "sha256": "ff5d16b8ec94af6c8a069c2448f7f6e01ab09b1896972aee76b82df1bc1f734d"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/nominal_frames.json",
+      "bytes": 2110,
+      "sha256": "5952cc3261046ea22a2e9709bea66d771da6f5f008732e625c5e53bdf7876a6b"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/robot_preview.png",
+      "bytes": 143958,
+      "sha256": "b9e4c14cf3f4f542812c55afb3e400666a664e19d5f79f1361a3d22f1494bf81"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/source_audit.json",
+      "bytes": 133674,
+      "sha256": "12aff0ed51513138670376cc12c5d7abb8f44f6f2866cbffb7c52851926e67b7"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/source_export_log.txt",
+      "bytes": 539,
+      "sha256": "4b2b7fba85c2355b157621d1d94527ac4986c7ab1f1d327f3e3cd4b32fb2ba30"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/sources/CORRECCION_PROPIEDADES_FISICAS_V2.md",
+      "bytes": 4119,
+      "sha256": "37179d6af8a2cdb929c79cf11079e65281e2a9dc63d8cae7f330cd2548b5550e"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/sources/DECISIONES_DISENO.md",
+      "bytes": 12663,
+      "sha256": "8d0e70c80fb5e44670b5ddbec0b5067b6fbbf8cc0d574cd42abddeb6e89f194c"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/sources/GEOMETRIA_FINAL_JOINTS.csv",
+      "bytes": 1035,
+      "sha256": "4e36691b805fca82144091180cae4c12ac2a5b024f8a3fe9c2cad52c1057bf23"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/sources/INERCIAS_API_AUDITORIA_FINAL.csv",
+      "bytes": 1938,
+      "sha256": "26d7dba119c68de581d54f2dd50ff1bc276ed67056a2d2142cf92b7ed2207786"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/sources/INVENTARIO_ARCHIVOS_ACTIVOS.csv",
+      "bytes": 86005,
+      "sha256": "7e3d47a60c689f7c0c147508997e08a49c822893ac6925d67f6f65b07e1a5d6b"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/sources/INVENTARIO_OCURRENCIAS_ACTIVAS.csv",
+      "bytes": 98877,
+      "sha256": "608dccf013e6d8bba683948b2ec3d755965f4bdd1e4743cafb1278bebaf45d7f"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/sources/LIMITES_ARTICULARES.md",
+      "bytes": 7867,
+      "sha256": "2b2c2ad0d07a46aab1811d81019df04f8a6904652b5ccf6bc4e0186b91f4953f"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/sources/POSES_VERIFICADAS.csv",
+      "bytes": 270,
+      "sha256": "0f4e94f47deb4b45e1f061fbd00cf41c3dc40841bd22ca9f117f4e9aa35af6e1"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/sources/PROPIEDADES_INERCIALES.csv",
+      "bytes": 2201,
+      "sha256": "2b1e55b4f115f1d787d4331f418b77e3dc16444b6e2c0b48d9206b38ebcc6e45"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/sources/RobotBuild.cs",
+      "bytes": 14848,
+      "sha256": "659560205e18407df31ccc24a746341db5ea5aeb02397088244ce4510b399c75"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/sources/RobotPhysicalExportV2.cs",
+      "bytes": 6391,
+      "sha256": "f1df51cc391ed3b516862341bfa0c27d84db1cfe690ec51909ff316843f33c48"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/step_structure.json",
+      "bytes": 4439,
+      "sha256": "33ab87d39f5733f571065106fb971bf47ec9e36dc7b74de45c91a865de4671e6"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/docs/validation.json",
+      "bytes": 2638,
+      "sha256": "6aca3015ddd9ebdc8f51d8bccd07e761cc6c0b1185eace538ada64bda47cc9d5"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/launch/display.launch.py",
+      "bytes": 1943,
+      "sha256": "044e042c6df2d52316b34c0864c1c6af415c38120c8575c97a7f9229b1653089"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/launch/display_control.launch.py",
+      "bytes": 1262,
+      "sha256": "1c847cefce57e0f569d8388d8fe9557f23010848d8a11b2bc7d903228a1c27e4"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/launch/gazebo.launch.py",
+      "bytes": 5887,
+      "sha256": "23b13231e5b9509f409df8680d62dd7f68051f0e8d99f3bbe79ef8f90732199e"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/meshes/base_body.dae",
+      "bytes": 49328635,
+      "sha256": "9c3694914877474e4d30d1ea7811eeabbd48e3967d3205d6d64cc0ad97a49f0b"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/meshes/base_body.stl",
+      "bytes": 28355634,
+      "sha256": "e971dae8b6abdb00412d99f3ca5d09f260a11dba3dc07ebc54862190f12b48f6"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/meshes/link_1.dae",
+      "bytes": 49782713,
+      "sha256": "d6aa37fd0c3a1ca1b4168c590eef960e9c697d8f8ad48b366eb9ae62be502e8b"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/meshes/link_1.stl",
+      "bytes": 28814234,
+      "sha256": "aa63c1584fc251bad094ec3e93b9de206d683e2463f3994204a655d856b3ffe7"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/meshes/link_2.dae",
+      "bytes": 48912558,
+      "sha256": "e4719df290226af81c37481135cf6ab31b5ef495f41f350751976d931e47506b"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/meshes/link_2.stl",
+      "bytes": 28265734,
+      "sha256": "466a4a86449f6d8a6bd6ceb4149289b97e5ae7f4290829e0d178bc21a4aa431e"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/meshes/link_3.dae",
+      "bytes": 8143815,
+      "sha256": "af970a9102779a32f170473bc87ef45a596d9f7dfc0791d31ff21c4e3537a726"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/meshes/link_3.stl",
+      "bytes": 6093384,
+      "sha256": "be19d7aa1fadf54e36f21eceb078803f0e4afd9f060eb6ded4b742b5ff56d0ad"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/meshes/link_4.dae",
+      "bytes": 6644641,
+      "sha256": "2ad9d26fa08897bc0899af8e1e82949bd3e4db12d58c02b7d03db508659cb0d4"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/meshes/link_4.stl",
+      "bytes": 4799884,
+      "sha256": "2dfad04f78ad649ce282753e267e03cadc8625b3e6b8cfb4f714040d7553850e"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/meshes/link_5.dae",
+      "bytes": 5851577,
+      "sha256": "5472767b6fc7a40b9085fc66a86d4c6638f89cf25d7b3eabfd77d7cc96d3253e"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/meshes/link_5.stl",
+      "bytes": 4178484,
+      "sha256": "07a03f17dcb0a89fb9a1fc9ef4e014fe006f19d62a95ed2199ace550aad0591e"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/meshes/link_6.dae",
+      "bytes": 1082354,
+      "sha256": "a9b83d30e3a7e63f2ac50476e9f588fa8c6a038e75e7ef390843c536d0a4b688"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/meshes/link_6.stl",
+      "bytes": 853084,
+      "sha256": "73baabe750c92d2beacb16868b541719dee44afa2c5408b2c2e5573f293481f4"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/package.xml",
+      "bytes": 1561,
+      "sha256": "fcaca9b83ccb2e79200cf65c59491005dc24451107daef921da15050b3f61db7"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/rviz/robot_6dof.rviz",
+      "bytes": 1551,
+      "sha256": "a5323a7e2d172475515ae32f11dde8603c59bea41090686389f1613ab00a3661"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/scripts/audit_sources.py",
+      "bytes": 1289,
+      "sha256": "e9e6912418441b71bd8ac32b73fda3a167d44fd646dcfeca3b4559cea8f33b98"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/scripts/build_description.py",
+      "bytes": 6789,
+      "sha256": "46dda94562616339e30dc108fa701d8da50e15307c329a25ad211d65a333cf49"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/scripts/export_meshes.py",
+      "bytes": 5460,
+      "sha256": "937251ceb9a1239aa900a9e80e294159eb915defc4a7f0581499acef3462fff3"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/scripts/export_visual_colors.py",
+      "bytes": 7865,
+      "sha256": "dac99affe1019908f08736dd4b3c0afae5c05c3fad78db74b0bdf2486f3876df"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/scripts/inspect_step.py",
+      "bytes": 2090,
+      "sha256": "e316a8e6beb95543b4c0d70cea27985ac9ccda877c509c48126d95b413c88da3"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/scripts/regenerate_urdf.py",
+      "bytes": 667,
+      "sha256": "060b0e4c8aa9bb53ae5e8b69d13c5a74e19281eb55d8cccd6d459f951a672fbb"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/scripts/render_preview.py",
+      "bytes": 3864,
+      "sha256": "1ed574e06c521624a8e2afab9c31a6e40a86c79d66204832086cfe8a1edc5bb8"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/scripts/requirements-export.txt",
+      "bytes": 235,
+      "sha256": "59571a0bd88fe62d0411e1110f4ada87ae088ea37943c4151fee30a5be062a1c"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/scripts/send_trajectory.py",
+      "bytes": 6687,
+      "sha256": "961c648f34eedeece4ffe7c299b07f7d546d87d50ae9f6c20f8188dd7da8677c"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/scripts/validate_description.py",
+      "bytes": 7789,
+      "sha256": "feaf3c2b5c7a0523c860cb56236b519cc77a1820b71c8aed5197328d5be270d2"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/urdf/cad_macros.xacro",
+      "bytes": 1483,
+      "sha256": "5578ab01f145dc9caefa84048a977aa43ef005e9849a485d8f481ba780c619bd"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/urdf/gazebo_macros.xacro",
+      "bytes": 2141,
+      "sha256": "0635f9b4157375d7e509d1755f3b93dd673fdb4f3aebd7d24b24945d840e87fa"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/urdf/robot_6dof.gazebo.xacro",
+      "bytes": 3925,
+      "sha256": "46bf232355affdc6243757527b4e19bee02230e327281c372eadf95ec8f324bf"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/urdf/robot_6dof.urdf",
+      "bytes": 9528,
+      "sha256": "7cf1b4ef5616014330627fc5de169e8a2f027a64d048e2a581b8ba5a654eb9af"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/urdf/robot_6dof.urdf.xacro",
+      "bytes": 2116,
+      "sha256": "fc9d7bda1ea680383bd81ec5932037d2a8dcbbf9d9fb371976471d4144ecae61"
+    },
+    {
+      "path": "Proyect_Hartech-main/src/robot_description/worlds/robot_lab.world",
+      "bytes": 1498,
+      "sha256": "a339c148f7f97634df2a5b7158516d5edd4ad7bc9a6e2ae7074f0084d129feed"
+    }
+  ],
+  "zip_crc": "PASS",
+  "python_syntax": {
+    "src\\robot_control\\fkine_functions.py": "PASS",
+    "src\\robot_control\\ikine_functions.py": "PASS",
+    "src\\robot_control\\markers.py": "PASS",
+    "src\\robot_control\\setup.py": "PASS",
+    "src\\robot_control\\robot_control\\test_dynamics.py": "PASS",
+    "src\\robot_control\\robot_control\\test_forward_dynamics.py": "PASS",
+    "src\\robot_control\\robot_control\\test_forward_gazebo.py": "PASS",
+    "src\\robot_control\\robot_control\\test_forward_kinematic.py": "PASS",
+    "src\\robot_control\\robot_control\\test_inverse_gazebo.py": "PASS",
+    "src\\robot_control\\robot_control\\test_inverse_kinematics.py": "PASS",
+    "src\\robot_control\\robot_control\\__init__.py": "PASS",
+    "src\\robot_control\\test\\test_copyright.py": "PASS",
+    "src\\robot_control\\test\\test_flake8.py": "PASS",
+    "src\\robot_control\\test\\test_pep257.py": "PASS",
+    "src\\robot_description\\launch\\display.launch.py": "PASS",
+    "src\\robot_description\\launch\\display_control.launch.py": "PASS",
+    "src\\robot_description\\launch\\gazebo.launch.py": "PASS",
+    "src\\robot_description\\scripts\\audit_sources.py": "PASS",
+    "src\\robot_description\\scripts\\build_description.py": "PASS",
+    "src\\robot_description\\scripts\\export_meshes.py": "PASS",
+    "src\\robot_description\\scripts\\export_visual_colors.py": "PASS",
+    "src\\robot_description\\scripts\\inspect_step.py": "PASS",
+    "src\\robot_description\\scripts\\regenerate_urdf.py": "PASS",
+    "src\\robot_description\\scripts\\render_preview.py": "PASS",
+    "src\\robot_description\\scripts\\send_trajectory.py": "PASS",
+    "src\\robot_description\\scripts\\validate_description.py": "PASS"
+  },
+  "xacro_matches_urdf": true,
+  "dh_vs_urdf": {
+    "cases": 102,
+    "max_position_error_m": 4.652682298944613e-16,
+    "max_rotation_matrix_error": 2.886579864025407e-15,
+    "DH_to_tool0_rotation_at_home": [
+      [
+        0.9999999999999999,
+        -8.043106406733491e-16,
+        1.2487240373778133e-15
+      ],
+      [
+        8.043106406733472e-16,
+        1.0,
+        1.548712157530125e-15
+      ],
+      [
+        -1.363197902569906e-15,
+        -1.548712157530124e-15,
+        0.9999999999999999
+      ]
+    ],
+    "rotation_offset_variation": 4.334709372470428e-15
+  },
+  "quaternion_halfturn_x": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "inertias": {
+    "base_body": [
+      0.013378218080249653,
+      0.014081046955857067,
+      0.018011116183924265
+    ],
+    "link_1": [
+      0.003554451840512245,
+      0.014702344951238724,
+      0.015358741865507975
+    ],
+    "link_2": [
+      0.004412132581738183,
+      0.01611426103576485,
+      0.01889315604743934
+    ],
+    "link_3": [
+      0.001263844759952136,
+      0.0023836264143065845,
+      0.0028143325675188996
+    ],
+    "link_4": [
+      0.0004794487566277457,
+      0.00210121676753638,
+      0.002385461453890537
+    ],
+    "link_5": [
+      0.00032610389182765464,
+      0.0009165676734321313,
+      0.0010608874940695524
+    ],
+    "link_6": [
+      6.849430301289748e-06,
+      8.6071220065625e-06,
+      1.0153065437624568e-05
+    ]
+  }
+}

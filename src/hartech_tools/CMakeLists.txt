@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.8)
+project(hartech_tools)
+find_package(ament_cmake REQUIRED)
+install(DIRECTORY urdf meshes config launch docs DESTINATION share/${PROJECT_NAME})
+install(PROGRAMS scripts/set_opening.py DESTINATION lib/${PROJECT_NAME})
+install(FILES README.md LICENSE DESTINATION share/${PROJECT_NAME})
+ament_package()

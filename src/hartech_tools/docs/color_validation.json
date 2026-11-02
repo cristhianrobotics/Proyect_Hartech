@@ -1,0 +1,1079 @@
+{
+  "scope": "visual colors only",
+  "source": "Inventor native face.Appearance / generic_diffuse, occurrence overrides respected",
+  "color_components": "8-bit RGB values from Autodesk asset API, normalized by 255",
+  "geometry_changed": false,
+  "runtime_rviz_gazebo": "NOT RUN HERE; user confirmed prior package in RViz",
+  "parts": [
+    {
+      "mesh": "part_000",
+      "triangles": 816,
+      "rgb_palette": [
+        [
+          42,
+          50,
+          63
+        ]
+      ],
+      "triangles_per_color": [
+        816
+      ],
+      "original_stl_sha256": "99f98a258b0b5e808ac0d82ad60c89955c04275ea9904c182e2d034b8fddeddd",
+      "dae_sha256": "682f47ea31ae047ebea1a210f13c2041796ecd761ca125575a794a110cbf4f0b",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_001",
+      "triangles": 2108,
+      "rgb_palette": [
+        [
+          42,
+          50,
+          63
+        ]
+      ],
+      "triangles_per_color": [
+        2108
+      ],
+      "original_stl_sha256": "0d152c423cd9c991c260eec861fc421459b87e3083720f9878d7476bc760d8ab",
+      "dae_sha256": "00a9a5d6bf5632d99972897be6aae239ee1b7a28e7616b97b59c32fe516597b0",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_002",
+      "triangles": 388,
+      "rgb_palette": [
+        [
+          31,
+          34,
+          39
+        ]
+      ],
+      "triangles_per_color": [
+        388
+      ],
+      "original_stl_sha256": "bef7db5f131d4073008baffd4823b7650e02d36b28acece7a85b13eec67b98af",
+      "dae_sha256": "af0d55d240e9590a8e37c2465d17f267002b84057d5e7a6622cbced63ceff672",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_003",
+      "triangles": 56,
+      "rgb_palette": [
+        [
+          157,
+          171,
+          187
+        ]
+      ],
+      "triangles_per_color": [
+        56
+      ],
+      "original_stl_sha256": "b7229a320d4ca511ec801310ea0ec4948124be1931b4587b5c7f3d0e277a3264",
+      "dae_sha256": "a633e49b99b0e6d00787da16c46ad80b50b64b5f53597b31754918fb86864072",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_004",
+      "triangles": 56,
+      "rgb_palette": [
+        [
+          157,
+          171,
+          187
+        ]
+      ],
+      "triangles_per_color": [
+        56
+      ],
+      "original_stl_sha256": "1cefce10fab579fe3b5020acc6572c7eb34a7378f3351bf13a2cf5c366c9ec49",
+      "dae_sha256": "404fdd2f1f04b43eecd04edae24a97929897fdc9c581cdb97d303d78c8a2cdf5",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_005",
+      "triangles": 512,
+      "rgb_palette": [
+        [
+          130,
+          144,
+          160
+        ]
+      ],
+      "triangles_per_color": [
+        512
+      ],
+      "original_stl_sha256": "2e5904414b0b9e917da803e2a57da8bc308ce5a9c7840f0bdc284a99b53d6e93",
+      "dae_sha256": "6fa34d9991a1f9a0e3071bfeb18356f52de8e8397f0318c7792221fd164ccba3",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_006",
+      "triangles": 308,
+      "rgb_palette": [
+        [
+          130,
+          144,
+          160
+        ]
+      ],
+      "triangles_per_color": [
+        308
+      ],
+      "original_stl_sha256": "82db67bd5df45b185cbb7ee7a5ea01c7853d2d5b65e013fe49ba600f40c4eee1",
+      "dae_sha256": "2b15896579498ae4f44013cd8ba8db24c9eea5cec37418815284996d99f226e6",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_007",
+      "triangles": 340,
+      "rgb_palette": [
+        [
+          193,
+          203,
+          215
+        ]
+      ],
+      "triangles_per_color": [
+        340
+      ],
+      "original_stl_sha256": "3b7176630a917a4f5774037c0be0f75248fb18eff33965659d315de7c357ab27",
+      "dae_sha256": "a76278e478c3394297a965ed72640b1a2884f5f00a03f3d23cd0553afcf96a77",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_008",
+      "triangles": 12,
+      "rgb_palette": [
+        [
+          31,
+          34,
+          38
+        ]
+      ],
+      "triangles_per_color": [
+        12
+      ],
+      "original_stl_sha256": "1dec3e8bf57851e55b8b89be25c6fb6d67de5acc59b2e32c4eae97ff89cc25b5",
+      "dae_sha256": "4347a2b780c32b8bcb00c2c2266524cd2054f35b3164a8f569a6c74ef2fb0391",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_009",
+      "triangles": 128,
+      "rgb_palette": [
+        [
+          115,
+          120,
+          128
+        ]
+      ],
+      "triangles_per_color": [
+        128
+      ],
+      "original_stl_sha256": "f2fe3c1c62135bbb20641c25de5ddb662d4c3feaa1a357a6eef7d68de6cb93f2",
+      "dae_sha256": "7ba596d4c7c27826c22324f74b2f6c5a9638798e38f50eb132a883b1956b2b79",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_010",
+      "triangles": 128,
+      "rgb_palette": [
+        [
+          115,
+          120,
+          128
+        ]
+      ],
+      "triangles_per_color": [
+        128
+      ],
+      "original_stl_sha256": "0c8baf456888900d287814378e60f3bbde8349bce4e4ae6f4711f81e2e98f8da",
+      "dae_sha256": "a07831a974128b7dafe46fdb21740d2dec520f8721d7dd15e55dc0ed53be7de1",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_011",
+      "triangles": 140,
+      "rgb_palette": [
+        [
+          65,
+          72,
+          81
+        ]
+      ],
+      "triangles_per_color": [
+        140
+      ],
+      "original_stl_sha256": "e3fdf594c45efb6d75d3a6cc24f2201c9727bd1fa9f996aee156c6ab231f546b",
+      "dae_sha256": "c7d5ee4aea83b78c17b18df67f77470f46b782c33bc69b0de371fe861f094b75",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_012",
+      "triangles": 140,
+      "rgb_palette": [
+        [
+          65,
+          72,
+          81
+        ]
+      ],
+      "triangles_per_color": [
+        140
+      ],
+      "original_stl_sha256": "8ff315591544396c450f47679d1dde2979c1e19250d7aa65456481c8fc8257fb",
+      "dae_sha256": "d85f5931abb2d4e6a4e68c3d5c9fbce240385d386c87cdd21ce0b4d5f892bce6",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_013",
+      "triangles": 512,
+      "rgb_palette": [
+        [
+          130,
+          144,
+          160
+        ]
+      ],
+      "triangles_per_color": [
+        512
+      ],
+      "original_stl_sha256": "f3037a4098a3870931690a02656532b6187d3cdca73729d1b21db4eca80685e1",
+      "dae_sha256": "0e9ed023fc3a8f9c7af08cce93abad4f1ce6ac798fbe0f634ad3d51b523e74cd",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_014",
+      "triangles": 308,
+      "rgb_palette": [
+        [
+          130,
+          144,
+          160
+        ]
+      ],
+      "triangles_per_color": [
+        308
+      ],
+      "original_stl_sha256": "c9a8ce5b3efbf088f905ea106ef3d80dc6a2849850a1a51ca4954275be4122a5",
+      "dae_sha256": "b27ab870d45dc6bed34d8e4b0029f84cbeeb09b91d9f5239e230c3bbc6fa4078",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_015",
+      "triangles": 340,
+      "rgb_palette": [
+        [
+          193,
+          203,
+          215
+        ]
+      ],
+      "triangles_per_color": [
+        340
+      ],
+      "original_stl_sha256": "1a96efd2b70bb5e0bc36bf11594cff83ec1d798f906220ed89c30e38ede7f3f3",
+      "dae_sha256": "299409aa5f255a9958336068265d9af30033c9548011a40f5bd973b046bfe968",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_016",
+      "triangles": 12,
+      "rgb_palette": [
+        [
+          31,
+          34,
+          38
+        ]
+      ],
+      "triangles_per_color": [
+        12
+      ],
+      "original_stl_sha256": "5693c2cfba1145280eea04b29788375550f1f9d0597d6a05e87fb27d5b7c5d48",
+      "dae_sha256": "3f37568632974d7ecef8547a5df8ec202e6d21d0ac4aae5a0082a99333f28958",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_017",
+      "triangles": 128,
+      "rgb_palette": [
+        [
+          115,
+          120,
+          128
+        ]
+      ],
+      "triangles_per_color": [
+        128
+      ],
+      "original_stl_sha256": "c3af80a8f8e13a1088758b2f6e88066ec4fd18299a2aa8865d18565891649129",
+      "dae_sha256": "8519a6b6f3d48288d47bbb2c249eeffdc0871bc7933539c9d7cb6a4617fb3962",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_018",
+      "triangles": 128,
+      "rgb_palette": [
+        [
+          115,
+          120,
+          128
+        ]
+      ],
+      "triangles_per_color": [
+        128
+      ],
+      "original_stl_sha256": "69b42d201b5587818f0a020dbfe0308c7fd84326ffc49e3de74b83e94060f6e8",
+      "dae_sha256": "934663db23dd0aae2aa71a451fdcac496ba56b92d605f94ac602df2405a433e1",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_019",
+      "triangles": 140,
+      "rgb_palette": [
+        [
+          65,
+          72,
+          81
+        ]
+      ],
+      "triangles_per_color": [
+        140
+      ],
+      "original_stl_sha256": "5d5a9fe550bdc24cfccc10a184f36146a69e2378121c4ae0cf12169184b8d78b",
+      "dae_sha256": "2cabea9eb61eb1a942e78c7b45ebc3823eecc9c0d335cf808e610634d232511a",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_020",
+      "triangles": 140,
+      "rgb_palette": [
+        [
+          65,
+          72,
+          81
+        ]
+      ],
+      "triangles_per_color": [
+        140
+      ],
+      "original_stl_sha256": "273d148d3e38c8dee0bd81ffa4d37b3d1aaf5884db1c2e17dd9445bbe44dcf7a",
+      "dae_sha256": "242ffeed1566671a4c30f94c563045c59fe3395cdf64899d5c6d92f60646e997",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_021",
+      "triangles": 160,
+      "rgb_palette": [
+        [
+          115,
+          120,
+          128
+        ]
+      ],
+      "triangles_per_color": [
+        160
+      ],
+      "original_stl_sha256": "62065fdf6f305f579ead371a88c7d8ac11405b383d1c418b27feadd8cbe97e00",
+      "dae_sha256": "28a932a225864cc337aae1f403c6f4dabf4f9a281d926f92f8208a992f0c2841",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_022",
+      "triangles": 160,
+      "rgb_palette": [
+        [
+          115,
+          120,
+          128
+        ]
+      ],
+      "triangles_per_color": [
+        160
+      ],
+      "original_stl_sha256": "98635ce4372a6a381d03765a65649f8f67ba79d57cfed4ddb842be8789b43340",
+      "dae_sha256": "237d106c363c8e5493185025dd25cc45c2d02da6df0c773d86414a8a79b14066",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_023",
+      "triangles": 160,
+      "rgb_palette": [
+        [
+          115,
+          120,
+          128
+        ]
+      ],
+      "triangles_per_color": [
+        160
+      ],
+      "original_stl_sha256": "54d58ba7ea6c6ce922469f2cc844f6b4a7590b3da7cf7f0b6dd820f3a1717f10",
+      "dae_sha256": "f09cc4ff655e4438a734e9433338a9b57b065973d3f962781f3f26e7452a7ed9",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_024",
+      "triangles": 160,
+      "rgb_palette": [
+        [
+          115,
+          120,
+          128
+        ]
+      ],
+      "triangles_per_color": [
+        160
+      ],
+      "original_stl_sha256": "0a43e0da00ebd972c79fc015fcd56c2233e24ea563a7746c2482bbd5376d8d8e",
+      "dae_sha256": "6c1daa7f69a1de6811e226fb67548ded47e9c75655beb7748620578a38dc366a",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_025",
+      "triangles": 116,
+      "rgb_palette": [
+        [
+          100,
+          110,
+          120
+        ]
+      ],
+      "triangles_per_color": [
+        116
+      ],
+      "original_stl_sha256": "b62233b4813b34e54ded4858ba446fc7329ea871e881070c3a395dfeab3e4502",
+      "dae_sha256": "fade38fdb885e878a0140c6bb2c59e8e7733aca4bda7f807597e63dc69edda61",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_026",
+      "triangles": 116,
+      "rgb_palette": [
+        [
+          100,
+          110,
+          120
+        ]
+      ],
+      "triangles_per_color": [
+        116
+      ],
+      "original_stl_sha256": "aa17d3ad8c0f7dabe41de9c90b82a78a4b56ba302a9b06bc96cc3c0ce2101f46",
+      "dae_sha256": "8fb188f0a2cbf542bdbacba4a4ce9affc8805b638ac54cf1641a6fcd6292709a",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_027",
+      "triangles": 116,
+      "rgb_palette": [
+        [
+          100,
+          110,
+          120
+        ]
+      ],
+      "triangles_per_color": [
+        116
+      ],
+      "original_stl_sha256": "ce0b0d47232926c80ce8612ab866c538be404222ead6071dcb281992e4475ab5",
+      "dae_sha256": "2147aa4c89fb753e56106c67a6592e3888f3cd02a21c3a56f6d0cba49bd53340",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_028",
+      "triangles": 160,
+      "rgb_palette": [
+        [
+          115,
+          120,
+          128
+        ]
+      ],
+      "triangles_per_color": [
+        160
+      ],
+      "original_stl_sha256": "2e726868569c936838bbee37db6cac2d1f0ee261db289452720489ae4226c6cb",
+      "dae_sha256": "b1a207a2c25809d217df31f2dcb026db95c423bbe07957f879eed731c20d53ba",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_029",
+      "triangles": 160,
+      "rgb_palette": [
+        [
+          115,
+          120,
+          128
+        ]
+      ],
+      "triangles_per_color": [
+        160
+      ],
+      "original_stl_sha256": "1e023bac213871d3deb0710058f8f9435859df4dbaf401e8b78338b216be17b7",
+      "dae_sha256": "5471d82cdbab7a0ebe299b9ddc770277265f3755664a2be1f33788a62e9abee8",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_030",
+      "triangles": 160,
+      "rgb_palette": [
+        [
+          115,
+          120,
+          128
+        ]
+      ],
+      "triangles_per_color": [
+        160
+      ],
+      "original_stl_sha256": "07e218939bff62ad923ed72eb6364e2bf1728385b0392723eeb6921b25ad67c0",
+      "dae_sha256": "325ce482c18d76ebb55d841aa74ca123411583afeda307b543e6aaf33282bb7b",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_031",
+      "triangles": 160,
+      "rgb_palette": [
+        [
+          115,
+          120,
+          128
+        ]
+      ],
+      "triangles_per_color": [
+        160
+      ],
+      "original_stl_sha256": "5cfd524903b90f096eb1988e20dd1333184381621099156f012d92feb247e45f",
+      "dae_sha256": "40df51d6e64a8a0faf0e0ba2877b24e542bac1fa786316b28f2621e470a3563a",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_032",
+      "triangles": 1268,
+      "rgb_palette": [
+        [
+          221,
+          164,
+          34
+        ]
+      ],
+      "triangles_per_color": [
+        1268
+      ],
+      "original_stl_sha256": "83b97783b472681709fba15986b5043bb50ede70a73de579941ec9d8b8fd4fdc",
+      "dae_sha256": "fd635caa1621579d26881e87da3665c8f2e4a89de0ca1934ed9441a8e060b444",
+      "raw_to_installed_order_check_max_error_m": 4.429254912188827e-21,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_033",
+      "triangles": 260,
+      "rgb_palette": [
+        [
+          175,
+          184,
+          196
+        ]
+      ],
+      "triangles_per_color": [
+        260
+      ],
+      "original_stl_sha256": "5f13306886120e27b79a4af576636009c4e48a90172b1c493c2f226190552028",
+      "dae_sha256": "0ce2fe6454c0815884b41d397c6b4dba0aa048fb5bfcb6f998b24bff809d34de",
+      "raw_to_installed_order_check_max_error_m": 2.7682862588225775e-20,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_034",
+      "triangles": 92,
+      "rgb_palette": [
+        [
+          80,
+          90,
+          105
+        ]
+      ],
+      "triangles_per_color": [
+        92
+      ],
+      "original_stl_sha256": "ea8d94cd4f216bda1767bb58d6258f2301babadef7a418a9623fdf9c3f6ce812",
+      "dae_sha256": "205ea1b8eaeaae5dade6e997cf3fecfef9f80343a8f823a2cc4bfcaab5eda946",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_035",
+      "triangles": 92,
+      "rgb_palette": [
+        [
+          80,
+          90,
+          105
+        ]
+      ],
+      "triangles_per_color": [
+        92
+      ],
+      "original_stl_sha256": "e898ce5efcfe3ca976ea5b8ae19a47baf77dca8c4b0e872b52a9d850fa41b41b",
+      "dae_sha256": "252ea7df68680764247f26a9db02b77dd64ecbc6cb6a7fcb55c98bc117a4063a",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_036",
+      "triangles": 116,
+      "rgb_palette": [
+        [
+          80,
+          90,
+          105
+        ]
+      ],
+      "triangles_per_color": [
+        116
+      ],
+      "original_stl_sha256": "8674421a916dd4e275b0d15838445a45fdf21462c6d9334e509d47137e0d985e",
+      "dae_sha256": "7b4517f5f3126d16ee6ae4c572a3fa83c1ab3a769856f4dc95a5151f53eb8e30",
+      "raw_to_installed_order_check_max_error_m": 7.612775821872794e-21,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_037",
+      "triangles": 116,
+      "rgb_palette": [
+        [
+          100,
+          110,
+          120
+        ]
+      ],
+      "triangles_per_color": [
+        116
+      ],
+      "original_stl_sha256": "55de84d4411de29787e448525718b2e6881821f113ddfdad7a098a7d4d1b61d9",
+      "dae_sha256": "bf7481ce81ae3aaf5eedff73f47a1b8fd8390cc5dea36dfc1763aca4ae5bf2b4",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_038",
+      "triangles": 116,
+      "rgb_palette": [
+        [
+          100,
+          110,
+          120
+        ]
+      ],
+      "triangles_per_color": [
+        116
+      ],
+      "original_stl_sha256": "f43287813d127ce1b82fd2e07c34cb55c1d6b4818b308495aab2094098750c82",
+      "dae_sha256": "b9d5f9612d78f42607d6f0d31c3a3cfb89baa0a0311841c6829b88fedd03ce1b",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_039",
+      "triangles": 116,
+      "rgb_palette": [
+        [
+          100,
+          110,
+          120
+        ]
+      ],
+      "triangles_per_color": [
+        116
+      ],
+      "original_stl_sha256": "77008f614afb16b8a5cc14a55adcbd45dfd95bba047d17584ed1906e33a95abe",
+      "dae_sha256": "3e7e7f8277e970167addff157ecca122ce780abc24bc752fd5b424aad72edef5",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_040",
+      "triangles": 116,
+      "rgb_palette": [
+        [
+          100,
+          110,
+          120
+        ]
+      ],
+      "triangles_per_color": [
+        116
+      ],
+      "original_stl_sha256": "b54810e5329874631d1565344d86aea2f1e2acf4018066433bc8a2789108de61",
+      "dae_sha256": "fb48b8465f5db9164e91340b62a8ab0d263405f0790bc9426ad5ae466a3f8675",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_041",
+      "triangles": 48,
+      "rgb_palette": [
+        [
+          95,
+          104,
+          114
+        ]
+      ],
+      "triangles_per_color": [
+        48
+      ],
+      "original_stl_sha256": "33f3b3858f41da08f195a386435797c23ddc2068066371374e110fbe1fd23eda",
+      "dae_sha256": "df7faa25a31883ec50b01bf46bb05ed5b9d7edde8ba34bb0d06843c3f257aa76",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_042",
+      "triangles": 48,
+      "rgb_palette": [
+        [
+          95,
+          104,
+          114
+        ]
+      ],
+      "triangles_per_color": [
+        48
+      ],
+      "original_stl_sha256": "ecf7f48b8147cd3f76092efda080bbb0f25d9701851a4f1335ff78c3a96ad430",
+      "dae_sha256": "c62da827301d79d7050ebe58a45fc630239ad34316c08cb984058974e2e2cb44",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_043",
+      "triangles": 48,
+      "rgb_palette": [
+        [
+          95,
+          104,
+          114
+        ]
+      ],
+      "triangles_per_color": [
+        48
+      ],
+      "original_stl_sha256": "9f4064cda057c02b754e2193ecb7dc4b81e8c72d6e75e33a7bb6aae949a07486",
+      "dae_sha256": "b7b398364c860c01696681239e761a28018c7c344c6f1e8e15a850c264dabbc0",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_044",
+      "triangles": 48,
+      "rgb_palette": [
+        [
+          95,
+          104,
+          114
+        ]
+      ],
+      "triangles_per_color": [
+        48
+      ],
+      "original_stl_sha256": "6142d9f0e751269528cd14044c6ccfa5d0f40b13d17df6402d90c3770b4793aa",
+      "dae_sha256": "907303c1b1ec7c7b97d60136c25a3c1aefb9faae0e84a78c5da796d8c04c15d6",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_045",
+      "triangles": 2160,
+      "rgb_palette": [
+        [
+          22,
+          28,
+          37
+        ],
+        [
+          231,
+          236,
+          242
+        ]
+      ],
+      "triangles_per_color": [
+        1620,
+        540
+      ],
+      "original_stl_sha256": "5c45432cdf8492a98a98cb6e2c0e6931e5fe25ebc983863094b7af593f97f7de",
+      "dae_sha256": "441d0f1a019c30f68f51dccfe1f879c14b74396c71c1ffda2150fc30113bc163",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_046",
+      "triangles": 116,
+      "rgb_palette": [
+        [
+          47,
+          52,
+          60
+        ]
+      ],
+      "triangles_per_color": [
+        116
+      ],
+      "original_stl_sha256": "1b405dc116ed935785bf14327fe23dfd04064c21a82feca93d9ce20831aed649",
+      "dae_sha256": "6d4add9ca4a44b8b3774b20208218ff5b8938bd7f8992d74dd25d3f3f6808f26",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_047",
+      "triangles": 60,
+      "rgb_palette": [
+        [
+          97,
+          105,
+          117
+        ]
+      ],
+      "triangles_per_color": [
+        60
+      ],
+      "original_stl_sha256": "36354df176aaf88edd9246f425d06e6108a03f7518cf5e26e866e40206f24e20",
+      "dae_sha256": "b8a471c9b862f1c83b9ff2119678230fae5af106d5e1f55b48c6aa0184cda554",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_048",
+      "triangles": 116,
+      "rgb_palette": [
+        [
+          47,
+          52,
+          60
+        ]
+      ],
+      "triangles_per_color": [
+        116
+      ],
+      "original_stl_sha256": "8f7220f40fa82754e0c623f0bde3f6e382ac8d36b27ee743f318dc78dd506e94",
+      "dae_sha256": "e938333d62a4ce51697416909219fb09b3e766d45f5d68f19108683aa142323f",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_049",
+      "triangles": 60,
+      "rgb_palette": [
+        [
+          97,
+          105,
+          117
+        ]
+      ],
+      "triangles_per_color": [
+        60
+      ],
+      "original_stl_sha256": "917b34a4e46aa2549e63c825d66a573a048b70d9be83681a6b4906f54f4b5b21",
+      "dae_sha256": "a2da7c1df439d1203202bd0add69adf262afb69dda8b13f6ed78f78b2a2f5390",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_050",
+      "triangles": 116,
+      "rgb_palette": [
+        [
+          47,
+          52,
+          60
+        ]
+      ],
+      "triangles_per_color": [
+        116
+      ],
+      "original_stl_sha256": "9a5120aea956f93ec4da62a50e78fcd9d3c3c3ed373c1f926cad7c76eccae0bc",
+      "dae_sha256": "40134dbc8ce347c57b717de17c04d31d9eb4746e53dcfde30335fb7e56d0d55b",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_051",
+      "triangles": 60,
+      "rgb_palette": [
+        [
+          97,
+          105,
+          117
+        ]
+      ],
+      "triangles_per_color": [
+        60
+      ],
+      "original_stl_sha256": "409e2baa08b9aa95bdfe8d9cb35a1ccfaa9cda895fa61c60ff5592b5dd6eb547",
+      "dae_sha256": "0e467ec9d4c6a9b83528c68274e731c97b387649408b5631e8b6fa9e558e7dc7",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_052",
+      "triangles": 116,
+      "rgb_palette": [
+        [
+          47,
+          52,
+          60
+        ]
+      ],
+      "triangles_per_color": [
+        116
+      ],
+      "original_stl_sha256": "7aba0709dff7810971c70693c5b6c5d04fd70e5601ea1f1cfcb1112d6353bba8",
+      "dae_sha256": "340337b41162fd791196dd056fdb6f476f1b49dccf10ae690b79b08e2e6294ef",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    },
+    {
+      "mesh": "part_053",
+      "triangles": 60,
+      "rgb_palette": [
+        [
+          97,
+          105,
+          117
+        ]
+      ],
+      "triangles_per_color": [
+        60
+      ],
+      "original_stl_sha256": "7eac7b671b3b4cef3a52b0559c44303a7d0606699616dcba3a1ee57f7ce2bfdc",
+      "dae_sha256": "7f713ff05f2ab9a32f97f65bc4b238440decf9af947a438c0efff1bc0d5d9222",
+      "raw_to_installed_order_check_max_error_m": 0.0,
+      "dae_readback_geometry_and_rgb": "PASS: exact float32 triangles and RGB per face, pycollada reader"
+    }
+  ],
+  "unique_rgb_colors": [
+    [
+      22,
+      28,
+      37
+    ],
+    [
+      31,
+      34,
+      38
+    ],
+    [
+      31,
+      34,
+      39
+    ],
+    [
+      42,
+      50,
+      63
+    ],
+    [
+      47,
+      52,
+      60
+    ],
+    [
+      65,
+      72,
+      81
+    ],
+    [
+      80,
+      90,
+      105
+    ],
+    [
+      95,
+      104,
+      114
+    ],
+    [
+      97,
+      105,
+      117
+    ],
+    [
+      100,
+      110,
+      120
+    ],
+    [
+      115,
+      120,
+      128
+    ],
+    [
+      130,
+      144,
+      160
+    ],
+    [
+      157,
+      171,
+      187
+    ],
+    [
+      175,
+      184,
+      196
+    ],
+    [
+      193,
+      203,
+      215
+    ],
+    [
+      221,
+      164,
+      34
+    ],
+    [
+      231,
+      236,
+      242
+    ]
+  ],
+  "all_nonvisual_urdf_elements_identical": true,
+  "all_original_stls_identical": true,
+  "launch_scripts_controllers_cmake_identical": true,
+  "cad_native_files_hashes_unchanged": true,
+  "dae_textures_external_dependencies": 0
+}
